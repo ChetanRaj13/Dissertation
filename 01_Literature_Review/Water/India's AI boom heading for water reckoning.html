@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>India's AI Boom Heading For A Water Reckoning: EIA & Regulatory Blind-Spots</title>
+<style>
+  @page {
+    size: A4;
+    margin: 22mm 18mm 22mm 18mm;
+  }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Georgia, serif;
+    font-size: 10.5pt;
+    line-height: 1.6;
+    color: #1a1a1a;
+    margin: 0;
+    padding: 0;
+  }
+  .meta-tag {
+    font-size: 8.5pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    color: #c01f00;
+    border-bottom: 2px solid #1a1a1a;
+    padding-bottom: 6px;
+    margin-bottom: 16px;
+  }
+  h1 {
+    font-size: 19pt;
+    font-weight: 800;
+    line-height: 1.25;
+    margin-top: 0;
+    margin-bottom: 12px;
+    color: #111;
+  }
+  .byline {
+    font-size: 9.5pt;
+    color: #555;
+    margin-bottom: 18px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  .source-url {
+    font-family: monospace;
+    font-size: 8.5pt;
+    color: #0366d6;
+    margin-bottom: 22px;
+    word-break: break-all;
+  }
+  p {
+    margin-top: 0;
+    margin-bottom: 12px;
+    text-align: justify;
+  }
+</style>
+</head>
+<body>
+<div class="meta-tag">LiveLaw (Legal Research & Judicial Analysis) · 2025</div>
+<h1>India's AI Boom Heading For A Water Reckoning: EIA & Regulatory Blind-Spots</h1>
+<div class="byline">Published by <strong>LiveLaw Environmental Law Analysis</strong> | 2025</div>
+<div class="source-url">Source: https://www.livelaw.in/articles/india-ai-boom-heading-water-reckoning-545162</div>
+<div class="article-content">
+<p>var hasInitedTheCopy=false;
+window.initCopyLink = window.initCopyLink || function(){
+
+    if(hasInitedTheCopy){
+        return;
+    }
+    hasInitedTheCopy=true;
+    $("body").on("click",".link",function(){
+        copyLink($(this)[0]);
+        
+        Utils.showModalForView();
+        var style = ".modal_wrapper_frame{overflow:auto;}#modal-content .view-content{background:#f2f2f2 !important;padding:20px!important;text-align:center!important;} .copy-message  {font-size:20px;} #modal-content{background: transparent!important;border: 0px!important;}";
+        var html = "Link copied";
+        
+        var styleElement = document.createElement("style");
+        styleElement.innerHTML = style;
+        document.head.appendChild(styleElement);
+        
+        var viewContent = document.querySelector("#modal-content .view-content");
+        viewContent.style.background = "#f2f2f2";
+        viewContent.style.padding = "20px";
+        viewContent.style.textAlign = "center";
+        
+        var copyMessage = document.createElement("div");
+        copyMessage.className = "copy-message";
+        copyMessage.style.fontSize = "20px";
+        copyMessage.innerHTML = "Link copied";
+        viewContent.appendChild(copyMessage);
+        
+        setTimeout(function () {
+            var modalWrapperFrame = document.querySelector(".modal_wrapper_frame");
+            if (modalWrapperFrame) {
+                modalWrapperFrame.style.display = "none";
+            }
+        }, 2000);
+        
+    });
+    initFontResize();
+}
+document.addEventListener("RESOURCES_LOADED", function(e) {
+    window.initCopyLink();
+});
+if(window.themeResourceLoaded){
+    window.initCopyLink();
+}
+//- document.getElementsByClassName("link")[0].addEventListener('click',copyLink);
+var isCopying=false;
+function copyLink(elem){
+    if(isCopying){
+        return;
+    }
+    isCopying = true;
+    setTimeout(function(){isCopying=false;},1000);
+    var value = decodeURIComponent(elem.querySelectorAll(".forcopy")[0].getAttribute('data-content'));
+    window.isCustomCopyHandler=true;
+    elem.classList.add("active");
+    console.log(value);
+    //- it does not work when window.isSecureContext= false , that's why won't work on local or on staging site,
+    //-  but it will work on production
+    if (!navigator.clipboard) {
+        var aux = document.getElementById("copyTextInput");
+        console.log('Copying to clipboard is about to start!')
+        // Avoid scrolling to bottom
+        aux.value = value;
+        aux.focus();
+        aux.select();
+        document.execCommand("copy");
+    } else {
+        navigator.clipboard.writeText(value).then(function() {
+        console.log('Async: Copying to clipboard was successful!');
+    }, function(err) {
+        console.error('Async: Could not copy text: ', err);
+    });
+    }
+    
+    setTimeout(function(){window.isCustomCopyHandler=false;},1000);
+}
+function initFontResize(){
+    if(!$(".details-content-story").length){
+        return;
+    }
+    var originalFontSize = parseInt(window.getComputedStyle(document.querySelector('.details-content-story p')).fontSize);
+    var currentFontSize = originalFontSize; // Initialize the current font size
+    
+    // Function to update font size for all paragraphs inside .details-content-story
+    function updateFontSize(size) {
+        var paragraphs = document.querySelectorAll('.details-content-story p');
+        paragraphs.forEach(function (p) {
+            p.style.fontSize = size + 'px'; // Apply the new font size
+        });
+    }
+    
+    // When Increase button is clicked (using class-based selector)
+    $('.btn-increase').click(function(e){
+        currentFontSize += 2; // Increase the font size by 2px (adjust as needed)
+        updateFontSize(currentFontSize); // Apply the updated font size to all  tags
+    });
+    
+    // When Reset button is clicked (using class-based selector)
+    $('.btn-orign').click(function(e){
+        currentFontSize = originalFontSize; // Reset to the original font size
+        updateFontSize(originalFontSize); // Apply the original font size to all  tags
+    });
+    
+    // When Decrease button is clicked (using class-based selector)
+    $('.btn-decrease').click(function(e){
+        currentFontSize -= 2; // Decrease the font size by 2px (adjust as needed)
+        updateFontSize(currentFontSize); // Apply the updated font size to all  tags
+    });
+}
+
+
+/* Text setting buttons */
+
+.text-setting {
+    border: 1px solid #ddd;
+    padding: 5px;
+    display: table;
+    margin-top: 5px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    border-radius: 100px;
+}
+.text-setting a {
+    width: 26px;
+    height: 26px;
+    display: table;
+    background: none;
+    text-align: center;
+    line-height: 38px;
+    font-size: 18px;
+    font-weight: 700;
+    position: relative;
+    color: #333;
+    text-decoration: none;
+    border-top: 1px solid #ddd;
+}
+.text-setting a:nth-child(1) {
+    border-top: 0;
+}
+@media (max-width:700px){
+    span.text-setting{
+        display: inline-flex;
+        padding: 8px 24px;
+        gap: 1rem;
+    }
+    span.text-setting a {
+        background: #fff;
+        padding: 18px 20px;
+        display: inline-flex;
+        border-radius: 39px;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+/* link copied popup */
+#modal-content{
+    height: fit-content;
+}
+
+.modal_wrapper_frame #modal-content .view-content{
+    text-align: center;
+}
+.modal_wrapper_frame #modal-content .view-content h3{
+    margin-top: 10px;
+}
+/* end */
+.link.active a{
+    background:#ccc !important;
+}
+.ind-social-li{cursor:pointer;}
+
+.inline .ind-social-cover .ind-social-ul .ind-social-li{
+    display:inline-block;
+}
+.ind-social-cover{
+    position: relative;
+}
+.ind-social-cover .ind-social-ul{
+    padding:0px;
+    top:0px;
+}
+
+/*====for-vertical-and-horizontal-start======*/
+
+.ind-social-cover .ind-social-ul.ind-horizontal .ind-social-li{
+    display: inline-block;
+    margin-right: 7px;
+    min-width: 55px;
+}
+
+.ind-social-cover .ind-social-ul.ind-vertical .ind-social-li{
+    display: block;
+    margin-right: 7px;
+    min-width: 55px;
+}
+
+/*====for-vertical-and-horizontal-end======*/
+
+.ind-social-cover .ind-social-ul .ind-social-li{
+    list-style-type: none;
+    text-align: center;
+}
+
+.ind-social-cover .ind-social-ul .ind-social-li{
+    margin-bottom: 7px;
+}
+
+.ind-social-cover .ind-social-ul .ind-social-li .ind-social-click{
+    text-decoration: none;
+    display: inline-block;
+    width:40px;
+    height:40px;
+    background-color: #e7e8e9;
+    position: relative;
+    border-radius: 50%;
+    border:1px solid #e7e8e9;
+    overflow: hidden;
+}
+.small .ind-social-cover .ind-social-ul .ind-social-li .ind-social-click{
+    width:30px;
+    height:30px;
+}
+/*=====for-size-change-start=====*/
+
+.small .ind-social-cover .ind-social-ul .ind-social-li .ind-social-click{
+    width:30px;
+    height:30px;
+}
+.small .ind-social-cover .ind-social-ul .ind-social-li .ind-social-click svg{
+    width:15px;
+    height:15px;
+}
+
+.ind-social-cover .ind-social-ul.ind-large .ind-social-li .ind-social-click{
+    width:50px;
+    height:50px;
+}
+.ind-social-cover .ind-social-ul.ind-large .ind-social-li .ind-social-click svg{
+    width:20px;
+    height:20px;
+}
+
+/*=====for-size-change-end=====*/
+
+.ind-social-cover .ind-social-ul .ind-social-li .ind-social-click svg{
+    position: absolute;
+    left:50%;
+    top:50%;
+    transform:translate(-50%, -50%);
+    width:18px;
+    height: 18px;
+}
+
+.ind-social-cover .ind-social-ul.s-hide{
+    display: none;
+}
+.ind-social-cover .ind-social-ul.dark-mode,.ind-social-cover .ind-social-ul.color-mode{
+    display:none;
+}
+.dark .ind-social-cover .ind-social-ul.dark-mode{
+    display:inline-block;
+}
+.dark .ind-social-cover .ind-social-ul.color-mode,.dark .ind-social-cover .ind-social-ul.light-mode{
+    display:none;
+}
+.color .ind-social-cover .ind-social-ul.color-mode{
+    display:inline-block;
+}
+.color .ind-social-cover .ind-social-ul.dark-mode,.color .ind-social-cover .ind-social-ul.light-mode{
+    display:none;
+}
+
+.light .ind-social-cover .ind-social-ul.light-mode{
+    display:inline-block;
+}
+.light .ind-social-cover .ind-social-ul.dark-mode,.light .ind-social-cover .ind-social-ul.color-mode{
+    display:none;
+}
+.ind-social-cover .ind-social-ul .ind-social-li .ind-social-click.ind-fb-bg{
+    background-color: #3b5998;
+}
+.ind-social-cover .ind-social-ul .ind-social-li .ind-social-click.ind-twt-bg{
+    background-color: #000000;
+}
+.ind-social-cover .ind-social-ul .ind-social-li .ind-social-click.ind-whatsapp-bg{
+    background-color: #25d366;
+}
+.ind-social-cover .ind-social-ul .ind-social-li .ind-social-click.ind-tele-bg{
+    background-color: #0088cc;
+}
+.ind-social-cover .ind-social-ul .ind-social-li .ind-social-click.ind-linked-bg{
+    background-color: #0e76a8;
+}
+.ind-social-cover .ind-social-ul .ind-social-li .ind-social-click.ind-mail-bg{
+    background-color: #ccaa5a;
+}
+.ind-social-cover .ind-social-ul .ind-social-li .ind-social-click.ind-print-bg{
+    background-color: #13c5c5;
+}
+
+.ind-s-lable{
+    font-size: 12px;
+    display: none;
+}
+.dark{
+    background-color: #000;
+}
+.dark .ind-s-lable{
+    color:#fff;
+}
+.hide-social-label .ind-s-lable{
+    display:none;
+}
+.small-social-icons .ind-social-cover .ind-social-ul .ind-social-li{
+    min-width:40px;
+    margin-right: 0px;
+}
+.small-social-icons .ind-social-cover .ind-social-ul .ind-social-li .ind-social-click svg{
+    width: 15px;
+    height: 15px;
+}
+.ind-social-cover .ind-social-ul{
+    width:100%;
+    text-align:center;
+}
+.small-social-icons .ind-social-cover .ind-social-ul .ind-social-li .ind-social-click{
+    width: 30px;
+    height: 30px;
+}
+.ind-social-cover .ind-social-ul .ind-social-li .ind-social-click.bg-none{
+    background: transparent;
+}
+
+.ind-social-cover .ind-social-ul.ind-horizontal .ind-s-lable{
+    display: block;
+}
+
+.ind-social-cover .ind-social-ul.ind-vertical .ind-s-lable{
+    display: block;
+}
+
+.ind-social-ul.ind-override .ind-social-li .ind-social-click{
+    border: 1px solid #000;
+}
+
+.dark .ind-social-ul.ind-override .ind-social-li .ind-social-click{
+    border: 1px solid #fff;
+}
+
+@media (max-width:1024px){
+    .ind-social-cover .ind-social-ul.ind-horizontal{
+        position: static;
+    }
+    
+    .ind-social-cover .ind-social-ul.ind-vertical{
+        position: absolute;
+        left: 0px;
+    }
+    .ind-social-cover .ind-social-ul{
+        position: static;
+    }
+    .ind-social-cover .ind-social-ul .ind-social-li{
+        display: inline-block;
+        margin-right: 7px;
+        min-width: 55px;
+    }
+    .ind-social-cover .ind-social-ul.ind-horizontal .ind-social-li{
+        display: inline-block;
+        margin-right: 7px;
+        min-width: 55px;
+    }
+    .ind-social-cover .ind-social-ul.ind-vertical .ind-social-li{
+        display: block;
+        margin-right: 7px;
+        min-width: 55px;
+    }
+    .ind-s-lable{
+        display: block;
+    }
+    .ind-social-cover .ind-social-ul.ind-horizontal .ind-s-lable{
+        display: block;
+    }
+    .ind-social-cover .ind-social-ul.ind-vertical .ind-s-lable{
+        display: block;
+    }
+    
+    /*=====for-size-change-on-mobile======*/
+    
+    .ind-social-cover .ind-social-ul.ind-large .ind-social-li .ind-social-click{
+        width:30px;
+        height:30px;
+    }
+    .ind-social-cover .ind-social-ul.ind-large .ind-social-li .ind-social-click svg{
+        width:16px;
+        height:16px;
+    }
+}
+
+.dark .ind-override.ind-social-ul svg path{
+    fill: #fff;
+}
+
+.ind-social-cover .ind-social-ul.ind-horizontal{
+    position: static;
+}
+
+.ind-social-cover .ind-social-ul.ind-vertical{
+    position: absolute;
+}
+
+@media (max-width: 640px){
+    .ind-social-cover .ind-social-ul .ind-social-li .ind-social-click{
+        width: 30px;
+        height: 30px;
+        margin-top:5px;
+    }
+    .ind-social-cover .ind-social-ul .ind-social-li{
+        margin-right: 0px;
+        min-width: 40px;
+    }
+    .ind-s-lable{
+        display: none;
+    }
+    .author-date-space-bar{
+        display: none;
+    }
+    .date-on-article{
+        display: block;
+    }
+}
+.social-sticky a{
+    margin-bottom:0;
+}
+.koo a svg{
+    height:30px !important;
+    width:30px !important;
+}
+.ind-social-cover .ind-social-ul .ind-social-li .ind-social-click.ind-koo-bg{
+    background-color:#fbd051;
+}
+@media print {
+  .h-share-top-parent-wrap,.ind-social-wrapper{
+    display: none;
+  }
+}      var hasInitedTheCopy=false;
+window.initCopyLink = window.initCopyLink || function(){
+
+    if(hasInitedTheCopy){
+        return;
+    }
+    hasInitedTheCopy=true;
+    $("body").on("click",".link",function(){
+        copyLink($(this)[0]);
+        
+        Utils.showModalForView();
+        var style = ".modal_wrapper_frame{overflow:auto;}#modal-content .view-content{background:#f2f2f2 !important;padding:20px!important;text-align:center!important;} .copy-message  {font-size:20px;} #modal-content{background: transparent!important;border: 0px!important;}";
+        var html = "Link copied";
+        
+        var styleElement = document.createElement("style");
+        styleElement.innerHTML = style;
+        document.head.appendChild(styleElement);
+        
+        var viewContent = document.querySelector("#modal-content .view-content");
+        viewContent.style.background = "#f2f2f2";
+        viewContent.style.padding = "20px";
+        viewContent.style.textAlign = "center";
+        
+        var copyMessage = document.createElement("div");
+        copyMessage.className = "copy-message";
+        copyMessage.style.fontSize = "20px";
+        copyMessage.innerHTML = "Link copied";
+        viewContent.appendChild(copyMessage);
+        
+        setTimeout(function () {
+            var modalWrapperFrame = document.querySelector(".modal_wrapper_frame");
+            if (modalWrapperFrame) {
+                modalWrapperFrame.style.display = "none";
+            }
+        }, 2000);
+        
+    });
+    initFontResize();
+}
+document.addEventListener("RESOURCES_LOADED", function(e) {
+    window.initCopyLink();
+});
+if(window.themeResourceLoaded){
+    window.initCopyLink();
+}
+//- document.getElementsByClassName("link")[0].addEventListener('click',copyLink);
+var isCopying=false;
+function copyLink(elem){
+    if(isCopying){
+        return;
+    }
+    isCopying = true;
+    setTimeout(function(){isCopying=false;},1000);
+    var value = decodeURIComponent(elem.querySelectorAll(".forcopy")[0].getAttribute('data-content'));
+    window.isCustomCopyHandler=true;
+    elem.classList.add("active");
+    console.log(value);
+    //- it does not work when window.isSecureContext= false , that's why won't work on local or on staging site,
+    //-  but it will work on production
+    if (!navigator.clipboard) {
+        var aux = document.getElementById("copyTextInput");
+        console.log('Copying to clipboard is about to start!')
+        // Avoid scrolling to bottom
+        aux.value = value;
+        aux.focus();
+        aux.select();
+        document.execCommand("copy");
+    } else {
+        navigator.clipboard.writeText(value).then(function() {
+        console.log('Async: Copying to clipboard was successful!');
+    }, function(err) {
+        console.error('Async: Could not copy text: ', err);
+    });
+    }
+    
+    setTimeout(function(){window.isCustomCopyHandler=false;},1000);
+}
+function initFontResize(){
+    if(!$(".details-content-story").length){
+        return;
+    }
+    var originalFontSize = parseInt(window.getComputedStyle(document.querySelector('.details-content-story p')).fontSize);
+    var currentFontSize = originalFontSize; // Initialize the current font size
+    
+    // Function to update font size for all paragraphs inside .details-content-story
+    function updateFontSize(size) {
+        var paragraphs = document.querySelectorAll('.details-content-story p');
+        paragraphs.forEach(function (p) {
+            p.style.fontSize = size + 'px'; // Apply the new font size
+        });
+    }
+    
+    // When Increase button is clicked (using class-based selector)
+    $('.btn-increase').click(function(e){
+        currentFontSize += 2; // Increase the font size by 2px (adjust as needed)
+        updateFontSize(currentFontSize); // Apply the updated font size to all  tags
+    });
+    
+    // When Reset button is clicked (using class-based selector)
+    $('.btn-orign').click(function(e){
+        currentFontSize = originalFontSize; // Reset to the original font size
+        updateFontSize(originalFontSize); // Apply the original font size to all  tags
+    });
+    
+    // When Decrease button is clicked (using class-based selector)
+    $('.btn-decrease').click(function(e){
+        currentFontSize -= 2; // Decrease the font size by 2px (adjust as needed)
+        updateFontSize(currentFontSize); // Apply the updated font size to all  tags
+    });
+}
+
+
+Listen to this Article   The country wants to be the back-end of the global AI economy. Its water tables may not survive the ambition, and its law has little to say about the danger.</p>
+<p>Artificial intelligence lives in the cloud, but the cloud must be cooled on land. Increasingly, that land is water-stressed India.</p>
+<p>In December 2025 Satya Nadella, Microsoft's chief executive, stood beside Prime Minister Narendra Modi to pledge $17.5 billion for data centers across India, its largest in Asia. Google had already promised $15 billion for a gigawatt-scale campus near Visakhapatnam, built with India's Adani group, and a day later Amazon raised its own India commitment by a further $35 billion. To seal the welcome, the 2026-27 union budget handed foreign cloud firms a tax holiday running to 2047. New Delhi's message could not be plainer: India is open, ambitious and ready to be the world's digital backbone.</p>
+<p>What the announcements seldom mention is water.</p>
+<p>A 2026 white paper from the Council on Energy, Environment and Water, a Delhi think tank, reckons India's data centers drank roughly 150 billion liters in 2025, a figure set to more than double by 2030 alongside the sector's electricity use. A single 100-megawatt hyperscale facility can swallow up to 2 million liters a day. Set against a water emergency that NITI Aayog, the government's own policy commission, has called the worst in the country's history, with nearly 600 million people under high to extreme stress and demand poised to be twice supply by 2030, this is no footnote. It is a structural collision.</p>
+<p>The problem begins with physics. Servers run hot; cool them poorly and they fail. The dominant fix, evaporative cooling, sheds that heat into the air as vapor, water that never returns to the local watershed. The AI boom makes this worse: the chips that train large language models run far hotter than ordinary cloud hardware, so AI data centers are not just more numerous than their predecessors but thirstier per square meter. Water use climbs faster than capacity.</p>
+<p>One point is routinely elided: data centers do not, in fact, need fresh water. Their cooling systems need water of controlled quality, not drinking water as such. Treated effluent will serve, and closed-loop systems that seal the coolant circuit use a fraction of what open towers consume. The alternatives exist; the incentive to use them does not. Absent any regulatory steer, operators reach for the cheapest reliable source, municipal supply or, where the mains fail, groundwater, because recycled-water infrastructure is patchy and retrofits dear. The default is fresh water, and the choice of default is a choice of policy.</p>
+<p>Geography is the cruelest part. Data centers cluster where the power, subsea cables, talent and customers are: Mumbai, Chennai, Hyderabad, Bengaluru and the Delhi capital region. Those are precisely the places running short of water. Planet Tracker, a London research outfit, counts 50 Indian facilities already in “extremely high” water-stress zones, WRI India finds more than half of national capacity in stressed regions, and S&P Global expects 60% to 80% of Indian data centers to face high water stress this decade.</p>
+<p>None of this is hypothetical. In 2024 Bengaluru, India's technology capital, endured its worst water crisis in living memory. Visakhapatnam, where Google and Adani are raising their gigawatt campus, holds the lowest groundwater reserves in Andhra Pradesh state. Yet in April 2026 the state's environmental authority cleared two data-center parks there, of 1,000 and 697 megawatts, within days of the applications and without a public hearing. Its own minutes record an appraisal for solid, liquid and air pollution alone; operational water use went undisclosed. Scientists and the Human Rights Forum, an advocacy group, have since asked the regulator to suspend and review the approvals.</p>
+<p>India has built an elaborate machinery for attracting data centers and almost none for governing their thirst. Half a dozen states dangle stamp-duty waivers, power subsidies and single-window clearances, and Tamil Nadu's policy even lists guaranteed water supply as a perk. What is missing is any binding rule on how much water is drawn, or whence. There is no sector-specific water-impact assessment, no mandatory disclosure of withdrawals by source against which anyone might test a sustainability claim, no bar on extraction in blocks the Central Ground Water Authority has already declared overexploited, and no default duty to use treated wastewater where it exists. Of 15 state data-center policies, only five mention sustainability at all, and the language is aspiration, not obligation.</p>
+<p>The instrument that might have filled the gap has been neutered. Under India's 2006 environmental-impact rules, data centers are typically waved through as “building and construction,” a category that requires neither a public hearing nor a full impact study. The Water Act of 1974 and the Environment (Protection) Act of 1986 were not written for the hydrological footprint of dense computing, and have not been amended to fit it. The legal toolbox is not empty; none of the tools has been pointed at this problem. Nor can the silence outrun a constitutional question. India's Supreme Court has read a right to water into the right to life, and the doctrines of public trust and intergenerational equity forbid the state from alienating common water for private gain without justification or safeguards. When a district's driest block acquires a gigawatt data center, approved in days and without consultation, the question is no longer administrative. It is whose fundamental rights are weighed against whose commercial interest, and who decided, and how.</p>
+<p>India is not the first country to face this. Singapore, the Netherlands and Ireland each froze new data-center development as the strain on power, land and water mounted. When Ireland lifted its de facto moratorium in late 2025, it swapped prohibition for a condition: large new facilities must bring their own dispatchable power and feed the grid when asked. The principle, that those who benefit from a shared resource should help sustain it, transfers directly to water.</p>
+<p>Big Tech's own promises are revealing. Google has pledged to be “water-positive” by 2030, backing $500 million of water infrastructure and 165 replenishment projects across 97 watersheds, while Microsoft has unveiled a closed-loop design that all but eliminates evaporative cooling, saving some 125 million liters a year per site. These are real commitments, made precisely where investor scrutiny, disclosure rules and local anger compel them. In India, where none of those forces yet binds for water, the incentives point the other way.</p>
+<p>The case here is not against investment. India needs the computing power and sovereign data infrastructure these campuses bring, which underpin its public services, financial inclusion and health platforms. The case is that investment without governance is a wager placed with a public resource: the water that households, farmers and the unborn will also need.</p>
+<p>A coherent framework is within reach without a single new statute; it needs political will, not parliamentary time. The essentials are plain: a dedicated impact-assessment category for large data centers, with a mandatory water audit, public consultation and enforceable sourcing conditions; annual disclosure of consumption by source, which the market regulator's sustainability-reporting regime could readily absorb; a ban on fresh groundwater in critical blocks; treated wastewater as the default where supply allows; siting guidance keyed to water stress; and closed-loop cooling required rather than suggested for hyperscale. None of this tells the hyperscalers they are unwelcome. It tells them, in advance, the terms of welcome.</p>
+<p>Economists have a phrase for what is otherwise at stake: the hidden subsidy. When a hyperscale campus draws on a municipal system in a city that rations water each summer, the true cost, the household left dry and the farmer chasing a falling aquifer, never enters the operator's accounts. It is borne by the commons, and by those without the standing or means to object. India ranks 120th of 122 countries for water quality, some 200,000 of its citizens die each year for want of safe water, and its total demand is set to double its supply in the very decade its data centers double theirs. To build the AI economy on those terms is not a neutral transaction. It is a choice, made by the state in the name of development, about whose claim on a scarce resource comes first.</p>
+<p>India should build the infrastructure its future demands. But it should build in the open knowledge that fresh water is not a subsidy to be quietly folded into the cost base of the digital economy. The window for governing well is still ajar, and the siting decisions taken now will set the water footprint of Indian AI for 20 years. Governing them is not an obstacle to that future. It is the condition of its lasting at all.</p>
+<p>Author Uday Singh Cheema is an Advocate practicing at Punjab and Haryana High Court & Dharminder Singh Kaleka serves as Advisor for Strategy at Closed Door Policy Consulting. Views are personal.</p>
+</div>
+</body>
+</html>

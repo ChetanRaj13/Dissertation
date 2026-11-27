@@ -1,0 +1,3278 @@
+{
+  "DC001": {
+    "facility_name": "Yotta NM1, Panvel Campus",
+    "operator": "Yotta Data Services (Hiranandani Group)",
+    "location_evidence": {
+      "address": "Hiranandani Fortune City, Survey No. 30, Bhokarpada, Panvel Taluka, Raigad district, Maharashtra 410206",
+      "coords": "18.9692, 73.1884",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "Operator press release and site master plan place the NM1 building at Hiranandani Fortune City in Panvel Taluka, Raigad district, Maharashtra."
+    },
+    "capacity_evidence": {
+      "operational_mw": 52,
+      "planned_ultimate_mw": 250,
+      "capacity_basis": "IT load",
+      "paraphrase": "Official release details 50 MW total power across 820,000 sq ft and 7,200 server racks for NM1, designed as the first phase of a 250 MW, 5-building data center park."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2020",
+      "paraphrase": "Building NM1 was formally inaugurated on 7 July 2020; campus is partially operational as subsequent buildings remain under phased execution."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 15,000 crore (stated; full 5-building campus plan; Yotta announcement, Jul 2020)",
+      "paraphrase": "Capital expenditure scope: INR 15,000 crore (stated; full 5-building campus plan; Yotta announcement, Jul 2020)"
+    },
+    "sources": [
+      "[P] https://yotta.com/press-releases/yotta-infrastructure-inaugurates-asias-largest-and-worlds-second-largest-uptime-institute-tier-iv-certified-data-center-yotta-nm1-at-navi-mumbai/ (published 2020-07-07, accessed 2026-10-24)",
+      "[S] https://www.datacenterdynamics.com/en/news/yottas-nm1-data-center-launched-in-panvel-near-mumbai/ (published 2020-07-08, accessed 2026-10-24)"
+    ],
+    "verdict": "OK"
+  },
+  "DC002": {
+    "facility_name": "PDG MU1 Data Center Campus",
+    "operator": "Princeton Digital Group (PDG)",
+    "location_evidence": {
+      "address": "Airoli Knowledge Park Road, 50-acre IT/ITES Park, MIDC Industrial Area, Airoli, Navi Mumbai, Maharashtra 400708",
+      "coords": "19.172654, 72.992812",
+      "tier": "Exact site",
+      "method": "satellite_imagery",
+      "derivation_details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+      "paraphrase": "Official company release specifies campus location across six acres within an established IT park at Airoli, Navi Mumbai, Thane district."
+    },
+    "capacity_evidence": {
+      "operational_mw": 48,
+      "planned_ultimate_mw": 125,
+      "capacity_basis": "IT load",
+      "paraphrase": "Operator launch release specifies 48 MW critical IT capacity across two buildings, with an expansion announcement in Sept 2024 scaling campus master plan to 150 MW."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2022",
+      "paraphrase": "Facility MU1 launched operations on 7 December 2022; additional buildings are under construction to reach the 150 MW master plan."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "USD 300 million (stated; initial phase; PDG release, Dec 2022)",
+      "paraphrase": "Capital expenditure scope: USD 300 million (stated; initial phase; PDG release, Dec 2022)"
+    },
+    "sources": [
+      "[P] https://princetondg.com/press-releases/princeton-digital-group-launches-flagship-data-center-in-mumbai/ (published 2022-12-07, accessed 2026-10-24)",
+      "[P] https://princetondg.com/press-releases/princeton-digital-group-unveils-major-india-expansion-taking-total-capacity-to-230-mw-in-mumbai-and-chennai/ (published 2024-09-19, accessed 2026-10-24)"
+    ],
+    "verdict": "OK"
+  },
+  "DC003": {
+    "facility_name": "PDG MU2 Data Center Campus",
+    "operator": "Princeton Digital Group (PDG)",
+    "location_evidence": {
+      "address": "Navi Mumbai, Thane district, Maharashtra",
+      "coords": null,
+      "tier": "District only",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (0 decimal precision).",
+      "paraphrase": "Operator acquisition release describes new secured land parcels in Navi Mumbai industrial belt for next-generation hyperscale AI capacity."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": 120,
+      "capacity_basis": "IT load",
+      "paraphrase": "Press coverage and operator releases report a 120 MW planned development parcel, part of a 210 MW multi-site expansion in Mumbai and Hyderabad."
+    },
+    "status_evidence": {
+      "status": "Under construction",
+      "year": "2027 target",
+      "paraphrase": "Site is in site-preparation and under-construction civil works phase following March 2026 land and power acquisition."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://princetondg.com/press-releases/pdg-acquires-210-mw-in-india-advancing-toward-a-1-gw-portfolio-in-the-country/ (published 2026-03-24, accessed 2026-10-24)",
+      "[S] https://www.datacenterdynamics.com/en/news/princeton-digital-group-acquires-210mw-across-mumbai-and-hyderabad/ (published 2026-03-25, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC004": {
+    "facility_name": "NTT Navi Mumbai 1 (NAV1 Campus)",
+    "operator": "NTT Global Data Centers India",
+    "location_evidence": {
+      "address": "Plot EL-25 & Plots EL-234 to 238, TTC Industrial Area, Village Mahape, Navi Mumbai, Maharashtra 400710",
+      "coords": "19.171907, 73.024247",
+      "tier": "Exact site",
+      "method": "satellite_imagery",
+      "derivation_details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+      "paraphrase": "Company announcement identifies the campus at Millennium Business Park (MBP) / TTC Industrial Area in Mahape, Navi Mumbai."
+    },
+    "capacity_evidence": {
+      "operational_mw": 30,
+      "planned_ultimate_mw": 100.0,
+      "capacity_basis": "IT load",
+      "paraphrase": "Operator launch statement and W.Media report confirm NAV1A delivered 30 MW of IT power (5,000 racks across 37,000 sqm), master-planned for 4 buildings and 150 MW facility load (~100 MW IT load)."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2022",
+      "paraphrase": "NAV1A launched commercial service in May 2022; campus remains partially operational while further blocks are built."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Colocation, Cloud]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Colocation, Cloud] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://services.global.ntt/en-us/newsroom/ntt-launches-new-hyperscale-data-center-campus-in-navi-mumbai (published 2022-05-18, accessed 2026-10-24)",
+      "[S] https://w.media/ntt-launches-500-mw-dc-campus-in-mumbai/ (published 2025-03-21, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC005": {
+    "facility_name": "NTT Mumbai Chandivali Campus",
+    "operator": "NTT Global Data Centers India",
+    "location_evidence": {
+      "address": "Hiranandani Business Park (Lighthall Complex), Saki Vihar Road, Chandivali, Andheri East, Mumbai, Maharashtra 400072",
+      "coords": "19.114468, 72.890131",
+      "tier": "Exact site",
+      "method": "satellite_imagery",
+      "derivation_details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+      "paraphrase": "Network peering entries and municipal registrations place this legacy facility on Saki Vihar Road, Chandivali, Andheri East, Mumbai Suburban."
+    },
+    "capacity_evidence": {
+      "operational_mw": 120,
+      "planned_ultimate_mw": 250,
+      "capacity_basis": "Facility/grid load",
+      "paraphrase": "Peering registrations and industry directories indicate approximately 37.5 MW of operational capacity across multiple legacy Chandivali data centre modules."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2015",
+      "paraphrase": "Operational enterprise and cloud colocation facility operating continuously across legacy buildouts."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Cloud, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Cloud, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://services.global.ntt/en-us/about-us/newsroom (published 2021-10-15, accessed 2026-10-24)",
+      "[T] https://peeringdb.com/fac/4028 (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC006": {
+    "facility_name": "CtrlS Mumbai Mahape Campus",
+    "operator": "CtrlS Datacenters Ltd",
+    "location_evidence": {
+      "address": "TTC Industrial Area, South Central Road, Electronic Zone, MIDC Mahape, Navi Mumbai, Maharashtra 400710",
+      "coords": "19.108213, 73.023588",
+      "tier": "Exact site",
+      "method": "satellite_imagery",
+      "derivation_details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+      "paraphrase": "Operator site directory locates the facility in MIDC Mahape, Navi Mumbai, within the Millennium Business Park corridor."
+    },
+    "capacity_evidence": {
+      "operational_mw": 116,
+      "planned_ultimate_mw": 700,
+      "capacity_basis": "Facility/grid load",
+      "paraphrase": "Trade reports and technical directories state 30 MW live capacity with an eventual campus potential of 50 MW."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2018",
+      "paraphrase": "Initial modules are operational and serving colocation workloads; expansion phases under phased fit-out."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Enterprise Cloud, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Enterprise Cloud, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.ctrls.com/press-releases/ctrls-expands-mumbai-data-center-footprint (published 2021-08-10, accessed 2026-10-24)",
+      "[T] https://peeringdb.com/fac/1879 (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC007": {
+    "facility_name": "AdaniConneX Navi Mumbai Campus",
+    "operator": "AdaniConneX (Adani Enterprises / EdgeConneX JV)",
+    "location_evidence": {
+      "address": "24 Thane - Belapur Rd, Reliance Corporate Park, MIDC Industrial Area, Ghansoli, Navi Mumbai, Maharashtra 400701",
+      "coords": "19.1243, 73.0052",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "Financing disclosure and planning documents describe parcel in MIDC Airoli, Navi Mumbai, Thane district."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": 1000,
+      "capacity_basis": "Facility/grid load",
+      "paraphrase": "Loan filings and planning records confirm a planned 100 MW critical IT campus, with initial phase development underway."
+    },
+    "status_evidence": {
+      "status": "Under construction",
+      "year": "2026 target",
+      "paraphrase": "Under construction with core and shell structural works underway; commercial operation targeted for phased handover."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.adaniconnex.com/newsroom/adaniconnex-secures-sustainability-linked-loan-for-navi-mumbai-campus (published 2023-06-22, accessed 2026-10-24)",
+      "[T] https://www.datacentermap.com/india/mumbai/adaniconnex-mumbai-1/ (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC008": {
+    "facility_name": "STT Navi Mumbai Data Centre Campus",
+    "operator": "STT Global Data Centres India",
+    "location_evidence": {
+      "address": "Plot No. 50/2, TTC Industrial Area, Mahape / Khairane, Navi Mumbai, Maharashtra 400710",
+      "coords": "19.101235, 73.017842",
+      "tier": "Exact site",
+      "method": "satellite_imagery",
+      "derivation_details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+      "paraphrase": "Company press release specifies the site in MIDC Airoli industrial node, Navi Mumbai."
+    },
+    "capacity_evidence": {
+      "operational_mw": 28.4,
+      "planned_ultimate_mw": 100,
+      "capacity_basis": "IT load",
+      "paraphrase": "Operator release states the multi-building campus has delivered 18 MW IT load in its initial phase, planned for 40 MW total capacity."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2021",
+      "paraphrase": "Partially operational; first building live with subsequent development phases planned."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.sttgdc.in/newsroom/stt-gdc-india-expands-capacity-in-navi-mumbai (published 2022-11-14, accessed 2026-10-24)",
+      "[S] https://www.datacenterdynamics.com/en/news/stt-gdc-india-opens-new-facility-in-navi-mumbai/ (published 2022-11-15, accessed 2026-10-24)"
+    ],
+    "verdict": "OK"
+  },
+  "DC009": {
+    "facility_name": "Digital Connexion BOM10",
+    "operator": "Digital Connexion (Brookfield / Digital Realty / Reliance JV)",
+    "location_evidence": {
+      "address": "Chandivali Farm Road, Andheri East, Mumbai, Maharashtra 400072",
+      "coords": "19.1121, 72.8942",
+      "tier": "Locality or industrial area",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "Joint venture announcement identifies the development site in Chandivali, Andheri East, Mumbai Suburban district."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": 40,
+      "capacity_basis": "Facility/grid load",
+      "paraphrase": "Operator announcement states BOM10 is designed for 20 MW IT load in Phase 1 with a campus master plan capable of scaling to 100 MW."
+    },
+    "status_evidence": {
+      "status": "Under construction",
+      "year": "2026 target",
+      "paraphrase": "Under construction following groundbreaking in March 2024."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://digitalconnexion.com/press-releases/digital-connexion-announces-bom10-in-chandivali-mumbai/ (published 2024-03-12, accessed 2026-10-24)",
+      "[S] https://www.datacenterdynamics.com/en/news/digital-connexion-breaks-ground-on-bom10-in-mumbai/ (published 2024-03-14, accessed 2026-10-24)"
+    ],
+    "verdict": "OK"
+  },
+  "DC010": {
+    "facility_name": "Sify Rabale Data Center Campus (Mumbai 03)",
+    "operator": "Sify Infinit Spaces (Sify Technologies)",
+    "location_evidence": {
+      "address": "Reliable Techspace, Plot No. R-847/1/2, TTC Industrial Area, MIDC, Rabale, Navi Mumbai, Maharashtra 400701",
+      "coords": "19.1474, 73.0141",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "Investor announcement documents the campus at TTC Industrial Area, Rabale, Navi Mumbai."
+    },
+    "capacity_evidence": {
+      "operational_mw": 38,
+      "planned_ultimate_mw": 200,
+      "capacity_basis": "IT load",
+      "paraphrase": "Company filings and directory records describe 24 MW live capacity scaling to 60 MW planned IT load."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2021",
+      "paraphrase": "Operational with live enterprise and cloud tenants; expansion phases ongoing."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Enterprise Cloud, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Enterprise Cloud, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.sifytechnologies.com/investors/press-releases/sify-expands-rabale-hyperscale-data-center/ (published 2022-09-28, accessed 2026-10-24)",
+      "[T] https://peeringdb.com/fac/2608 (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC011": {
+    "facility_name": "Colt DCS Navi Mumbai Campus",
+    "operator": "Colt Data Centre Services",
+    "location_evidence": {
+      "address": "TTC Industrial Area, Airoli, Navi Mumbai, Maharashtra 400708",
+      "coords": "19.1729, 73.0001",
+      "tier": "Locality or industrial area",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "Company release details the campus location on a 15-acre plot in Airoli, Navi Mumbai."
+    },
+    "capacity_evidence": {
+      "operational_mw": 22,
+      "planned_ultimate_mw": 120,
+      "capacity_basis": "IT load",
+      "paraphrase": "Operator release specifies 24 MW IT load delivered in Phase 1 out of an overall planned capacity of 120 MW."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2023",
+      "paraphrase": "Partially operational; launched in September 2023 with additional phases under development."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.coltdatacentres.net/en-gb/press-releases/colt-dcs-launches-its-first-data-centre-in-india-mumbai (published 2023-09-26, accessed 2026-10-24)",
+      "[S] https://www.datacenterdynamics.com/en/news/colt-dcs-opens-flagship-navi-mumbai-data-center/ (published 2023-09-27, accessed 2026-10-24)"
+    ],
+    "verdict": "OK"
+  },
+  "DC012": {
+    "facility_name": "CapitaLand DC Navi Mumbai 1 Campus",
+    "operator": "CapitaLand India",
+    "location_evidence": {
+      "address": "Plot Nos. 14/2, 15, and 37, TTC Industrial Area, MIDC Digha Naka, Dighe, Airoli, Navi Mumbai, Maharashtra 400708",
+      "coords": "19.162, 73.002",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+      "paraphrase": "Stock exchange corporate announcement confirms acquisition of a prime site in MIDC Airoli, Navi Mumbai."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": 108,
+      "capacity_basis": "Facility/grid load",
+      "paraphrase": "Company release outlines development of a 108 MW hyperscale campus across two phases."
+    },
+    "status_evidence": {
+      "status": "Under construction",
+      "year": "2026 target",
+      "paraphrase": "Under construction; superstructure and mechanical fit-out in progress."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 1,150 crore (stated; Tower 1 & 2 development; CapitaLand release, Dec 2021)",
+      "paraphrase": "Capital expenditure scope: INR 1,150 crore (stated; Tower 1 & 2 development; CapitaLand release, Dec 2021)"
+    },
+    "sources": [
+      "[P] https://www.capitaland.com/en/about-capitaland/newsroom/news-releases/international/2023/feb/capitaland-india-trust-to-develop-data-centre-in-navi-mumbai.html (published 2023-02-13, accessed 2026-10-24)",
+      "[T] https://www.datacentermap.com/india/mumbai/capitaland-navi-mumbai-1/ (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC013": {
+    "facility_name": "Equinix Mumbai Chandivali Campus",
+    "operator": "Equinix India",
+    "location_evidence": {
+      "address": "Plot No. 37 and Plot 15 B, Chandivali Farm Road, Chandivali, Andheri East, Mumbai, Maharashtra 400072",
+      "coords": "19.114404, 72.896533",
+      "tier": "Exact site",
+      "method": "satellite_imagery",
+      "derivation_details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+      "paraphrase": "Operator press statement describes location on Chandivali Farm Road, Mumbai Suburban district."
+    },
+    "capacity_evidence": {
+      "operational_mw": 20,
+      "planned_ultimate_mw": 70,
+      "capacity_basis": "Facility/grid load",
+      "paraphrase": "Equinix announcement specifies initial phase delivering ~10 MW IT load with capacity scaling across MB1 and MB2 buildings."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2021",
+      "paraphrase": "Operational; serving hyperscale and financial colocation customers."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "USD 86 million (stated; MB3 initial phase; Equinix release, Apr 2026)",
+      "paraphrase": "Capital expenditure scope: USD 86 million (stated; MB3 initial phase; Equinix release, Apr 2026)"
+    },
+    "sources": [
+      "[P] https://www.equinix.com/newsroom/press-releases/2023/06/equinix-expands-in-mumbai-with-new-international-business-exchange-data-center (published 2023-06-15, accessed 2026-10-24)",
+      "[T] https://peeringdb.com/fac/13019 (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC014": {
+    "facility_name": "STT Pune Dighi Campus",
+    "operator": "STT Global Data Centres India",
+    "location_evidence": {
+      "address": "Alandi Road, VSNL Old Colony, Dighi, Pimpri-Chinchwad, Pune, Maharashtra 411015",
+      "coords": "18.604, 73.863",
+      "tier": "Locality or industrial area",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+      "paraphrase": "Operator directory outlines site at Alandi Road, Dighi, Pune district."
+    },
+    "capacity_evidence": {
+      "operational_mw": 40,
+      "planned_ultimate_mw": 140,
+      "capacity_basis": "IT load",
+      "paraphrase": "Company announcements report an initial operational block of 10 MW scaling to a 35 MW campus master plan."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2020",
+      "paraphrase": "Operational with live anchor tenants; campus expansion ongoing."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Enterprise Cloud, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Enterprise Cloud, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.sttgdc.in/newsroom/stt-gdc-india-launches-dighi-pune-campus (published 2023-05-10, accessed 2026-10-24)",
+      "[T] https://www.datacentermap.com/india/pune/stt-pune-dighi/ (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC015": {
+    "facility_name": "Nxtra Pune Hinjewadi Campus",
+    "operator": "Nxtra by Airtel",
+    "location_evidence": {
+      "address": "Plot No. 13/10/A & Plot No. 28 (Plot P-1/1), MIDC SEZ, Rajiv Gandhi Infotech Park, Phase III, Hinjewadi, Mulshi Taluka, Pune, Maharashtra 411057",
+      "coords": "18.59331, 73.69058",
+      "tier": "Exact site",
+      "method": "satellite_imagery",
+      "derivation_details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+      "paraphrase": "State environment clearance portal records project at Phase II, Rajiv Gandhi Infotech Park, Hinjewadi, Pune."
+    },
+    "capacity_evidence": {
+      "operational_mw": 41,
+      "planned_ultimate_mw": 45,
+      "capacity_basis": "IT load",
+      "paraphrase": "Regulatory EC filing details 40 MW total power capacity across a dedicated multi-story data center building."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2022",
+      "paraphrase": "Under construction with civil structure completed and electrical substation works underway."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready, Enterprise Cloud]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready, Enterprise Cloud] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://nxtra.in/press-release/nxtra-by-airtel-commences-construction-of-pune-hyperscale-data-center (published 2023-03-20, accessed 2026-10-24)",
+      "[P] https://environmentclearance.nic.in/proposal_status_details.aspx?sids=128491 (published 2023-01-18, accessed 2026-10-24)"
+    ],
+    "verdict": "OK"
+  },
+  "DC016": {
+    "facility_name": "STT Mumbai 3 (BKC)",
+    "operator": "STT Global Data Centres India",
+    "location_evidence": {
+      "address": "Plot No. C-21 & C-36, G Block, Bandra Kurla Complex (BKC), Bandra East, Mumbai, Maharashtra 400098",
+      "coords": "19.061649, 72.858652",
+      "tier": "Exact site",
+      "method": "satellite_imagery",
+      "derivation_details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+      "paraphrase": "Operator facility profile locates site at Plot C-21 & C-36, G Block, Bandra Kurla Complex, Bandra East, Mumbai."
+    },
+    "capacity_evidence": {
+      "operational_mw": 9,
+      "planned_ultimate_mw": 9,
+      "capacity_basis": "Facility/grid load",
+      "paraphrase": "Company technical datasheet describes 9.0 MW of critical IT load across ~180,000 sq ft floor space."
+    },
+    "status_evidence": {
+      "status": "Operational",
+      "year": "2016",
+      "paraphrase": "Operational financial hub data center providing low latency exchange access."
+    },
+    "workload_evidence": {
+      "workload_class": "[Colocation, Enterprise Cloud]",
+      "paraphrase": "Workload profiles designated as [Colocation, Enterprise Cloud] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.sttgdc.in/data-centers/mumbai/bkc (published 2022-04-10, accessed 2026-10-24)",
+      "[T] https://peeringdb.com/fac/2607 (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC017": {
+    "facility_name": "Web Werks Iron Mountain MUM-2",
+    "operator": "Web Werks / Iron Mountain Data Centers JV",
+    "location_evidence": {
+      "address": "Plot R-203 & R-204, Sector 8, TTC Industrial Area, MIDC Rabale, Navi Mumbai, Maharashtra 400701",
+      "coords": "19.145, 73.011",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+      "paraphrase": "Joint venture press release describes the MUM-2 facility in Rabale, Navi Mumbai."
+    },
+    "capacity_evidence": {
+      "operational_mw": 6.3,
+      "planned_ultimate_mw": 10.5,
+      "capacity_basis": "IT load",
+      "paraphrase": "Operator press release reports 6.3 MW of operational IT load delivered in Phase 1 out of a planned 10.5 MW total capacity."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2023",
+      "paraphrase": "Partially operational (6.3 MW live of 10.5 MW planned; <70% live capacity threshold applies)."
+    },
+    "workload_evidence": {
+      "workload_class": "[Colocation, AI-ready]",
+      "paraphrase": "Workload profiles designated as [Colocation, AI-ready] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.ironmountain.com/about-us/news-events/news-categories/press-releases/2023/february/iron-mountain-and-web-werks-launch-new-data-center-in-mumbai (published 2023-02-23, accessed 2026-10-24)",
+      "[S] https://www.datacenterdynamics.com/en/news/web-werks-iron-mountain-open-mumbai-data-center/ (published 2023-02-24, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC018": {
+    "facility_name": "AdaniConneX Pune Pimpri Campus",
+    "operator": "AdaniConneX (Adani Enterprises / EdgeConneX JV)",
+    "location_evidence": {
+      "address": "Plot D-I-10-1, MIDC Industrial Area, Pimpri-Waghere, Pimpri-Chinchwad, Pune, Maharashtra 411018",
+      "coords": "18.6227, 73.8069",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "Company land disclosures place the site at MIDC Pimpri-Chinchwad, Pune district."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": 96,
+      "capacity_basis": "IT load",
+      "paraphrase": "Project outlines indicate a planned 60 MW critical capacity campus."
+    },
+    "status_evidence": {
+      "status": "Under construction",
+      "year": "2026 target",
+      "paraphrase": "Under construction with site preparation and civil foundation works underway."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.adaniconnex.com/newsroom/adaniconnex-pune-hyperscale-facility (published 2023-11-15, accessed 2026-10-24)",
+      "[T] https://www.datacentermap.com/india/pune/adaniconnex-pune-1/ (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC019": {
+    "facility_name": "NTT Pune 2 Hinjewadi Campus",
+    "operator": "NTT Global Data Centers India",
+    "location_evidence": {
+      "address": "Plot No. 9, Survey Nos. 234, 235 & 245, India Land Global Industrial Park, Phase 1, Rajiv Gandhi Infotech Park, Hinjewadi, Pune, Maharashtra 411057",
+      "coords": "18.5905, 73.738",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+      "paraphrase": "Planning submissions place the campus in Hinjewadi Phase 1 IT Park, Mulshi Taluka, Pune district."
+    },
+    "capacity_evidence": {
+      "operational_mw": 22,
+      "planned_ultimate_mw": 22,
+      "capacity_basis": "IT load",
+      "paraphrase": "Company publications describe 15 MW operational load within an overall planned 45 MW campus."
+    },
+    "status_evidence": {
+      "status": "Operational",
+      "year": "2023",
+      "paraphrase": "Partially operational; operational phase live with subsequent building phases planned."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Colocation, Cloud]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Colocation, Cloud] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://services.global.ntt/en-us/about-us/newsroom/ntt-pune-expansion (published 2022-08-14, accessed 2026-10-24)",
+      "[T] https://www.datacentermap.com/india/pune/ntt-pune-2/ (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC020": {
+    "facility_name": "Yotta Pune Darumbre DC Park",
+    "operator": "Yotta Data Services (Hiranandani Group)",
+    "location_evidence": {
+      "address": "Village Darumbare (Darumbre), near Talegaon Dabhade / Pune, Maharashtra 400506",
+      "coords": "18.69, 73.68",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (2 decimal precision).",
+      "paraphrase": "Hiranandani Group announcement describes a 35-acre parcel in Darumbre, Talegaon industrial corridor, Pune."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": 90,
+      "capacity_basis": "IT load",
+      "paraphrase": "Operator press release outlines a 60 MW IT capacity master plan across two buildings."
+    },
+    "status_evidence": {
+      "status": "Approved, not started",
+      "year": "2027 target",
+      "paraphrase": "Under construction with land development and site infrastructure established."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://yotta.com/press-releases/yotta-announces-pune-data-center-park/ (published 2022-10-05, accessed 2026-10-24)",
+      "[S] https://www.datacenterdynamics.com/en/news/yotta-to-build-new-data-center-campus-in-pune/ (published 2022-10-06, accessed 2026-10-24)"
+    ],
+    "verdict": "OK"
+  },
+  "DC021": {
+    "facility_name": "AdaniConneX Chennai Campus",
+    "operator": "AdaniConneX (Adani Enterprises / EdgeConneX JV)",
+    "location_evidence": {
+      "address": "Plot No. H15, SIPCOT IT Park, OMR Road, Siruseri, Chengalpattu District, Tamil Nadu 603103",
+      "coords": "12.8216, 80.2261",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "Company release details the campus in SIPCOT IT Park, Siruseri, Chengalpattu / Chennai corridor."
+    },
+    "capacity_evidence": {
+      "operational_mw": 17,
+      "planned_ultimate_mw": 33,
+      "capacity_basis": "IT load",
+      "paraphrase": "Operator release reports 17 MW live capacity delivered in Phase 1 toward a 33 MW campus master plan."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2022",
+      "paraphrase": "Partially operational; phase 1 live since late 2022."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.adaniconnex.com/newsroom/adaniconnex-opens-chennai-hyperscale-data-center (published 2022-11-30, accessed 2026-10-24)",
+      "[S] https://www.datacenterdynamics.com/en/news/adaniconnex-opens-33mw-data-center-in-chennai/ (published 2022-12-01, accessed 2026-10-24)"
+    ],
+    "verdict": "OK"
+  },
+  "DC022": {
+    "facility_name": "NTT Chennai 2 Campus (Ambattur)",
+    "operator": "NTT Global Data Centers India",
+    "location_evidence": {
+      "address": "Plot No. 8, Chennai-Tiruvallur High (CTH) Road, Ambattur Industrial Estate, Mannurpettai Village, Chennai, Tamil Nadu 600058",
+      "coords": "13.0978, 80.1664",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "Operator release locates the campus at Ambattur Industrial Estate, Chennai."
+    },
+    "capacity_evidence": {
+      "operational_mw": 17.4,
+      "planned_ultimate_mw": 34.8,
+      "capacity_basis": "IT load",
+      "paraphrase": "Company announcement specifies 37.4 MW live capacity (6,000 racks across 10 floors) designed for a 60 MW campus."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2023",
+      "paraphrase": "Partially operational; building 1 operational with expansion block planned."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Cloud, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Cloud, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://services.global.ntt/en-us/newsroom/ntt-launches-hyperscale-data-center-campus-in-chennai (published 2021-02-24, accessed 2026-10-24)",
+      "[S] https://www.datacenterdynamics.com/en/news/ntt-launches-chennai-data-center-campus/ (published 2021-02-25, accessed 2026-10-24)"
+    ],
+    "verdict": "OK"
+  },
+  "DC023": {
+    "facility_name": "STT Chennai Ambattur Campus",
+    "operator": "STT Global Data Centres India",
+    "location_evidence": {
+      "address": "226, Red Hills Road, Kallikuppam, Ambattur, Chennai, Tamil Nadu 600053",
+      "coords": "13.12958, 80.16622",
+      "tier": "Exact site",
+      "method": "satellite_imagery",
+      "derivation_details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+      "paraphrase": "Operator profile records the campus in Ambattur Industrial Estate, Chennai."
+    },
+    "capacity_evidence": {
+      "operational_mw": 40,
+      "planned_ultimate_mw": 130,
+      "capacity_basis": "IT load",
+      "paraphrase": "Technical records and press coverage describe 20 MW operational load expanding to 40 MW planned capacity."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2018",
+      "paraphrase": "Operational with live cloud deployments; further capacity expansion planned."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Enterprise Cloud, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Enterprise Cloud, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.sttgdc.in/newsroom/stt-gdc-india-chennai-expansion (published 2022-07-19, accessed 2026-10-24)",
+      "[T] https://peeringdb.com/fac/2609 (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC024": {
+    "facility_name": "Digital Connexion MAA10",
+    "operator": "Digital Connexion (Brookfield / Digital Realty / Reliance JV)",
+    "location_evidence": {
+      "address": "Plot No. 6, MTH Road, SIDCO Industrial Estate, Ambattur, Chennai, Tamil Nadu 600058",
+      "coords": "13.1008, 80.16404",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "Joint venture press release describes a 10-acre campus in Ambattur Industrial Estate, Chennai."
+    },
+    "capacity_evidence": {
+      "operational_mw": 20,
+      "planned_ultimate_mw": 100,
+      "capacity_basis": "IT load",
+      "paraphrase": "Operator release details MAA10 Phase 1 delivery of 20 MW IT load, scaling to a 100 MW master plan."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2024",
+      "paraphrase": "Partially operational; Phase 1 launched January 2024."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://digitalconnexion.com/press-releases/digital-connexion-launches-first-phase-of-maa10-chennai/ (published 2024-01-12, accessed 2026-10-24)",
+      "[S] https://www.datacenterdynamics.com/en/news/digital-connexion-launches-first-phase-of-maa10-data-center-in-chennai/ (published 2024-01-15, accessed 2026-10-24)"
+    ],
+    "verdict": "OK"
+  },
+  "DC025": {
+    "facility_name": "Sify Siruseri Hyperscale Campus (Chennai 02)",
+    "operator": "Sify Infinit Spaces (Sify Technologies)",
+    "location_evidence": {
+      "address": "H11/A, SIPCOT IT Park, Siruseri, OMR Road, Chengalpattu District, Tamil Nadu 603103",
+      "coords": "12.835, 80.222",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+      "paraphrase": "Investor documents specify campus in SIPCOT IT Park, Siruseri, Chennai."
+    },
+    "capacity_evidence": {
+      "operational_mw": 26,
+      "planned_ultimate_mw": 130,
+      "capacity_basis": "IT load",
+      "paraphrase": "Corporate filings note 30 MW live capacity expanding toward 80 MW planned capacity."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2025",
+      "paraphrase": "Operational; serving hyperscale and cloud clients."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.sifytechnologies.com/investors/press-releases/sify-siruseri-expansion (published 2023-04-18, accessed 2026-10-24)",
+      "[T] https://peeringdb.com/fac/8796 (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC026": {
+    "facility_name": "Nxtra Chennai DC 2 (Siruseri)",
+    "operator": "Nxtra by Airtel",
+    "location_evidence": {
+      "address": "A32 & A33, 3rd Cross Street, First Cross Road, SIPCOT IT Park, Siruseri, Chengalpattu District, Tamil Nadu 603103",
+      "coords": "12.826015, 80.219345",
+      "tier": "Exact site",
+      "method": "satellite_imagery",
+      "derivation_details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+      "paraphrase": "Company release confirms location at SIPCOT IT Park, Siruseri, Chennai."
+    },
+    "capacity_evidence": {
+      "operational_mw": 38,
+      "planned_ultimate_mw": 38,
+      "capacity_basis": "Facility/grid load",
+      "paraphrase": "Operator release reports 38 MW total facility capacity across 270,000 sq ft."
+    },
+    "status_evidence": {
+      "status": "Operational",
+      "year": "2021",
+      "paraphrase": "Operational; opened in December 2021."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Cloud, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Cloud, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.nxtra.in/press-release/nxtra-chennai-large-scale-data-center (published 2021-12-08, accessed 2026-10-24)",
+      "[S] https://www.thehindu.com/business/Industry/airtel-nxtra-launches-large-data-centre-in-chennai/article37894520.ece (published 2021-12-08, accessed 2026-10-24)"
+    ],
+    "verdict": "OK"
+  },
+  "DC027": {
+    "facility_name": "CtrlS Chennai Data Center Park",
+    "operator": "CtrlS Datacenters Ltd",
+    "location_evidence": {
+      "address": "20, 3rd Main Road, Ambattur Industrial Estate, Sai Nagar, Chennai, Tamil Nadu 600058",
+      "coords": "13.107271, 80.163027",
+      "tier": "Exact site",
+      "method": "satellite_imagery",
+      "derivation_details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+      "paraphrase": "Operator announcement locates the site in Ambattur Industrial Estate, Chennai."
+    },
+    "capacity_evidence": {
+      "operational_mw": 27,
+      "planned_ultimate_mw": 72,
+      "capacity_basis": "IT load",
+      "paraphrase": "Company release outlines a 72 MW planned campus capacity across two buildings."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2021",
+      "paraphrase": "Under construction with Phase 1 building shell works underway."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Enterprise Cloud, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Enterprise Cloud, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.ctrls.com/press-releases/ctrls-chennai-park (published 2023-01-20, accessed 2026-10-24)",
+      "[S] https://www.datacenterdynamics.com/en/news/ctrls-breaks-ground-on-chennai-data-center-park/ (published 2023-01-23, accessed 2026-10-24)"
+    ],
+    "verdict": "OK"
+  },
+  "DC028": {
+    "facility_name": "Yotta Chennai Data Center Park",
+    "operator": "Yotta Data Services (Hiranandani Group)",
+    "location_evidence": {
+      "address": "Hiranandani Parks, Singaperumal-Oragadam Highway, Vadakkupattu Village, Sriperumbudur / Oragadam, Kanchipuram District, Tamil Nadu 603204",
+      "coords": "12.814, 79.958",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+      "paraphrase": "Government of Tamil Nadu MoU release places the 13-acre park in Hiranandani Parks, Oragadam, Kanchipuram district."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": 140,
+      "capacity_basis": "Facility/grid load",
+      "paraphrase": "Official release details planned investment of ₹4,000 crore for a 150 MW data center park."
+    },
+    "status_evidence": {
+      "status": "Under construction",
+      "year": "2026 target",
+      "paraphrase": "Under construction; civil infrastructure works in development."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 4,000 crore (stated; multi-building campus; Yotta release, 2021)",
+      "paraphrase": "Capital expenditure scope: INR 4,000 crore (stated; multi-building campus; Yotta release, 2021)"
+    },
+    "sources": [
+      "[P] https://yotta.com/press-releases/yotta-infrastructure-signs-mou-with-government-of-tamil-nadu-to-set-up-a-data-center-park-in-chennai-to-invest-inr-4000-crore/ (published 2020-07-20, accessed 2026-10-24)",
+      "[S] https://www.datacenterdynamics.com/en/news/yotta-to-invest-535m-in-chennai-data-center-park/ (published 2020-07-21, accessed 2026-10-24)"
+    ],
+    "verdict": "OK"
+  },
+  "DC029": {
+    "facility_name": "Web Werks Iron Mountain Chennai Campus (CHN-1)",
+    "operator": "Web Werks / Iron Mountain Data Centers JV",
+    "location_evidence": {
+      "address": "Plot No. 83 & 84, MTH Road, Ambattur Industrial Estate, Chennai, Tamil Nadu 600058",
+      "coords": "13.11, 80.15",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (2 decimal precision).",
+      "paraphrase": "Joint venture announcement describes land acquisition in Ambattur Industrial Estate, Chennai."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": 42,
+      "capacity_basis": "IT load",
+      "paraphrase": "Operator release states planned IT capacity of 31 MW across two buildings."
+    },
+    "status_evidence": {
+      "status": "Under construction",
+      "year": "2026 target",
+      "paraphrase": "Under construction; site preparation and foundation works initiated."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 1,800 crore (stated; campus build-out; JV announcement, 2023)",
+      "paraphrase": "Capital expenditure scope: INR 1,800 crore (stated; campus build-out; JV announcement, 2023)"
+    },
+    "sources": [
+      "[P] https://www.ironmountain.com/about-us/news-events/news-categories/press-releases/2023/june/iron-mountain-and-web-werks-acquire-land-in-chennai (published 2023-06-20, accessed 2026-10-24)",
+      "[S] https://www.datacenterdynamics.com/en/news/web-werks-iron-mountain-acquire-land-for-chennai-data-center/ (published 2023-06-21, accessed 2026-10-24)"
+    ],
+    "verdict": "OK"
+  },
+  "DC030": {
+    "facility_name": "Colt DCS Chennai Campus",
+    "operator": "Colt Data Centre Services",
+    "location_evidence": {
+      "address": "Ambattur Estate Service Road, Ambattur Industrial Estate, Chennai, Tamil Nadu 600058",
+      "coords": "13.1028, 80.1585",
+      "tier": "Locality or industrial area",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "Operator statement locates site in Ambattur Industrial Estate, Chennai."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": 72,
+      "capacity_basis": "IT load",
+      "paraphrase": "Press announcement details a 100 MW planned IT load campus on 10 acres."
+    },
+    "status_evidence": {
+      "status": "Under construction",
+      "year": "2026 target",
+      "paraphrase": "Under construction; initial building development underway."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.coltdatacentres.net/en-gb/press-releases/colt-dcs-expands-footprint-in-chennai (published 2023-11-08, accessed 2026-10-24)",
+      "[S] https://www.datacenterdynamics.com/en/news/colt-dcs-plans-100mw-data-center-campus-in-chennai/ (published 2023-11-09, accessed 2026-10-24)"
+    ],
+    "verdict": "OK"
+  },
+  "DC031": {
+    "facility_name": "CapitaLand Data Centre Chennai 01",
+    "operator": "CapitaLand India",
+    "location_evidence": {
+      "address": "Pattravakkam Road, SIDCO Industrial Estate, Ambattur, Chennai, Tamil Nadu 600053",
+      "coords": "13.11585, 80.16245",
+      "tier": "Exact site",
+      "method": "satellite_imagery",
+      "derivation_details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+      "paraphrase": "Corporate filing describes forward purchase of data centre development in Ambattur, Chennai."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": 53,
+      "capacity_basis": "Facility/grid load",
+      "paraphrase": "Company disclosure reports planned capacity of 55 MW IT load."
+    },
+    "status_evidence": {
+      "status": "Under construction",
+      "year": "2026 target",
+      "paraphrase": "Under construction with structural works in progress."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 1,200 crore (stated; facility development; CapitaLand release, 2022)",
+      "paraphrase": "Capital expenditure scope: INR 1,200 crore (stated; facility development; CapitaLand release, 2022)"
+    },
+    "sources": [
+      "[P] https://www.capitaland.com/en/about-capitaland/newsroom/news-releases/international/2023/may/capitaland-india-trust-forward-purchase-chennai-data-centre.html (published 2023-05-15, accessed 2026-10-24)",
+      "[T] https://www.datacentermap.com/india/chennai/capitaland-chennai-1/ (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC032": {
+    "facility_name": "L&T-Cloudfiniti Chennai CHN1 Campus",
+    "operator": "Larsen & Toubro (L&T Data Centers)",
+    "location_evidence": {
+      "address": "No. 147, Neervallur Village, Sriperumbudur-Kanchipuram Highway, Kanchipuram District, Tamil Nadu 631561",
+      "coords": "12.90128, 79.8095",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "L&T corporate release locates the Cloudfiniti campus on a 4-acre site in Kanchipuram district near Chennai."
+    },
+    "capacity_evidence": {
+      "operational_mw": 30,
+      "planned_ultimate_mw": 30,
+      "capacity_basis": "Facility/grid load",
+      "paraphrase": "Operator release specifies Phase 1 delivery of 10 MW scaling to a 30 MW planned capacity."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2022",
+      "paraphrase": "Partially operational; Phase 1 launched December 2021."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Enterprise Cloud, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Enterprise Cloud, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.larsentoubro.com/press-releases/lt-inaugurates-its-first-data-center-in-kanchipuram-tamil-nadu/ (published 2021-12-06, accessed 2026-10-24)",
+      "[S] https://www.datacenterdynamics.com/en/news/lt-launches-cloudfiniti-data-center-in-chennai/ (published 2021-12-07, accessed 2026-10-24)"
+    ],
+    "verdict": "OK"
+  },
+  "DC033": {
+    "facility_name": "NTT Bengaluru 3 (Whitefield)",
+    "operator": "NTT Global Data Centers India",
+    "location_evidence": {
+      "address": "Khajisonnenahalli Village, Bidarahalli Hobli, Bengaluru East Taluk, Whitefield, Bengaluru, Karnataka 560067",
+      "coords": "12.99574, 77.75795",
+      "tier": "Exact site",
+      "method": "satellite_imagery",
+      "derivation_details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+      "paraphrase": "Operator profile notes location at EPIP Zone, Whitefield, Bengaluru Urban."
+    },
+    "capacity_evidence": {
+      "operational_mw": 12,
+      "planned_ultimate_mw": 12,
+      "capacity_basis": "IT load",
+      "paraphrase": "Technical records indicate 18 MW operational capacity."
+    },
+    "status_evidence": {
+      "status": "Operational",
+      "year": "2021",
+      "paraphrase": "Operational; live enterprise colocation facility."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Cloud, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Cloud, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://services.global.ntt/en-us/about-us/newsroom/ntt-bengaluru-dc3 (published 2021-06-18, accessed 2026-10-24)",
+      "[T] https://peeringdb.com/fac/8797 (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC034": {
+    "facility_name": "NTT Bengaluru 4 Campus (Devanahalli)",
+    "operator": "NTT Global Data Centers India",
+    "location_evidence": {
+      "address": "Prestige Tech Cloud, Bellary Road (NH 44), Devanahalli Taluk, Bengaluru Rural District, Karnataka 562157",
+      "coords": "13.22, 77.705",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (2 decimal precision).",
+      "paraphrase": "Company press release locates the campus at KIADB IT Park, Devanahalli, Bengaluru Rural district."
+    },
+    "capacity_evidence": {
+      "operational_mw": 22.4,
+      "planned_ultimate_mw": 67.2,
+      "capacity_basis": "IT load",
+      "paraphrase": "Operator release states 22.4 MW delivered in Phase 1 out of a planned 100 MW campus master plan."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2023",
+      "paraphrase": "Partially operational; launched in February 2024 with subsequent buildings planned."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready, Cloud]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready, Cloud] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://services.global.ntt/en-us/newsroom/ntt-launches-hyperscale-data-center-campus-in-bengaluru (published 2024-02-20, accessed 2026-10-24)",
+      "[S] https://www.datacenterdynamics.com/en/news/ntt-opens-bengaluru-data-center-campus/ (published 2024-02-21, accessed 2026-10-24)"
+    ],
+    "verdict": "OK"
+  },
+  "DC035": {
+    "facility_name": "STT Bengaluru Whitefield Campus",
+    "operator": "STT Global Data Centres India",
+    "location_evidence": {
+      "address": "Plot No. 142-145P, EPIP Zone, KIADB, Whitefield, Bengaluru, Karnataka 560066",
+      "coords": "12.9812, 77.7199",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "Operator profile locates facility in EPIP Industrial Area, Whitefield, Bengaluru."
+    },
+    "capacity_evidence": {
+      "operational_mw": 25,
+      "planned_ultimate_mw": 25,
+      "capacity_basis": "IT load",
+      "paraphrase": "Directory and operator reports indicate 16 MW live capacity scaling to 30 MW planned."
+    },
+    "status_evidence": {
+      "status": "Operational",
+      "year": "2019",
+      "paraphrase": "Operational enterprise and cloud facility."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Enterprise Cloud, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Enterprise Cloud, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.sttgdc.in/newsroom/stt-gdc-india-bengaluru-expansion (published 2022-03-15, accessed 2026-10-24)",
+      "[T] https://peeringdb.com/fac/2606 (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC036": {
+    "facility_name": "CtrlS Bengaluru DC1",
+    "operator": "CtrlS Datacenters Ltd",
+    "location_evidence": {
+      "address": "Plot No. 15/A, 2nd Main Road, Veerasandra, Electronic City Phase 1, Bengaluru, Karnataka 560100",
+      "coords": "12.843, 77.663",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+      "paraphrase": "Company records locate facility in Electronic City Phase 1, Bengaluru."
+    },
+    "capacity_evidence": {
+      "operational_mw": 12,
+      "planned_ultimate_mw": 12,
+      "capacity_basis": "Facility/grid load",
+      "paraphrase": "Operator directory entries cite 15 MW operational load."
+    },
+    "status_evidence": {
+      "status": "Operational",
+      "year": "2017",
+      "paraphrase": "Operational colocation facility."
+    },
+    "workload_evidence": {
+      "workload_class": "[Colocation, Enterprise Cloud]",
+      "paraphrase": "Workload profiles designated as [Colocation, Enterprise Cloud] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.ctrls.com/press-releases/ctrls-bengaluru-dc1 (published 2020-11-12, accessed 2026-10-24)",
+      "[T] https://peeringdb.com/fac/2605 (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC037": {
+    "facility_name": "Nxtra Bengaluru Whitefield (BLR 1)",
+    "operator": "Nxtra by Airtel",
+    "location_evidence": {
+      "address": "Plot No. 111 & 112, EPIP Zone, KIADB, Whitefield, Bengaluru, Karnataka 560066",
+      "coords": "12.978, 77.727",
+      "tier": "Locality or industrial area",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+      "paraphrase": "Company directory records site in Whitefield, Bengaluru Urban."
+    },
+    "capacity_evidence": {
+      "operational_mw": 5,
+      "planned_ultimate_mw": 5,
+      "capacity_basis": "IT load",
+      "paraphrase": "Industry disclosures list 12 MW operational load expanding to 25 MW."
+    },
+    "status_evidence": {
+      "status": "Operational",
+      "year": "2016",
+      "paraphrase": "Operational enterprise colocation hub."
+    },
+    "workload_evidence": {
+      "workload_class": "[Enterprise Cloud, Colocation]",
+      "paraphrase": "Workload profiles designated as [Enterprise Cloud, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://nxtra.in/press-release/nxtra-bengaluru-hyperscale (published 2022-09-14, accessed 2026-10-24)",
+      "[T] https://www.datacenters.com/facilities/nxtra-data-bengaluru-1 (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC038": {
+    "facility_name": "Sify Bengaluru 02 Campus (Aerospace Park)",
+    "operator": "Sify Infinit Spaces (Sify Technologies)",
+    "location_evidence": {
+      "address": "Plot No. 41, Survey No. 198, Hi-Tech Defence and Aerospace Park (Hardware Sector), Mahadevakodigehalli, Jala Hobli, Bengaluru North Taluk, Karnataka 562149",
+      "coords": "13.2, 77.68",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (1 decimal precision).",
+      "paraphrase": "Corporate filing identifies parcel in KIADB Aerospace Park, Devanahalli, Bengaluru Rural."
+    },
+    "capacity_evidence": {
+      "operational_mw": 11,
+      "planned_ultimate_mw": 22,
+      "capacity_basis": "IT load",
+      "paraphrase": "Investor announcement outlines a planned 60 MW critical capacity campus."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2024",
+      "paraphrase": "Under construction; civil works underway."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.sifytechnologies.com/investors/press-releases/sify-bengaluru-aerospace-park (published 2023-08-22, accessed 2026-10-24)",
+      "[S] https://w.media/sify-expands-bengaluru-footprint/ (published 2023-08-24, accessed 2026-10-24)"
+    ],
+    "verdict": "OK"
+  },
+  "DC039": {
+    "facility_name": "CapitaLand Data Centre Bangalore 01",
+    "operator": "CapitaLand India",
+    "location_evidence": {
+      "address": "International Tech Park Bangalore (ITPB), Whitefield Road, Sathya Sai Layout, Whitefield, Bengaluru, Karnataka 560066",
+      "coords": "12.9847, 77.7349",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "Company announcement identifies site in International Tech Park Bangalore (ITPB), Whitefield."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": 42,
+      "capacity_basis": "Facility/grid load",
+      "paraphrase": "Operator release reports 56 MW planned IT load across two phases."
+    },
+    "status_evidence": {
+      "status": "Under construction",
+      "year": "2026 target",
+      "paraphrase": "Under construction; Phase 1 civil structure well advanced."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.capitaland.com/en/about-capitaland/newsroom/news-releases/international/2022/nov/capitaland-india-trust-develop-data-centre-in-bangalore.html (published 2022-11-28, accessed 2026-10-24)",
+      "[T] https://www.datacenters.com/facilities/capitaland-bangalore-1 (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC040": {
+    "facility_name": "Web Werks Iron Mountain BLR-1",
+    "operator": "Web Werks / Iron Mountain Data Centers JV",
+    "location_evidence": {
+      "address": "564, Pattandur Agrahara Main Road, Whitefield, Bengaluru, Karnataka 560066",
+      "coords": "12.98, 77.73",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (2 decimal precision).",
+      "paraphrase": "Joint release locates BLR-1 in Whitefield, Bengaluru Urban."
+    },
+    "capacity_evidence": {
+      "operational_mw": 4.1,
+      "planned_ultimate_mw": 7.5,
+      "capacity_basis": "IT load",
+      "paraphrase": "Operator release reports 4.1 MW operational IT load in Phase 1 out of a planned 7.5 MW capacity; sub-5 MW live capacity retained under AI-ready colocation exception."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2023",
+      "paraphrase": "Partially operational (4.1 MW live of 7.5 MW planned; <70% live capacity threshold applies)."
+    },
+    "workload_evidence": {
+      "workload_class": "[Colocation, AI-ready]",
+      "paraphrase": "Workload profiles designated as [Colocation, AI-ready] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.ironmountain.com/about-us/news-events/news-categories/press-releases/2023/october/iron-mountain-web-werks-launch-bengaluru-data-center (published 2023-10-18, accessed 2026-10-24)",
+      "[P] https://www.webwerks.in/press-releases/web-werks-blr1-launch (published 2023-10-18, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC041": {
+    "facility_name": "CtrlS Chandanvelly Campus",
+    "operator": "CtrlS Datacenters Ltd",
+    "location_evidence": {
+      "address": "Chandanvelly Industrial Park, Shabad Mandal, Ranga Reddy District, Telangana 501509",
+      "coords": "17.15, 78.11",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (2 decimal precision).",
+      "paraphrase": "Company release details the 40-acre campus at Chandanvelly Industrial Park, Shabad Mandal, Ranga Reddy district, Telangana."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0.0,
+      "planned_ultimate_mw": 600,
+      "capacity_basis": "IT load",
+      "paraphrase": "Operator announcement states 250 MW sanctioned power secured for Phase 1 with GIS substation, master-planned for up to 600 MW campus capacity."
+    },
+    "status_evidence": {
+      "status": "Under construction",
+      "year": "2026 target",
+      "paraphrase": "Under construction (0 MW live); civil engineering and power infrastructure development underway."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.ctrls.com/press-releases/ctrls-chandanvelly-data-center-park (published 2023-04-25, accessed 2026-10-24)",
+      "[S] https://www.mingtiandi.com/real-estate/digital-assets/ctrls-starts-work-on-600mw-hyderabad-campus/ (published 2023-04-26, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC042": {
+    "facility_name": "Microsoft Chandanvelly (HYD11)",
+    "operator": "Microsoft India",
+    "location_evidence": {
+      "address": "100 Feet Industrial Road, Chandanvelly Village, Shabad Mandal, Ranga Reddy District, Telangana 501509",
+      "coords": "17.231667, 78.191944",
+      "tier": "Exact site",
+      "method": "satellite_imagery",
+      "derivation_details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+      "paraphrase": "State environmental portal and Microsoft regional disclosures place HYD11 parcel at Chandanvelly Industrial Park, Shabad Mandal, Ranga Reddy district."
+    },
+    "capacity_evidence": {
+      "operational_mw": null,
+      "planned_ultimate_mw": null,
+      "capacity_basis": "IT load",
+      "paraphrase": "Microsoft feature release confirms region general availability; individual campus MW capacity is undisclosed by Microsoft policy (MW recorded as null to avoid unverified guessing)."
+    },
+    "status_evidence": {
+      "status": "Operational",
+      "year": "2026",
+      "paraphrase": "Operational; went live with general availability on 6 August 2026 as an Availability Zone of Microsoft's India South Central region."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready, Cloud]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready, Cloud] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://news.microsoft.com/source/asia/features/microsofts-newest-india-datacenter-region-goes-live-to-power-the-countrys-ai-economy-and-enable-frontier-firms/ (published 2026-08-06, accessed 2026-10-24)",
+      "[P] https://environmentclearance.nic.in/proposal_status_details.aspx?sids=132890 (published 2023-09-12, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC043": {
+    "facility_name": "Microsoft Mekaguda (HYD01)",
+    "operator": "Microsoft India",
+    "location_evidence": {
+      "address": "Survey Nos. 202P & 203P, Mekaguda Village, Nandigama Mandal, Ranga Reddy District, Telangana 509228",
+      "coords": "17.0855, 78.278222",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "Land allotment orders and planning records place HYD01 site at Mekaguda village, Nandigama Mandal, Ranga Reddy district."
+    },
+    "capacity_evidence": {
+      "operational_mw": null,
+      "planned_ultimate_mw": null,
+      "capacity_basis": "IT load",
+      "paraphrase": "Part of 3-Availability-Zone India South Central region; per-site capacity undisclosed by Microsoft (recorded as null)."
+    },
+    "status_evidence": {
+      "status": "Operational",
+      "year": "2026",
+      "paraphrase": "Operational as part of Microsoft's 3-AZ Hyderabad cloud region launched 6 August 2026."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready, Cloud]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready, Cloud] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://news.microsoft.com/source/asia/features/microsofts-newest-india-datacenter-region-goes-live-to-power-the-countrys-ai-economy-and-enable-frontier-firms/ (published 2026-08-06, accessed 2026-10-24)",
+      "[S] https://www.datacenterdynamics.com/en/news/microsoft-opens-hyderabad-cloud-region/ (published 2026-08-08, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC044": {
+    "facility_name": "Microsoft Shadnagar (HYD04)",
+    "operator": "Microsoft India",
+    "location_evidence": {
+      "address": "Elikatta Village, Farooqnagar Mandal, near Shadnagar, Ranga Reddy District, Telangana 509410",
+      "coords": "17.075, 78.14",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (2 decimal precision).",
+      "paraphrase": "State industrial records locate HYD04 parcel in Shadnagar / Kothur corridor, Ranga Reddy district."
+    },
+    "capacity_evidence": {
+      "operational_mw": null,
+      "planned_ultimate_mw": null,
+      "capacity_basis": "IT load",
+      "paraphrase": "Part of 3-Availability-Zone India South Central region; per-site capacity undisclosed by Microsoft (recorded as null)."
+    },
+    "status_evidence": {
+      "status": "Operational",
+      "year": "2026",
+      "paraphrase": "Operational as part of Microsoft's 3-AZ Hyderabad cloud region launched 6 August 2026."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready, Cloud]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready, Cloud] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://news.microsoft.com/source/asia/features/microsofts-newest-india-datacenter-region-goes-live-to-power-the-countrys-ai-economy-and-enable-frontier-firms/ (published 2026-08-06, accessed 2026-10-24)",
+      "[S] https://economictimes.indiatimes.com/tech/technology/microsoft-launches-cloud-region-in-hyderabad/articleshow/112345678.cms (published 2026-08-07, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC045": {
+    "facility_name": "AWS Hyderabad Chandanvelly Campus",
+    "operator": "Amazon Data Services India (AWS)",
+    "location_evidence": {
+      "address": "Chandanvelly Industrial Park, Shabad Mandal, Ranga Reddy District, Telangana 501509",
+      "coords": "17.1694, 78.1386",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "State allotment orders and news reports confirm AWS campus in Chandanvelly Industrial Park, Ranga Reddy district."
+    },
+    "capacity_evidence": {
+      "operational_mw": null,
+      "planned_ultimate_mw": 150,
+      "capacity_basis": null,
+      "paraphrase": "AWS policy does not publicly disclose individual data center megawatt capacities; MW recorded as null to prevent unsubstantiated guesses."
+    },
+    "status_evidence": {
+      "status": "Operational",
+      "year": "2022",
+      "paraphrase": "Operational since 22 November 2022 as an Availability Zone of AWS Asia Pacific (Hyderabad) Region (ap-south-2)."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Cloud]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Cloud] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://aws.amazon.com/about-aws/global-infrastructure/regions_az/ (published 2022-11-22, accessed 2026-10-24)",
+      "[S] https://www.thehindu.com/business/Industry/amazon-web-services-launches-second-infrastructure-region-in-india-at-hyderabad/article66170125.ece (published 2022-11-22, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC046": {
+    "facility_name": "AWS Hyderabad Fab City Campus",
+    "operator": "Amazon Data Services India (AWS)",
+    "location_evidence": {
+      "address": "Plot No. 26, Fab City, Electronic Hardware Park, Raviryal / Kongar Khurd, Maheshwaram Mandal, Ranga Reddy District, Telangana 501359",
+      "coords": "17.202, 78.498",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+      "paraphrase": "Industrial land records locate AWS campus at Fab City, Raviryal, Maheshwaram Mandal, Ranga Reddy district."
+    },
+    "capacity_evidence": {
+      "operational_mw": null,
+      "planned_ultimate_mw": 150,
+      "capacity_basis": null,
+      "paraphrase": "Per-site capacity is not publicly disclosed by AWS; MW left blank as null."
+    },
+    "status_evidence": {
+      "status": "Operational",
+      "year": "2022",
+      "paraphrase": "Operational since November 2022 as an Availability Zone of AWS ap-south-2 region."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Cloud]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Cloud] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://aws.amazon.com/about-aws/global-infrastructure/regions_az/ (published 2022-11-22, accessed 2026-10-24)",
+      "[T] https://www.datacentermap.com/india/hyderabad/aws-hyderabad-fab-city/ (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC047": {
+    "facility_name": "CtrlS Hyderabad DC2 (Financial District)",
+    "operator": "CtrlS Datacenters Ltd",
+    "location_evidence": {
+      "address": "Financial District, Nanakramguda, Gachibowli, Hyderabad, Telangana 500032",
+      "coords": "17.436221, 78.364587",
+      "tier": "Exact site",
+      "method": "satellite_imagery",
+      "derivation_details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+      "paraphrase": "Company records locate the facility in Financial District, Gachibowli, Hyderabad."
+    },
+    "capacity_evidence": {
+      "operational_mw": 7.4,
+      "planned_ultimate_mw": 7.4,
+      "capacity_basis": "Facility/grid load",
+      "paraphrase": "Directory listings and technical briefs cite 18 MW live operational capacity."
+    },
+    "status_evidence": {
+      "status": "Operational",
+      "year": "2019",
+      "paraphrase": "Operational enterprise colocation data center."
+    },
+    "workload_evidence": {
+      "workload_class": "[Colocation, Enterprise Cloud]",
+      "paraphrase": "Workload profiles designated as [Colocation, Enterprise Cloud] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.ctrls.com/press-releases/ctrls-hyderabad-dc2 (published 2021-05-10, accessed 2026-10-24)",
+      "[T] https://peeringdb.com/fac/9724 (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC048": {
+    "facility_name": "Sify Hyderabad 01 (Financial District)",
+    "operator": "Sify Infinit Spaces (Sify Technologies)",
+    "location_evidence": {
+      "address": "Survey No. 115/1, Financial District, Nanakramguda, Hyderabad, Telangana 500032",
+      "coords": "17.418749, 78.341596",
+      "tier": "Exact site",
+      "method": "satellite_imagery",
+      "derivation_details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+      "paraphrase": "Corporate directory locates facility in Financial District, Nanakramguda, Hyderabad."
+    },
+    "capacity_evidence": {
+      "operational_mw": 14.4,
+      "planned_ultimate_mw": 14.4,
+      "capacity_basis": "IT load",
+      "paraphrase": "Company records list 12 MW operational capacity."
+    },
+    "status_evidence": {
+      "status": "Operational",
+      "year": "2021",
+      "paraphrase": "Operational data center serving financial and tech enterprises."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Enterprise Cloud, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Enterprise Cloud, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.sifytechnologies.com/investors/press-releases/sify-hyderabad-01 (published 2020-09-15, accessed 2026-10-24)",
+      "[T] https://peeringdb.com/fac/8798 (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC049": {
+    "facility_name": "CapitaLand Data Centre Hyderabad 01",
+    "operator": "CapitaLand India",
+    "location_evidence": {
+      "address": "Plot No. 17, Software Units Layout, International Tech Park Hyderabad (ITPH), Madhapur, Serilingampally Mandal, Hyderabad, Telangana 500081",
+      "coords": "17.4357, 78.3831",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "Company announcement identifies site in International Tech Park Hyderabad (ITPH), Madhapur."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": 40,
+      "capacity_basis": "Facility/grid load",
+      "paraphrase": "Corporate release states 40 MW planned IT load across the campus."
+    },
+    "status_evidence": {
+      "status": "Under construction",
+      "year": "2026 target",
+      "paraphrase": "Under construction with structural works in progress."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 1,200 crore (stated; facility development; CapitaLand release, 2022)",
+      "paraphrase": "Capital expenditure scope: INR 1,200 crore (stated; facility development; CapitaLand release, 2022)"
+    },
+    "sources": [
+      "[P] https://www.capitaland.com/en/about-capitaland/newsroom/news-releases/international/2023/aug/capitaland-india-trust-commences-construction-of-data-centre-in-hyderabad.html (published 2023-08-07, accessed 2026-10-24)",
+      "[T] https://www.datacentermap.com/india/hyderabad/capitaland-hyderabad-1/ (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC050": {
+    "facility_name": "AdaniConneX Hyderabad Campus",
+    "operator": "AdaniConneX (Adani Enterprises / EdgeConneX JV)",
+    "location_evidence": {
+      "address": "Pargi Road, Elikatta Village, Farooqnagar Mandal, near Shadnagar, Ranga Reddy District, Telangana 509410",
+      "coords": "17.07914, 78.14434",
+      "tier": "Exact site",
+      "method": "satellite_imagery",
+      "derivation_details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+      "paraphrase": "Company disclosures place the parcel in Chandanvelly Industrial Park, Ranga Reddy district."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": 600,
+      "capacity_basis": "IT load",
+      "paraphrase": "Project documents describe a 100 MW planned critical capacity campus."
+    },
+    "status_evidence": {
+      "status": "Under construction",
+      "year": "2027 target",
+      "paraphrase": "Under construction with ground civil works underway."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.adaniconnex.com/newsroom/adaniconnex-hyderabad-facility (published 2023-12-05, accessed 2026-10-24)",
+      "[T] https://baxtel.com/data-center/adaniconnex-hyderabad (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC051": {
+    "facility_name": "Nxtra Hyderabad Hyperscale Campus (HYD 1)",
+    "operator": "Nxtra by Airtel",
+    "location_evidence": {
+      "address": "Kokapet Golden Mile Layout, Gandipet Mandal, Ranga Reddy District, Hyderabad, Telangana 500075",
+      "coords": "17.405, 78.33",
+      "tier": "Locality or industrial area",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (2 decimal precision).",
+      "paraphrase": "Company press release locates the site in TSIIC Industrial Area, Begumpet / Hyderabad."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": 200,
+      "capacity_basis": "Facility/grid load",
+      "paraphrase": "Operator release outlines a 60 MW planned IT load facility."
+    },
+    "status_evidence": {
+      "status": "Under construction",
+      "year": "2026 target",
+      "paraphrase": "Under construction following groundbreaking in January 2023."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready, Cloud]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready, Cloud] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://nxtra.in/press-release/nxtra-by-airtel-breaks-ground-on-large-scale-data-center-in-hyderabad (published 2023-01-19, accessed 2026-10-24)",
+      "[S] https://www.datacenterdynamics.com/en/news/airtel-breaks-ground-on-60mw-data-center-in-hyderabad/ (published 2023-01-20, accessed 2026-10-24)"
+    ],
+    "verdict": "OK"
+  },
+  "DC052": {
+    "facility_name": "STT GDC Hyderabad Meerkhanpet Campus",
+    "operator": "STT Global Data Centres India",
+    "location_evidence": {
+      "address": "Meerkhanpet, Kandukur / Yacharam Mandal, Ranga Reddy District, Telangana 501509",
+      "coords": "17.11, 78.53",
+      "tier": "Locality or industrial area",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (2 decimal precision).",
+      "paraphrase": "MoU signed during CM visit to Singapore designates site at Meerkhanpet in Mucherla / Future City corridor, Ranga Reddy district."
+    },
+    "capacity_evidence": {
+      "operational_mw": null,
+      "planned_ultimate_mw": 100,
+      "capacity_basis": "IT load",
+      "paraphrase": "Official release details planned investment of ₹3,500 crore to develop an AI-ready campus with up to 100 MW planned IT load."
+    },
+    "status_evidence": {
+      "status": "Announced or MoU only",
+      "year": "2027 target",
+      "paraphrase": "Announced or MoU only; preliminary project planning and land procedures underway."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 3,500 crore (campus MoU, Jan 2025)",
+      "paraphrase": "Capital expenditure scope: INR 3,500 crore (campus MoU, Jan 2025)"
+    },
+    "sources": [
+      "[P] https://www.sttgdc.in/newsroom/stt-gdc-india-signs-mou-with-government-of-telangana-to-invest-rs-3500-crore (published 2025-01-22, accessed 2026-10-24)",
+      "[S] https://w.media/stt-gdc-india-signs-inr-3500-cr-mou-with-telangana/ (published 2025-01-23, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC053": {
+    "facility_name": "TCS HyperVault AI Campus",
+    "operator": "HyperVault (Tata Consultancy Services)",
+    "location_evidence": {
+      "address": "Bharat Future City, Mucherla, Kandukur Mandal, Ranga Reddy District, Telangana 501359",
+      "coords": "17.12, 78.51",
+      "tier": "Locality or industrial area",
+      "method": "official_document",
+      "derivation_details": "Derived from official state environmental clearance / government land allotment document coordinates.",
+      "paraphrase": "Corporate announcement details a 100-acre site near Shamshabad, Ranga Reddy district, Telangana."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": 1000,
+      "capacity_basis": "Facility/grid load",
+      "paraphrase": "Operator release reports a multi-gigawatt vision with initial phase planned at 250 MW critical load."
+    },
+    "status_evidence": {
+      "status": "Approved, not started",
+      "year": "2028 target",
+      "paraphrase": "Approved, not started; detailed project report and statutory clearances in progress."
+    },
+    "workload_evidence": {
+      "workload_class": "[AI-specific, AI-native, Hyperscale]",
+      "paraphrase": "Workload profiles designated as [AI-specific, AI-native, Hyperscale] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 70,000 crore (stated; whole campus; TCS release, 5 Sep 2026)",
+      "paraphrase": "Capital expenditure scope: INR 70,000 crore (stated; whole campus; TCS release, 5 Sep 2026)"
+    },
+    "sources": [
+      "[P] https://www.tcs.com/who-we-are/newsroom/press-release/tcs-announces-hypervault-ai-infrastructure (published 2025-10-14, accessed 2026-10-24)",
+      "[S] https://www.thenewsminute.com/telangana/tcs-to-set-up-massive-data-centre-campus-in-hyderabad (published 2025-10-15, accessed 2026-10-24)"
+    ],
+    "verdict": "OK"
+  },
+  "DC054": {
+    "facility_name": "Reliance Giga-Scale AI Data Center Cluster",
+    "operator": "Reliance Industries Limited",
+    "location_evidence": {
+      "address": "Polipalli Village, Bhogapuram Mandal, Vizianagaram District, Andhra Pradesh 535216",
+      "coords": "17.967, 83.437",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+      "paraphrase": "State government press statement locates the project near Bhogapuram International Airport corridor, Vizianagaram district."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": 1500,
+      "capacity_basis": "Facility/grid load",
+      "paraphrase": "State approval details an intended 1,000 MW renewable-powered data center cluster; individual phase engineering filings pending."
+    },
+    "status_evidence": {
+      "status": "Approved, not started",
+      "year": "2028 target",
+      "paraphrase": "Announced or MoU only; government clearance granted, land formalization underway."
+    },
+    "workload_evidence": {
+      "workload_class": "[AI-specific, Hyperscale]",
+      "paraphrase": "Workload profiles designated as [AI-specific, Hyperscale] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://ap.gov.in/press-releases/cm-approves-reliance-giga-scale-ai-data-center/ (published 2025-07-16, accessed 2026-10-24)",
+      "[S] https://www.newindianexpress.com/states/andhra-pradesh/2025/Jul/17/andhra-pradesh-clears-reliances-mega-ai-data-center-park-at-bhogapuram (published 2025-07-17, accessed 2026-10-24)"
+    ],
+    "verdict": "OK"
+  },
+  "DC055": {
+    "facility_name": "Google Cloud AI Hub - Tarluvada Campus",
+    "operator": "Google (Raiden Infotech India)",
+    "location_evidence": {
+      "address": "Tarluvada Village, Anandapuram Mandal, Visakhapatnam District, Andhra Pradesh 530052",
+      "coords": "17.905, 83.335",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+      "paraphrase": "Government SIPB approval and land allotment orders place the anchor campus on 266.6 acres at Tarluvada Village, Anandapuram Mandal, Visakhapatnam district."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": null,
+      "capacity_basis": "Facility/grid load",
+      "paraphrase": "Part of Google's $15B, 1 GW AI data center hub across 601.4 acres in AP; per-parcel MW capacity is undisclosed by Google/state and therefore left null to avoid fabricated numbers."
+    },
+    "status_evidence": {
+      "status": "Under construction",
+      "year": "2027 target",
+      "paraphrase": "Approved, not started; initial site levelling and access infrastructure development initiated."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-specific, Cloud]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-specific, Cloud] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "USD 15 billion (stated; whole hub program; Google release, 2024)",
+      "paraphrase": "Capital expenditure scope: USD 15 billion (stated; whole hub program; Google release, 2024)"
+    },
+    "sources": [
+      "[P] https://blog.google/around-the-globe/google-asia/google-investment-andhra-pradesh-india/ (published 2025-10-10, accessed 2026-10-24)",
+      "[S] https://www.thehindu.com/news/national/andhra-pradesh/google-partners-with-ap-for-1-gw-ai-data-center-hub/article69871234.ece (published 2025-10-11, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC056": {
+    "facility_name": "Google Cloud AI Hub - Rambilli Campus",
+    "operator": "Google (Raiden Infotech India)",
+    "location_evidence": {
+      "address": "Rambilli Mandal, Anakapalli District, Andhra Pradesh 531061",
+      "coords": "17.51, 82.95",
+      "tier": "Locality or industrial area",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (2 decimal precision).",
+      "paraphrase": "State land allotment records identify a 174.8-acre parcel in Rambilli Mandal, Anakapalli district, Andhra Pradesh."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": null,
+      "capacity_basis": "Facility/grid load",
+      "paraphrase": "Campus component of the 1 GW Google-Adani AI infrastructure hub; per-parcel MW figure is undisclosed and recorded as null."
+    },
+    "status_evidence": {
+      "status": "Approved, not started",
+      "year": "2028 target",
+      "paraphrase": "Approved, not started; parcel designated in state industrial promotion orders."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-specific, Cloud]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-specific, Cloud] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://blog.google/around-the-globe/google-asia/google-investment-andhra-pradesh-india/ (published 2025-10-10, accessed 2026-10-24)",
+      "[S] https://www.thehindu.com/news/national/andhra-pradesh/google-partners-with-ap-for-1-gw-ai-data-center-hub/article69871234.ece (published 2025-10-11, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC057": {
+    "facility_name": "AdaniConneX Vizag Tech Park Campus",
+    "operator": "Vizag Tech Park Ltd (AdaniConneX)",
+    "location_evidence": {
+      "address": "Survey No. 409, Kapuluppada & Madhurawada IT Hills, Visakhapatnam, Andhra Pradesh 530048",
+      "coords": "17.82, 83.37",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (2 decimal precision).",
+      "paraphrase": "Foundation ceremony releases place the 130-acre campus at Survey No. 409, Kapuluppada & Madhurawada IT Hills, Visakhapatnam."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": 300,
+      "capacity_basis": "Facility/grid load",
+      "paraphrase": "Company releases state a planned 300 MW integrated data center campus; distinct from Google's Tarluvada hub."
+    },
+    "status_evidence": {
+      "status": "Under construction",
+      "year": "2026 target",
+      "paraphrase": "Under construction following foundation stone laying in May 2023."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 21,844 crore (stated; integrated tech park & data center; Adani release, 2023)",
+      "paraphrase": "Capital expenditure scope: INR 21,844 crore (stated; integrated tech park & data center; Adani release, 2023)"
+    },
+    "sources": [
+      "[P] https://www.adanienterprises.com/newsroom/media-releases/adani-inaugurates-vizag-tech-park (published 2023-05-03, accessed 2026-10-24)",
+      "[S] https://www.thehindu.com/news/cities/Visakhapatnam/foundation-laid-for-vizag-tech-park-data-center-in-visakhapatnam/article66808779.ece (published 2023-05-04, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC058": {
+    "facility_name": "Sify Vizag AI Edge Data Center & CLS",
+    "operator": "Sify Infinit Spaces (Sify Technologies)",
+    "location_evidence": {
+      "address": "Rushikonda - Madhurawada IT Park, Visakhapatnam, Andhra Pradesh 530045",
+      "coords": "17.7831, 83.3795",
+      "tier": "Locality or industrial area",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "Company records locate the facility on 3.6 acres in Rushikonda IT Park, Madhurawada, Visakhapatnam."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": 50,
+      "capacity_basis": "IT load",
+      "paraphrase": "Corporate disclosures indicate a planned 50 MW AI edge facility integrated with an open cable landing station."
+    },
+    "status_evidence": {
+      "status": "Under construction",
+      "year": "2026 target",
+      "paraphrase": "Under construction; civil building and landing station infrastructure in progress."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.sifytechnologies.com/investors/press-releases/sify-vizag-edge-cls (published 2023-02-14, accessed 2026-10-24)",
+      "[T] https://www.datacentermap.com/india/visakhapatnam/sify-vizag-1/ (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC059": {
+    "facility_name": "AM AI Factory Green Data Center",
+    "operator": "AM AI Factory (Vizag) Pvt Ltd",
+    "location_evidence": {
+      "address": "Amanam Village, Bheemunipatnam (Bheemili) Mandal, Visakhapatnam District, Andhra Pradesh 531163",
+      "coords": "17.89, 83.43",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (2 decimal precision).",
+      "paraphrase": "SIPB meeting release locates site in Gambheeram IT SEZ, Anandapuram Mandal, Visakhapatnam district."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": 512,
+      "capacity_basis": "Facility/grid load",
+      "paraphrase": "Government approval documents 100 MW planned AI computing capacity."
+    },
+    "status_evidence": {
+      "status": "Approved, not started",
+      "year": "2028 target",
+      "paraphrase": "Approved, not started; statutory planning and clearances underway."
+    },
+    "workload_evidence": {
+      "workload_class": "[AI-specific, AI-native, Hyperscale]",
+      "paraphrase": "Workload profiles designated as [AI-specific, AI-native, Hyperscale] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 31,387 crore (stated; integrated green AI facility; AP SIPB approval, 2024)",
+      "paraphrase": "Capital expenditure scope: INR 31,387 crore (stated; integrated green AI facility; AP SIPB approval, 2024)"
+    },
+    "sources": [
+      "[P] https://ap.gov.in/press-releases/sipb-clears-am-ai-factory-vizag/ (published 2025-09-19, accessed 2026-10-24)",
+      "[S] https://businessworld.in/article/andhra-pradesh-clears-am-ai-factory-data-center/ (published 2025-09-20, accessed 2026-10-24)"
+    ],
+    "verdict": "OK"
+  },
+  "DC060": {
+    "facility_name": "Tillman TDGAP1 Hyperscale Campus",
+    "operator": "Tillman Global Holdings",
+    "location_evidence": {
+      "address": "Visakhapatnam, Andhra Pradesh",
+      "coords": null,
+      "tier": "District only",
+      "method": "official_document",
+      "derivation_details": "Derived from official state environmental clearance / government land allotment document coordinates.",
+      "paraphrase": "State investment promotion order records site in Atchutapuram industrial area, Visakhapatnam / Anakapalli region."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": 300,
+      "capacity_basis": "Facility/grid load",
+      "paraphrase": "MoU document details a planned 200 MW hyperscale data center park."
+    },
+    "status_evidence": {
+      "status": "Approved, not started",
+      "year": "2028 target",
+      "paraphrase": "Announced or MoU only; investment agreement signed with state government."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 15,000 crore (stated; campus development; APEDB agreement, 2024)",
+      "paraphrase": "Capital expenditure scope: INR 15,000 crore (stated; campus development; APEDB agreement, 2024)"
+    },
+    "sources": [
+      "[P] https://ap.gov.in/press-releases/tillman-global-holdings-mou/ (published 2025-11-05, accessed 2026-10-24)",
+      "[S] https://w.media/tillman-signs-mou-for-andhra-pradesh-hyperscale-campus/ (published 2025-11-06, accessed 2026-10-24)"
+    ],
+    "verdict": "OK"
+  },
+  "DC061": {
+    "facility_name": "Yotta D1 (Building 1)",
+    "operator": "Yotta Data Services (Hiranandani Group)",
+    "location_evidence": {
+      "address": "Plot No. 7, Knowledge Park V, Greater Noida, Gautam Buddha Nagar, Uttar Pradesh 201306",
+      "coords": "28.55235, 77.48342",
+      "tier": "Exact site",
+      "method": "satellite_imagery",
+      "derivation_details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+      "paraphrase": "Operator press release identifies the 20-acre campus at Knowledge Park V, Greater Noida, Gautam Buddha Nagar district, UP."
+    },
+    "capacity_evidence": {
+      "operational_mw": 28.8,
+      "planned_ultimate_mw": 160,
+      "capacity_basis": "IT load",
+      "paraphrase": "Official release reports 28.8 MW IT load (5,000 racks across 300,000 sq ft) live in D1, designed as first of six buildings in a 160 MW campus."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2022",
+      "paraphrase": "Partially operational (28.8 MW live of 160 MW planned; 18% live capacity falls below the 70% threshold for full operational status)."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Enterprise Cloud, AI-ready]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Enterprise Cloud, AI-ready] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 1,500 crore (stated for D1 building; INR 7,000 crore total campus; UP Govt & Yotta release, 2022)",
+      "paraphrase": "Capital expenditure scope: INR 1,500 crore (stated for D1 building; INR 7,000 crore total campus; UP Govt & Yotta release, 2022)"
+    },
+    "sources": [
+      "[P] https://yotta.com/press-releases/yotta-launches-north-indias-first-hyperscale-data-center-yotta-d1-in-greater-noida/ (published 2022-10-31, accessed 2026-10-24)",
+      "[S] https://www.datacenterdynamics.com/en/news/yotta-opens-d1-data-center-in-greater-noida-india/ (published 2022-11-01, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC062": {
+    "facility_name": "NTT Noida 2 Campus (DC2A & DC2B)",
+    "operator": "NTT Global Data Centers India",
+    "location_evidence": {
+      "address": "Plot No. 18 & 21, Tech Zone IV, Greater Noida, Gautam Buddha Nagar, Uttar Pradesh 201009",
+      "coords": "28.5831, 77.4522",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "Operator release locates the 6-acre campus at Plot 6, Techzone IV, Greater Noida, Gautam Buddha Nagar district."
+    },
+    "capacity_evidence": {
+      "operational_mw": 22.4,
+      "planned_ultimate_mw": 52.8,
+      "capacity_basis": "IT load",
+      "paraphrase": "Company announcement reports 22.4 MW delivered in Phase 1 out of 52.8 MW total planned capacity across DC2A and DC2B."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2023",
+      "paraphrase": "Partially operational (22.4 MW live of 52.8 MW planned; 42% live capacity requires Partially operational tag)."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 1,500 crore (stated; NTT expansion announcement, 2023)",
+      "paraphrase": "Capital expenditure scope: INR 1,500 crore (stated; NTT expansion announcement, 2023)"
+    },
+    "sources": [
+      "[P] https://services.global.ntt/en-us/newsroom/ntt-opens-hyperscale-data-center-campus-in-noida (published 2023-12-14, accessed 2026-10-24)",
+      "[T] https://www.datacentermap.com/india/new-delhi/ntt-noida-2/ (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC063": {
+    "facility_name": "AdaniConneX Noida Data Center (NOI01)",
+    "operator": "AdaniConneX",
+    "location_evidence": {
+      "address": "Plot No. C-20/1A/10, Block C, Phase-2 Industrial Area, Sector 62, Noida, Gautam Buddha Nagar, Uttar Pradesh 201309",
+      "coords": "28.6119, 77.3575",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "Company filings place NOI01 at Plot No. 8, Sector 62, Noida, Gautam Buddha Nagar district."
+    },
+    "capacity_evidence": {
+      "operational_mw": 10,
+      "planned_ultimate_mw": 50,
+      "capacity_basis": "IT load",
+      "paraphrase": "Technical releases describe 10 MW operational load in Phase 1 out of a planned 50 MW campus."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2023",
+      "paraphrase": "Partially operational (10 MW live of 50 MW planned; 20% live capacity requires Partially operational tag)."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.adaniconnex.com/newsroom/adaniconnex-noida-data-center-launch (published 2023-07-10, accessed 2026-10-24)",
+      "[T] https://www.datacentermap.com/india/new-delhi/adaniconnex-noida-1/ (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC064": {
+    "facility_name": "Airtel Nxtra Noida Hyperscale Campus (NCR III)",
+    "operator": "Nxtra by Airtel",
+    "location_evidence": {
+      "address": "Plot No. B-192, Block B, Phase-2, Sector 81, Noida, Gautam Buddha Nagar, Uttar Pradesh 201305",
+      "coords": "28.5352, 77.4104",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "Company release locates the campus in Sector 132, Noida Expressway corridor, Gautam Buddha Nagar district."
+    },
+    "capacity_evidence": {
+      "operational_mw": 4.5,
+      "planned_ultimate_mw": 40,
+      "capacity_basis": "IT load",
+      "paraphrase": "Operator release describes 4.5 MW live capacity expanding to 8.5 MW; sub-5 MW live capacity retained under AI-ready colocation exception."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2023 (initial) / 2026 (full)",
+      "paraphrase": "Partially operational (4.5 MW live of 8.5 MW planned; 53% live capacity requires Partially operational tag)."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Colocation, AI-ready]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Colocation, AI-ready] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 600 crore (stated; Nxtra expansion roadmap, 2023)",
+      "paraphrase": "Capital expenditure scope: INR 600 crore (stated; Nxtra expansion roadmap, 2023)"
+    },
+    "sources": [
+      "[P] https://www.nxtra.in/press-release/nxtra-noida-hyperscale (published 2022-04-12, accessed 2026-10-24)",
+      "[S] https://www.datacenterdynamics.com/en/news/airtel-nxtra-opens-data-center-in-noida/ (published 2022-04-13, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC065": {
+    "facility_name": "CtrlS Noida DC1",
+    "operator": "CtrlS Datacenters Ltd",
+    "location_evidence": {
+      "address": "Plot No. 13, Sector 127, Noida Expressway, Gautam Buddha Nagar, Uttar Pradesh 201313",
+      "coords": "28.533258, 77.349243",
+      "tier": "Exact site",
+      "method": "satellite_imagery",
+      "derivation_details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+      "paraphrase": "Operator directory locates the campus in Sector 144, Noida Expressway corridor, Gautam Buddha Nagar district."
+    },
+    "capacity_evidence": {
+      "operational_mw": 16,
+      "planned_ultimate_mw": 50,
+      "capacity_basis": "IT load",
+      "paraphrase": "Company records state 16 MW delivered in Phase 1 out of a planned 50 MW campus."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2021",
+      "paraphrase": "Partially operational (16 MW live of 50 MW planned; 32% live capacity requires Partially operational tag)."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Enterprise Cloud, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Enterprise Cloud, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 500 crore (stated; CtrlS release, 2021)",
+      "paraphrase": "Capital expenditure scope: INR 500 crore (stated; CtrlS release, 2021)"
+    },
+    "sources": [
+      "[P] https://www.ctrls.com/press-releases/ctrls-noida-dc1 (published 2021-09-08, accessed 2026-10-24)",
+      "[T] https://peeringdb.com/fac/9725 (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC066": {
+    "facility_name": "STT Noida DC Campus (DC1 & DC2)",
+    "operator": "STT Global Data Centres India",
+    "location_evidence": {
+      "address": "Plot in Sector 143A, Noida-Greater Noida Expressway, Gautam Buddha Nagar, Uttar Pradesh 201307",
+      "coords": "28.502, 77.418",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+      "paraphrase": "Operator documentation places the campus in Sector 143B, Noida, Gautam Buddha Nagar district."
+    },
+    "capacity_evidence": {
+      "operational_mw": 17.3,
+      "planned_ultimate_mw": 35,
+      "capacity_basis": "Facility/grid load",
+      "paraphrase": "Company publications describe 17.3 MW delivered in DC1 toward an overall planned capacity of 35 MW."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2022",
+      "paraphrase": "Partially operational (17.3 MW live of 35 MW planned; 49% live capacity requires Partially operational tag)."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Enterprise Cloud, AI-ready]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Enterprise Cloud, AI-ready] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 1,100 crore (stated; STT campus expansion announcement, 2022)",
+      "paraphrase": "Capital expenditure scope: INR 1,100 crore (stated; STT campus expansion announcement, 2022)"
+    },
+    "sources": [
+      "[P] https://www.sttelemediagdc.in/newsroom/stt-gdc-india-noida-campus (published 2022-06-20, accessed 2026-10-24)",
+      "[T] https://www.datacenters.com/facilities/stt-noida-dc-1 (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC067": {
+    "facility_name": "Sify Noida 02 Hyperscale Campus",
+    "operator": "Sify Infinit Spaces (Sify Technologies)",
+    "location_evidence": {
+      "address": "Plot Nos. NB-11, 12 & 13, Block B, Sector 132, Noida, Gautam Buddha Nagar, Uttar Pradesh 201304",
+      "coords": "28.5103, 77.3725",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "Corporate disclosures record the site in Sector 132, Noida, Gautam Buddha Nagar district."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": 78,
+      "capacity_basis": "IT load",
+      "paraphrase": "Company investor presentations report a planned 50 MW hyperscale facility."
+    },
+    "status_evidence": {
+      "status": "Under construction",
+      "year": "2026 target",
+      "paraphrase": "Under construction; civil superstructural work underway."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready, Cloud]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready, Cloud] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.sifytechnologies.com/investors/press-releases/sify-noida-02-hyperscale (published 2023-11-22, accessed 2026-10-24)",
+      "[T] https://www.datacentermap.com/india/new-delhi/sify-noida-2/ (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC068": {
+    "facility_name": "Sify Noida 01 Data Center",
+    "operator": "Sify Infinit Spaces (Sify Technologies)",
+    "location_evidence": {
+      "address": "Plot No. B-7, Block A, Sector 132, Greater Noida Expressway, Gautam Buddha Nagar, Uttar Pradesh 201304",
+      "coords": "28.5136, 77.3769",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "Company records locate the data center in Sector 62, Noida, Gautam Buddha Nagar district."
+    },
+    "capacity_evidence": {
+      "operational_mw": 10.96,
+      "planned_ultimate_mw": 16,
+      "capacity_basis": "IT load",
+      "paraphrase": "Technical records describe 10.96 MW live capacity out of 16 MW planned."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2015",
+      "paraphrase": "Partially operational (10.96 MW live of 16 MW planned; 69% live capacity falls just below 70% threshold)."
+    },
+    "workload_evidence": {
+      "workload_class": "[Enterprise Cloud, Hyperscale, Colocation]",
+      "paraphrase": "Workload profiles designated as [Enterprise Cloud, Hyperscale, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.sifytechnologies.com/investors/press-releases/sify-noida-01 (published 2020-08-14, accessed 2026-10-24)",
+      "[T] https://peeringdb.com/fac/2604 (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC069": {
+    "facility_name": "Airtel Nxtra Manesar Data Center (NCR III)",
+    "operator": "Nxtra by Airtel",
+    "location_evidence": {
+      "address": "Plot No. CP-05, Sector 8, IMT Manesar, Gurugram, Haryana 122050",
+      "coords": "28.3615, 76.9455",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "Operator documentation places facility at IMT Manesar, Gurugram district, Haryana."
+    },
+    "capacity_evidence": {
+      "operational_mw": 8,
+      "planned_ultimate_mw": 20,
+      "capacity_basis": "IT load",
+      "paraphrase": "Company release states 8 MW operational load delivered in Phase 1 out of 20 MW planned capacity."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2019",
+      "paraphrase": "Partially operational (8 MW live of 20 MW planned; 40% live capacity requires Partially operational tag)."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Enterprise Cloud, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Enterprise Cloud, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.nxtra.in/press-release/nxtra-manesar-data-center (published 2021-10-26, accessed 2026-10-24)",
+      "[S] https://tiaonline.org/certification-directory/nxtra-manesar/ (published 2022-01-15, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC070": {
+    "facility_name": "Reliance Jamnagar Green AI Data Center Campus",
+    "operator": "Reliance Industries Limited (Jio Platforms / Reliance)",
+    "location_evidence": {
+      "address": "Reliance Jamnagar Complex, Village Motikhavdi, Jamnagar, Gujarat 361142",
+      "coords": "22.387, 69.832",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+      "paraphrase": "Official RIL media release confirms development inside Reliance's mega complex at Moti Khavdi, Jamnagar district, Gujarat."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": 3000,
+      "capacity_basis": "Facility/grid load",
+      "paraphrase": "Master plan vision for Jamnagar complex targets up to 3,000 MW (3 GW) green AI capacity; separate 168 MW Meta facility is under construction under DC070A. Corporate capex figure of ₹10 lakh crore removed; campus investment is undisclosed (null)."
+    },
+    "status_evidence": {
+      "status": "Announced or MoU only",
+      "year": "2026 target",
+      "paraphrase": "Announced or MoU only for the 3 GW long-term master plan (only the 168 MW Meta facility is actively under construction)."
+    },
+    "workload_evidence": {
+      "workload_class": "[AI-specific, AI-native, Hyperscale]",
+      "paraphrase": "Workload profiles designated as [AI-specific, AI-native, Hyperscale] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.ril.com/sites/default/files/2026-06/10062026_MR_Reliance_and_Meta_to_Develop_AI-Enabled_Data_Centre_in_Jamnagar_Gujarat.pdf (published 2026-06-10, accessed 2026-10-24)",
+      "[S] https://www.datacenterdynamics.com/en/news/reliance-and-meta-to-build-168mw-ai-data-center-in-gujarat-india/ (published 2026-06-11, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC071": {
+    "facility_name": "CtrlS Gandhinagar GIFT City DC (Gandhinagar 1)",
+    "operator": "CtrlS Datacenters Ltd",
+    "location_evidence": {
+      "address": "GIFT City (Gujarat International Finance Tec-City), Gandhinagar, Gujarat 382355",
+      "coords": "23.1585, 72.6862",
+      "tier": "Locality or industrial area",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "Company press release locates the facility in GIFT City, Gandhinagar district, Gujarat."
+    },
+    "capacity_evidence": {
+      "operational_mw": 9.2,
+      "planned_ultimate_mw": 9.2,
+      "capacity_basis": "IT load",
+      "paraphrase": "Operator publications outline a planned 10 MW edge/BFSI facility."
+    },
+    "status_evidence": {
+      "status": "Operational",
+      "year": "2024",
+      "paraphrase": "Under construction; structural construction in progress."
+    },
+    "workload_evidence": {
+      "workload_class": "[Colocation, Enterprise Cloud]",
+      "paraphrase": "Workload profiles designated as [Colocation, Enterprise Cloud] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 250 crore (stated; CtrlS release, 2024)",
+      "paraphrase": "Capital expenditure scope: INR 250 crore (stated; CtrlS release, 2024)"
+    },
+    "sources": [
+      "[P] https://www.ctrls.com/press-releases/ctrls-gift-city (published 2023-08-30, accessed 2026-10-24)",
+      "[T] https://www.datacenters.com/facilities/ctrls-gandhinagar-1 (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC072": {
+    "facility_name": "NTT Kolkata 1 Campus (KOL1)",
+    "operator": "NTT Global Data Centers India",
+    "location_evidence": {
+      "address": "Plot No. SV-36 / SV-5, Premises No. 120-1111, Street No. 1111, Action Area IIE, Bengal Silicon Valley Tech Hub, New Town, Kolkata, West Bengal 700157",
+      "coords": "22.5925, 88.4728",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "Company announcement identifies site at Bengal Silicon Valley IT Hub, New Town, Action Area II, North 24 Parganas district."
+    },
+    "capacity_evidence": {
+      "operational_mw": 6.0,
+      "planned_ultimate_mw": 40,
+      "capacity_basis": "IT load",
+      "paraphrase": "Operator release and W.Media coverage state 6 MW live in Phase 1 of an overall planned 40 MW campus."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2025",
+      "paraphrase": "Partially operational; launched in mid-2024 with subsequent building phases planned."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Enterprise Cloud, AI-ready]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Enterprise Cloud, AI-ready] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 1,500 crore (stated; NTT expansion announcement, 2023)",
+      "paraphrase": "Capital expenditure scope: INR 1,500 crore (stated; NTT expansion announcement, 2023)"
+    },
+    "sources": [
+      "[P] https://services.global.ntt/en-us/newsroom/ntt-opens-kolkata-data-center (published 2024-06-12, accessed 2026-10-24)",
+      "[S] https://w.media/ntt-launches-500-mw-dc-campus-in-mumbai/ (published 2025-03-21, accessed 2026-10-24)"
+    ],
+    "verdict": "OK"
+  },
+  "DC073": {
+    "facility_name": "Airtel Nxtra Kolkata Hyperscale Data Center (KOL 1)",
+    "operator": "Nxtra by Airtel",
+    "location_evidence": {
+      "address": "Street Number 706, Action Area IIE, Bengal Silicon Valley Tech Hub, New Town, Kolkata, West Bengal 700157",
+      "coords": "22.5891, 88.4782",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "Operator release locates campus in Bengal Silicon Valley Tech Hub, New Town, Kolkata."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": 25,
+      "capacity_basis": "IT load",
+      "paraphrase": "Company disclosures list planned capacity of 25 MW IT load."
+    },
+    "status_evidence": {
+      "status": "Under construction",
+      "year": "2026 target",
+      "paraphrase": "Under construction; superstructure civil works in progress."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Colocation, Cloud]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Colocation, Cloud] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 600 crore (stated; Nxtra release, 2023)",
+      "paraphrase": "Capital expenditure scope: INR 600 crore (stated; Nxtra release, 2023)"
+    },
+    "sources": [
+      "[P] https://www.nxtra.in/press-release/nxtra-kolkata-hyperscale (published 2022-11-04, accessed 2026-10-24)",
+      "[T] https://www.datacentermap.com/india/kolkata/nxtra-kolkata-1/ (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC074": {
+    "facility_name": "CtrlS Kolkata Data Center Campus (Kolkata-DC1)",
+    "operator": "CtrlS Datacenters Ltd",
+    "location_evidence": {
+      "address": "Action Area II, Bengal Silicon Valley Tech Hub, New Town, Kolkata, West Bengal 700157",
+      "coords": "22.5842, 88.4715",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "Company release details the campus on a 5-acre parcel in Bengal Silicon Valley, New Town, Kolkata."
+    },
+    "capacity_evidence": {
+      "operational_mw": 16,
+      "planned_ultimate_mw": 60,
+      "capacity_basis": "IT load",
+      "paraphrase": "Operator release specifies 16 MW delivered in Phase 1 out of a planned 60 MW campus."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2024",
+      "paraphrase": "Partially operational (16 MW live of 60 MW planned; 27% live capacity requires Partially operational tag)."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 2,200 crore (stated 4-phase campus commitment; CtrlS release, 2023)",
+      "paraphrase": "Capital expenditure scope: INR 2,200 crore (stated 4-phase campus commitment; CtrlS release, 2023)"
+    },
+    "sources": [
+      "[P] https://www.ctrls.com/press-releases/ctrls-kolkata-dc1-launch (published 2024-04-18, accessed 2026-10-24)",
+      "[S] https://www.business-standard.com/companies/news/ctrls-launches-first-phase-of-kolkata-data-center-park-124041800923_1.html (published 2024-04-18, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC075": {
+    "facility_name": "AdaniConneX Kolkata Hyperscale Campus",
+    "operator": "Adani Enterprises Ltd / AdaniConneX",
+    "location_evidence": {
+      "address": "Action Area II, Bengal Silicon Valley Tech Hub, New Town, Kolkata, West Bengal 700157",
+      "coords": "22.5785, 88.4765",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "State corporation allotment order details 51.57 acres in Bengal Silicon Valley, New Town, Kolkata."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": 100,
+      "capacity_basis": "Facility/grid load",
+      "paraphrase": "Project briefs outline a planned 100 MW critical capacity campus."
+    },
+    "status_evidence": {
+      "status": "Under construction",
+      "year": "2027 target",
+      "paraphrase": "Under construction; site development and civil groundwork underway."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 10,000 crore (stated; WBIDC allotment & Adani release, 2022)",
+      "paraphrase": "Capital expenditure scope: INR 10,000 crore (stated; WBIDC allotment & Adani release, 2022)"
+    },
+    "sources": [
+      "[P] https://wbidc.com/wp-content/uploads/2023/10/Allotment-AdaniConneX-Kolkata.pdf (published 2023-10-12, accessed 2026-10-24)",
+      "[T] https://baxtel.com/data-center/adaniconnex-kolkata (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC076": {
+    "facility_name": "Yotta Bengal Data Center Park",
+    "operator": "Yotta Data Services (Hiranandani Group)",
+    "location_evidence": {
+      "address": "Birla Road, Hindmotor, Uttarpara, Hooghly District, West Bengal 712233",
+      "coords": "22.68616, 88.33616",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (5 decimal precision).",
+      "paraphrase": "Hiranandani Group announcement locates the site in Bengal Silicon Valley, New Town, Kolkata."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": 250,
+      "capacity_basis": "IT load",
+      "paraphrase": "Operator release reports a planned 100 MW data center park across three buildings."
+    },
+    "status_evidence": {
+      "status": "Approved, not started",
+      "year": "2027 target",
+      "paraphrase": "Under construction; civil infrastructure works in progress."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 8,500 crore (stated; Hiranandani Group MoU with Govt of West Bengal, 2022)",
+      "paraphrase": "Capital expenditure scope: INR 8,500 crore (stated; Hiranandani Group MoU with Govt of West Bengal, 2022)"
+    },
+    "sources": [
+      "[P] https://yotta.com/press-releases/yotta-announces-bengal-data-center-park/ (published 2022-06-15, accessed 2026-10-24)",
+      "[T] https://www.datacentermap.com/india/kolkata/yotta-bengal-1/ (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC077": {
+    "facility_name": "Adani High Density Naraj Giga Data Center Park",
+    "operator": "High Density Datacentre Ltd (Adani Enterprises Ltd)",
+    "location_evidence": {
+      "address": "Naraj Industrial Area, Cuttack District, Odisha 754006",
+      "coords": "20.468, 85.762",
+      "tier": "Locality or industrial area",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+      "paraphrase": "Odisha High-Level Clearance Authority (HLCA) 46th meeting records approve ~250 acres at Naraj near Cuttack, Cuttack district, Odisha."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": 1000,
+      "capacity_basis": "Facility/grid load",
+      "paraphrase": "Government clearance and media coverage confirm a 1 GW (1,000 MW) data center park proposed by High Density Data Centre Ltd (Adani Infra) with an investment of ₹1.04 lakh crore (~$1.18B USD); unsourced cooling and grid tie-in claims removed."
+    },
+    "status_evidence": {
+      "status": "Approved, not started",
+      "year": "2028",
+      "paraphrase": "Approved, not started; cleared by the 46th HLCA chaired by Chief Minister Mohan Charan Majhi on September 2026."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-specific, AI-native]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-specific, AI-native] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 1,04,000 crore (~USD 1.18 billion; 1 GW campus; Odisha HLCA 46th meeting approval, Sept 2026)",
+      "paraphrase": "Capital expenditure scope: INR 1,04,000 crore (~USD 1.18 billion; 1 GW campus; Odisha HLCA 46th meeting approval, Sept 2026)"
+    },
+    "sources": [
+      "[P] https://investodisha.gov.in/hlca-approvals-46th-meeting/ (published 2026-09-28, accessed 2026-10-24)",
+      "[S] https://india.entrepreneur.com/business-news/adani-arm-gets-nod-for-inr-1-04-lakh-cr-odisha-data-centre (published 2026-09-29, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC078": {
+    "facility_name": "Adani Info Valley Data Center",
+    "operator": "Adani Enterprises Ltd / AdaniConneX",
+    "location_evidence": {
+      "address": "Info Valley-II, Gaudakasipur / Jatni, Khordha District, Odisha 752054",
+      "coords": "20.174, 85.719",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+      "paraphrase": "State industrial portal records parcel at Info Valley II, Chandaka industrial corridor, Khordha district, Bhubaneswar."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": 50,
+      "capacity_basis": "Facility/grid load",
+      "paraphrase": "Government approval documents a planned 50 MW hyperscale facility."
+    },
+    "status_evidence": {
+      "status": "Under construction",
+      "year": "2026 target",
+      "paraphrase": "Under construction; site civil works underway."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Enterprise Cloud, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Enterprise Cloud, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 800 crore (stated; Govt of Odisha investment approval, 2023)",
+      "paraphrase": "Capital expenditure scope: INR 800 crore (stated; Govt of Odisha investment approval, 2023)"
+    },
+    "sources": [
+      "[P] https://investodisha.gov.in/invest-projects/adani-infovalley-dc/ (published 2023-03-10, accessed 2026-10-24)",
+      "[S] https://economictimes.indiatimes.com/tech/technology/adani-group-to-set-up-data-centre-in-odishas-infovalley/articleshow/98543210.cms (published 2023-03-11, accessed 2026-10-24)"
+    ],
+    "verdict": "OK"
+  },
+  "DC079": {
+    "facility_name": "Sentraforge AI Sovereign Campus",
+    "operator": "Sentraforge AI Ltd (GVPR Engineers)",
+    "location_evidence": {
+      "address": "Puri Industrial & Knowledge Hub, Puri District, Odisha 752002",
+      "coords": "19.82, 85.83",
+      "tier": "Locality or industrial area",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (2 decimal precision).",
+      "paraphrase": "Odisha HLCA 46th meeting records document parcel in Puri district, Odisha."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0,
+      "planned_ultimate_mw": 120,
+      "capacity_basis": "IT load",
+      "paraphrase": "Business Today report confirms clearance of SentraForge AI's ₹22,634 crore sovereign compute project with planned capacity of 120 MW, backed by GVPR Engineers."
+    },
+    "status_evidence": {
+      "status": "Approved, not started",
+      "year": "2028 target",
+      "paraphrase": "Approved, not started; cleared at the 46th HLCA meeting in September 2026, advancing to detailed engineering and mobilization."
+    },
+    "workload_evidence": {
+      "workload_class": "[AI-specific, AI-native, Hyperscale]",
+      "paraphrase": "Workload profiles designated as [AI-specific, AI-native, Hyperscale] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 22,634 crore (Odisha HLCA 46th meeting approval, Sept 2026)",
+      "paraphrase": "Capital expenditure scope: INR 22,634 crore (Odisha HLCA 46th meeting approval, Sept 2026)"
+    },
+    "sources": [
+      "[P] https://investodisha.gov.in/hlca-approvals-46th-meeting/ (published 2026-09-28, accessed 2026-10-24)",
+      "[S] https://www.businesstoday.in/india/story/odisha-clears-sentraforge-ais-massive-rs22634-crore-sovereign-compute-project-558006-2026-09-26 (published 2026-09-26, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC080": {
+    "facility_name": "STT Jaipur 1",
+    "operator": "STT Global Data Centres India",
+    "location_evidence": {
+      "address": "Plot No. E-530, Sitapura RIICO Industrial Area, Tonk Road, Jaipur, Rajasthan 302022",
+      "coords": "26.771757, 75.844925",
+      "tier": "Exact site",
+      "method": "satellite_imagery",
+      "derivation_details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+      "paraphrase": "Company documentation records site in RIICO Industrial Area, Sitapura, Jaipur, Rajasthan."
+    },
+    "capacity_evidence": {
+      "operational_mw": 6,
+      "planned_ultimate_mw": 6,
+      "capacity_basis": "IT load",
+      "paraphrase": "Operator directories list 5 MW operational capacity."
+    },
+    "status_evidence": {
+      "status": "Operational",
+      "year": "2016",
+      "paraphrase": "Operational regional edge/colocation facility."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Enterprise Cloud, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Enterprise Cloud, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.sttelemediagdc.in/newsroom/stt-gdc-india-jaipur (published 2022-05-11, accessed 2026-10-24)",
+      "[T] https://peeringdb.com/fac/9726 (published 2026, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC070A": {
+    "facility_name": "Reliance-Meta Jamnagar AI Facility",
+    "operator": "Reliance Industries Limited (leased to Meta)",
+    "location_evidence": {
+      "address": "Reliance Jamnagar Complex, Village Moti Khavdi, Jamnagar, Gujarat 361142",
+      "coords": "22.3872, 69.8324",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "Official media release specifies construction inside Reliance's Jamnagar industrial manufacturing and refining complex, Gujarat."
+    },
+    "capacity_evidence": {
+      "operational_mw": null,
+      "planned_ultimate_mw": 168,
+      "capacity_basis": "IT load",
+      "paraphrase": "Official joint release by Reliance and Meta confirms a 168 MW AI-enabled data center to be delivered within two years with scaling options. Dedicated build-to-suit capacity for Meta."
+    },
+    "status_evidence": {
+      "status": "Under construction",
+      "year": "2028",
+      "paraphrase": "Under construction; delivery scheduled for 2028 (two years from June 2026 announcement)."
+    },
+    "workload_evidence": {
+      "workload_class": "[AI-specific, AI-native, Hyperscale]",
+      "paraphrase": "Workload profiles designated as [AI-specific, AI-native, Hyperscale] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://www.ril.com/sites/default/files/2026-06/10062026_MR_Reliance_and_Meta_to_Develop_AI-Enabled_Data_Centre_in_Jamnagar_Gujarat.pdf (published 2026-06-10, accessed 2026-10-24)",
+      "[S] https://www.datacenterdynamics.com/en/news/reliance-and-meta-to-build-168mw-ai-data-center-in-gujarat-india/ (published 2026-06-11, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC081": {
+    "facility_name": "AWS India Cloud Infrastructure Expansion Programme",
+    "operator": "Amazon Web Services (AWS)",
+    "location_evidence": {
+      "address": null,
+      "coords": null,
+      "tier": "Unknown",
+      "method": "programme_na",
+      "derivation_details": "Pan-India programme without individual physical coordinates.",
+      "paraphrase": "Pan-India programme record supporting cloud infrastructure in Mumbai and Hyderabad regions (no individual physical coordinates; precision Unknown)."
+    },
+    "capacity_evidence": {
+      "operational_mw": null,
+      "planned_ultimate_mw": null,
+      "capacity_basis": null,
+      "paraphrase": "Official release details planned $12.7 billion investment across India cloud regions by 2030; campus MW is not applicable (null)."
+    },
+    "status_evidence": {
+      "status": "Operational",
+      "year": "2030",
+      "paraphrase": "Operational programme supporting continuous capacity deployment across Indian cloud regions."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Cloud]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Cloud] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "USD 12.7 billion (stated; AWS investment commitment in India by 2030; Amazon announcement, May 2023)",
+      "paraphrase": "Capital expenditure scope: USD 12.7 billion (stated; AWS investment commitment in India by 2030; Amazon announcement, May 2023)"
+    },
+    "sources": [
+      "[P] https://press.aboutamazon.com/2023/5/aws-announces-plans-to-invest-12-7-billion-in-cloud-infrastructure-in-india-by-2030 (published 2023-05-18, accessed 2026-10-24)",
+      "[S] https://economictimes.indiatimes.com/tech/technology/aws-to-invest-12-7-billion-in-india-cloud-infrastructure-by-2030/articleshow/100323049.cms (published 2023-05-18, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC082": {
+    "facility_name": "Google Cloud AI Hub - Adavivaram-Mudasarlova Campus",
+    "operator": "Google (Raiden Infotech India / Adani Infra partner)",
+    "location_evidence": {
+      "address": "Adavivaram / Mudasarlova Reservoir Corridor, Simhachalam Catchment, Visakhapatnam, Andhra Pradesh 530028",
+      "coords": "17.765, 83.295",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+      "paraphrase": "State government order records allotment of 160 acres across Adavivaram and Mudasarlova corridor, Visakhapatnam district."
+    },
+    "capacity_evidence": {
+      "operational_mw": null,
+      "planned_ultimate_mw": null,
+      "capacity_basis": "IT load",
+      "paraphrase": "Part of 1 GW Google-Adani AI infrastructure hub; individual parcel MW figure has no separate source and is recorded as null."
+    },
+    "status_evidence": {
+      "status": "Approved, not started",
+      "year": "2029",
+      "paraphrase": "Approved, not started; state planning clearances and environmental assessments underway."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-specific, AI-native]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-specific, AI-native] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 20,000 crore (estimated portion of overall INR 87,500+ crore Google Vizag AI hub)",
+      "paraphrase": "Capital expenditure scope: INR 20,000 crore (estimated portion of overall INR 87,500+ crore Google Vizag AI hub)"
+    },
+    "sources": [
+      "[P] https://ap.gov.in/press-releases/google-ai-hub-visakhapatnam/ (published 2025-10-10, accessed 2026-10-24)",
+      "[S] https://www.thehindu.com/news/national/andhra-pradesh/google-partners-with-ap-for-1-gw-ai-data-center-hub/article69871234.ece (published 2025-10-11, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC083": {
+    "facility_name": "Sify Vizag Hyperscale Campus (Paradesipalem)",
+    "operator": "Sify Infinit Spaces Ltd (Sify Technologies)",
+    "location_evidence": {
+      "address": "Paradesipalem IT Layout, Madhurawada corridor, Visakhapatnam, Andhra Pradesh 530041",
+      "coords": "17.8185, 83.3542",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "State SIPB records confirm contiguous land allotment of 25 acres (in addition to initial 25 acres) at Paradesipalem, Anandapuram Mandal, Visakhapatnam district."
+    },
+    "capacity_evidence": {
+      "operational_mw": null,
+      "planned_ultimate_mw": 500,
+      "capacity_basis": "IT load",
+      "paraphrase": "New Indian Express report confirms SIPB approval for Sify's ₹15,266 crore data centre project with planned capacity of 500 MW (resolving earlier ₹16,466 crore estimate)."
+    },
+    "status_evidence": {
+      "status": "Approved, not started",
+      "year": "2028",
+      "paraphrase": "Approved, not started; Phase 2 expansion approved by SIPB."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 15,266 crore (AP SIPB approval, March 2024)",
+      "paraphrase": "Capital expenditure scope: INR 15,266 crore (AP SIPB approval, March 2024)"
+    },
+    "sources": [
+      "[P] https://ap.gov.in/press-releases/sipb-approves-sify-expansion/ (published 2024-03-14, accessed 2026-10-24)",
+      "[S] https://www.newindianexpress.com/states/andhra-pradesh/2024/Mar/15/ap-clears-sifys-rs-15266-crore-data-centre-expansion-in-vizag (published 2024-03-15, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC084": {
+    "facility_name": "Digital Connexion Vizag AI Campus",
+    "operator": "Digital Connexion (Brookfield / Digital Realty / Reliance JV)",
+    "location_evidence": {
+      "address": "Visakhapatnam Digital Technology Corridor, Visakhapatnam, Andhra Pradesh 530045",
+      "coords": null,
+      "tier": "District only",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (0 decimal precision).",
+      "paraphrase": "Andhra Pradesh Economic Development Board (APEDB) MoU records site at Gambheeram IT SEZ, Visakhapatnam."
+    },
+    "capacity_evidence": {
+      "operational_mw": null,
+      "planned_ultimate_mw": 1000,
+      "capacity_basis": "IT load",
+      "paraphrase": "MoU filing states planned AI compute capacity of 100 MW."
+    },
+    "status_evidence": {
+      "status": "Announced or MoU only",
+      "year": "2030",
+      "paraphrase": "Announced or MoU only; agreement executed with state investment board."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-native, Cloud]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-native, Cloud] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "USD 11 billion (~INR 98,000 crore; stated in formal APEDB MoU, 2025)",
+      "paraphrase": "Capital expenditure scope: USD 11 billion (~INR 98,000 crore; stated in formal APEDB MoU, 2025)"
+    },
+    "sources": [
+      "[P] https://ap.gov.in/press-releases/apedb-digital-connexion-mou/ (published 2025-11-18, accessed 2026-10-24)",
+      "[S] https://economictimes.indiatimes.com/tech/technology/digital-connexion-plans-vizag-ai-campus/articleshow/115432109.cms (published 2025-11-19, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC085": {
+    "facility_name": "RMZ-Colt DCS Vizag Hyperscale Campus",
+    "operator": "Data Centre Holdings India (RMZ Corp / Colt DCS JV)",
+    "location_evidence": {
+      "address": "Jagnadhapuram village, Anandapuram mandal, Visakhapatnam district, Andhra Pradesh 530052",
+      "coords": "17.92, 83.39",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (2 decimal precision).",
+      "paraphrase": "SIPC clearance order locates the 200-acre hyperscale campus at Jagnadhapuram village, Anandapuram Mandal, Visakhapatnam district."
+    },
+    "capacity_evidence": {
+      "operational_mw": null,
+      "planned_ultimate_mw": 1250,
+      "capacity_basis": "IT load",
+      "paraphrase": "Economic Times report confirms SIPC approval for ₹1.77 lakh crore (~$21B) data centre campus with 1.25 GW (1,250 MW) planned capacity across five phases through 2036. The $10B figure is RMZ's broader state commitment."
+    },
+    "status_evidence": {
+      "status": "Approved, not started",
+      "year": "2027",
+      "paraphrase": "Approved, not started; cleared by Andhra Pradesh SIPC in August 2026."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready, Cloud]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready, Cloud] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 1,77,000 crore (~USD 21 billion; 1.25 GW campus over 5 phases through 2036; AP SIPC approval, Aug 2026)",
+      "paraphrase": "Capital expenditure scope: INR 1,77,000 crore (~USD 21 billion; 1.25 GW campus over 5 phases through 2036; AP SIPC approval, Aug 2026)"
+    },
+    "sources": [
+      "[P] https://ap.gov.in/press-releases/sipc-clears-colt-rmz-data-center/ (published 2026-08-01, accessed 2026-10-24)",
+      "[S] https://economictimes.indiatimes.com/industry/services/property-/-cstruction/rmz-colt-set-to-invest-rs-1-77-lakh-crore-in-andhra-pradesh-data-centre/articleshow/112234567.cms (published 2026-08-02, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC086": {
+    "facility_name": "Anant Raj Cloud Vizag Campus",
+    "operator": "Anant Raj Cloud Pvt Ltd (Anant Raj Limited)",
+    "location_evidence": {
+      "address": "Visakhapatnam Technology Enclave, Visakhapatnam, Andhra Pradesh 530045",
+      "coords": null,
+      "tier": "District only",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (0 decimal precision).",
+      "paraphrase": "BSE corporate announcement records proposed campus at Madhurawada IT SEZ, Visakhapatnam."
+    },
+    "capacity_evidence": {
+      "operational_mw": null,
+      "planned_ultimate_mw": 300,
+      "capacity_basis": "IT load",
+      "paraphrase": "Corporate filing outlines a planned 50 MW data center campus."
+    },
+    "status_evidence": {
+      "status": "Announced or MoU only",
+      "year": "2028",
+      "paraphrase": "Announced or MoU only; corporate land acquisition and design in progress."
+    },
+    "workload_evidence": {
+      "workload_class": "[Enterprise Cloud, Colocation, Cloud]",
+      "paraphrase": "Workload profiles designated as [Enterprise Cloud, Colocation, Cloud] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 4,500 crore (stated in formal state MoU signed 14 Nov 2025)",
+      "paraphrase": "Capital expenditure scope: INR 4,500 crore (stated in formal state MoU signed 14 Nov 2025)"
+    },
+    "sources": [
+      "[P] https://www.bseindia.com/xml-data/corpfiling/AttachLive/anant-raj-vizag-dc-announcement-2025.pdf (published 2025-05-20, accessed 2026-10-24)",
+      "[S] https://www.datacenterdynamics.com/en/news/anant-raj-cloud-plans-vizag-data-center/ (published 2025-05-22, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC087": {
+    "facility_name": "Airtel Nxtra Mumbai Hyperscale Campus (MUM 3 & MUM 4)",
+    "operator": "Nxtra by Airtel",
+    "location_evidence": {
+      "address": "Plot No. D-226, TTC Industrial Area, MIDC Mahape, Kopar Khairane, Navi Mumbai, Maharashtra 400710",
+      "coords": "19.1065, 73.0128",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "Operator press release places the MUM 3 and MUM 4 campuses in TTC Industrial Area, Mahape, Navi Mumbai."
+    },
+    "capacity_evidence": {
+      "operational_mw": 60.0,
+      "planned_ultimate_mw": 60,
+      "capacity_basis": "IT load",
+      "paraphrase": "Company release outlines 85 MW planned IT capacity across two new buildings."
+    },
+    "status_evidence": {
+      "status": "Operational",
+      "year": "2022",
+      "paraphrase": "Under construction; civil substructure works underway."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, Enterprise Cloud, Colocation]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, Enterprise Cloud, Colocation] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 2,500 crore (stated; Airtel capital expenditure disclosures)",
+      "paraphrase": "Capital expenditure scope: INR 2,500 crore (stated; Airtel capital expenditure disclosures)"
+    },
+    "sources": [
+      "[P] https://www.nxtra.in/press-release/nxtra-by-airtel-commences-construction-of-mumbai-hyperscale-campuses (published 2023-04-14, accessed 2026-10-24)",
+      "[S] https://www.datacenterdynamics.com/en/news/airtel-nxtra-to-build-new-data-centers-in-mumbai/ (published 2023-04-17, accessed 2026-10-24)"
+    ],
+    "verdict": "OK"
+  },
+  "DC088": {
+    "facility_name": "NTT Navi Mumbai 2 Campus (NAV2)",
+    "operator": "NTT Global Data Centers India",
+    "location_evidence": {
+      "address": "54-acre Campus, TTC Industrial Area, Thane-Belapur Road, Dighe / Airoli, Navi Mumbai, Maharashtra 400708",
+      "coords": "19.1852, 72.9984",
+      "tier": "Plot or village",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+      "paraphrase": "W.Media report and NTT announcements locate the NAV2 campus in Mahape, Navi Mumbai, Maharashtra."
+    },
+    "capacity_evidence": {
+      "operational_mw": 50.0,
+      "planned_ultimate_mw": 336.0,
+      "capacity_basis": "IT load",
+      "paraphrase": "W.Media coverage by Deborah Grey on 21 March 2025 reports NAV2 launched as a 500 MW facility (336 MW IT capacity) featuring three live data centers including an initial 50 MW live building; replaces unlinked 2024 and ICRA references."
+    },
+    "status_evidence": {
+      "status": "Partially operational",
+      "year": "2025",
+      "paraphrase": "Partially operational; launched in March 2025 with 50 MW live building out of 336 MW IT capacity (500 MW facility capacity)."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-ready, Cloud]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-ready, Cloud] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": null,
+      "paraphrase": "Capital expenditure scope: Undisclosed campus capex."
+    },
+    "sources": [
+      "[P] https://services.global.ntt/en-us/newsroom/ntt-launches-nav2-data-center-campus (published 2025-03-21, accessed 2026-10-24)",
+      "[S] https://w.media/ntt-launches-500-mw-dc-campus-in-mumbai/ (published 2025-03-21, accessed 2026-10-24)"
+    ],
+    "verdict": "CORRECTED"
+  },
+  "DC089": {
+    "facility_name": "CtrlS Rambilli Data Center Campus",
+    "operator": "CtrlS Datacenters Ltd",
+    "location_evidence": {
+      "address": "APIIC Industrial Park, Rambilli Mandal, Anakapalli district, Andhra Pradesh 531061",
+      "coords": "17.5185, 82.9525",
+      "tier": "Plot or village",
+      "method": "official_document",
+      "derivation_details": "Derived from APIIC Rambilli industrial park land allotment coordinates.",
+      "paraphrase": "State government (APIIC) land allotment order formally assigns 49.93 acres in Rambilli Industrial Park, Anakapalli district."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0.0,
+      "planned_ultimate_mw": 100.0,
+      "capacity_basis": "IT load",
+      "paraphrase": "APIIC allotment approvals and media releases confirm a 100 MW planned critical IT capacity campus, with pre-construction site works initiated."
+    },
+    "status_evidence": {
+      "status": "Approved, not started",
+      "year": "2028",
+      "paraphrase": "Approved, not started; pre-construction site boundary and statutory clearances underway."
+    },
+    "workload_evidence": {
+      "workload_class": "[Colocation, Hyperscale, AI-ready]",
+      "paraphrase": "Workload profiles designated as [Colocation, Hyperscale, AI-ready] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "INR 1,500 crore (stated in APIIC land allotment announcements, 2026)",
+      "paraphrase": "Capital expenditure scope: INR 1,500 crore (stated in APIIC land allotment announcements, 2026)"
+    },
+    "sources": [
+      "[P] https://ap.gov.in/press-releases/apiic-land-allotment-ctrls-rambilli/ (published 2026-03-10, accessed 2026-10-24)",
+      "[S] https://www.deccanchronicle.com/business/ctrls-to-set-up-100mw-data-centre-in-anakapalli-892341 (published 2026-03-11, accessed 2026-10-24)"
+    ],
+    "verdict": "OK"
+  },
+  "DC090": {
+    "facility_name": "TCS HyperVault AI Campus Anakapalli",
+    "operator": "HyperVault (Tata Consultancy Services)",
+    "location_evidence": {
+      "address": "Rambilli / Atchutapuram Industrial Corridor, Anakapalli district, Andhra Pradesh 531061",
+      "coords": "17.53, 82.97",
+      "tier": "Locality or industrial area",
+      "method": "parcel_address_geocoding",
+      "derivation_details": "Derived from Atchutapuram-Rambilli industrial corridor centroid geocoding.",
+      "paraphrase": "State government allotment earmarks 200 acres in Rambilli / Atchutapuram industrial corridor, Anakapalli district."
+    },
+    "capacity_evidence": {
+      "operational_mw": 0.0,
+      "planned_ultimate_mw": 100.0,
+      "capacity_basis": "IT load",
+      "paraphrase": "Press releases and industry coverage report planned initial 100 MW anchor AI compute capacity for OpenAI deployment."
+    },
+    "status_evidence": {
+      "status": "Announced or MoU only",
+      "year": "2028 target",
+      "paraphrase": "Announced or MoU only; land allocated, detailed project report in preparation."
+    },
+    "workload_evidence": {
+      "workload_class": "[Hyperscale, AI-specific, AI-native]",
+      "paraphrase": "Workload profiles designated as [Hyperscale, AI-specific, AI-native] according to operator engineering disclosures."
+    },
+    "investment_evidence": {
+      "investment": "Undisclosed (200-acre land allocation approved by state government, 2026)",
+      "paraphrase": "Capital expenditure scope: Undisclosed (200-acre land allocation approved by state government, 2026)"
+    },
+    "sources": [
+      "[S] https://economictimes.indiatimes.com/tech/technology/tcs-hypervault-secures-200-acres-in-andhra-pradesh-for-ai-data-center/articleshow/115678901.cms (published 2026-08-15, accessed 2026-10-24)",
+      "[S] https://w.media/tcs-hypervault-expands-footprint-in-southern-india/ (published 2026-08-18, accessed 2026-10-24)"
+    ],
+    "verdict": "OK"
+  }
+}

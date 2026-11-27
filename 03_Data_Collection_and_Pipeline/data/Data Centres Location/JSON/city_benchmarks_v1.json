@@ -1,0 +1,145 @@
+[
+ {
+  "market": "Mumbai",
+  "as_of": "2026-H1",
+  "operational_mw": 890,
+  "upcoming_mw": 1726,
+  "under_construction_mw": 281,
+  "planned_mw": 1445,
+  "basis": "operational capacity as reported",
+  "source": "https://www.voicendata.com/data-centre/indias-data-centre-pipeline-touches-386-gw-mumbai-leads-12540883",
+  "notes": null
+ },
+ {
+  "market": "Chennai",
+  "as_of": "2026-H1",
+  "operational_mw": 214,
+  "upcoming_mw": 368,
+  "under_construction_mw": 55,
+  "planned_mw": 313,
+  "basis": "operational capacity as reported",
+  "source": "Cushman & Wakefield India Data Centre H1 2026 Update (via trade press)",
+  "notes": null
+ },
+ {
+  "market": "Delhi NCR",
+  "as_of": "2026-H1",
+  "operational_mw": 183,
+  "upcoming_mw": 387,
+  "under_construction_mw": 27,
+  "planned_mw": 360,
+  "basis": "operational capacity as reported",
+  "source": "Cushman & Wakefield India Data Centre H1 2026 Update (via trade press)",
+  "notes": null
+ },
+ {
+  "market": "Bengaluru",
+  "as_of": "2026-H1",
+  "operational_mw": 162,
+  "upcoming_mw": 100,
+  "under_construction_mw": null,
+  "planned_mw": null,
+  "basis": "operational capacity as reported",
+  "source": "Cushman & Wakefield India Data Centre H1 2026 Update (via trade press)",
+  "notes": "Upcoming figure from a secondary summary."
+ },
+ {
+  "market": "Hyderabad",
+  "as_of": "2026-H1",
+  "operational_mw": 151,
+  "upcoming_mw": 710,
+  "under_construction_mw": null,
+  "planned_mw": null,
+  "basis": "operational capacity as reported",
+  "source": "Cushman & Wakefield India Data Centre H1 2026 Update (via trade press)",
+  "notes": null
+ },
+ {
+  "market": "Pune",
+  "as_of": "2026-H1",
+  "operational_mw": 133,
+  "upcoming_mw": 258,
+  "under_construction_mw": null,
+  "planned_mw": null,
+  "basis": "operational capacity as reported",
+  "source": "Cushman & Wakefield India Data Centre H1 2026 Update (via trade press)",
+  "notes": "From a secondary summary that was truncated; check the C&W PDF."
+ },
+ {
+  "market": "Kolkata",
+  "as_of": "2026-H1",
+  "operational_mw": 22,
+  "upcoming_mw": 84,
+  "under_construction_mw": 13,
+  "planned_mw": 71,
+  "basis": "operational capacity as reported",
+  "source": "Cushman & Wakefield India Data Centre H1 2026 Update (via trade press)",
+  "notes": "Reported 2% share does not match 22 MW of 1,789 MW."
+ },
+ {
+  "market": "India (top 7 markets, C&W stated total)",
+  "as_of": "2026-H1",
+  "operational_mw": 1789,
+  "upcoming_mw": 3860,
+  "under_construction_mw": 509,
+  "planned_mw": 3351,
+  "basis": "operational capacity as reported",
+  "source": "Cushman & Wakefield India Data Centre H1 2026 Update (via trade press)",
+  "notes": "Reported national total. City figures above sum to a different number; see check below."
+ },
+ {
+  "market": "Mumbai (alt source)",
+  "as_of": "2026-08",
+  "operational_mw": 1180,
+  "upcoming_mw": 1450,
+  "under_construction_mw": null,
+  "planned_mw": null,
+  "basis": "operational capacity as reported",
+  "source": "https://www.datacentres.com/news/mumbai-data-centre-market-1-180-mw-live-as-india-s-data-protection-act-fuels-a-s-slot2-2026-08-28",
+  "notes": "Different definition from C&W; 620 MW said to be under construction."
+ },
+ {
+  "market": "Chennai (alt source)",
+  "as_of": "2026-08",
+  "operational_mw": 340,
+  "upcoming_mw": null,
+  "under_construction_mw": null,
+  "planned_mw": null,
+  "basis": "operational capacity as reported",
+  "source": "https://www.datacentres.com/news/mumbai-data-centre-market-1-180-mw-live-as-india-s-data-protection-act-fuels-a-s-slot2-2026-08-28",
+  "notes": null
+ },
+ {
+  "market": "Telangana (state release)",
+  "as_of": "2026-09",
+  "operational_mw": 300,
+  "upcoming_mw": 2000,
+  "under_construction_mw": null,
+  "planned_mw": null,
+  "basis": "state government statement",
+  "source": "PTI via theprint.in, 24 Sep 2026",
+  "notes": "'More than 300 MW operational and 2 GW under development', Telangana release."
+ },
+ {
+  "market": "Hyderabad (CtrlS release)",
+  "as_of": "2025-01",
+  "operational_mw": 52,
+  "upcoming_mw": null,
+  "under_construction_mw": null,
+  "planned_mw": null,
+  "basis": "company statement",
+  "source": "https://tele.net.in/?p=167888",
+  "notes": null
+ },
+ {
+  "market": "India (government, from your brief)",
+  "as_of": "2026-08",
+  "operational_mw": 1575,
+  "upcoming_mw": null,
+  "under_construction_mw": null,
+  "planned_mw": null,
+  "basis": "government statement",
+  "source": "Rajya Sabha reply 7 Aug 2026 (press-confirmed; document pending)",
+  "notes": null
+ }
+]

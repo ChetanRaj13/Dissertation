@@ -1,0 +1,28 @@
+Section,Parameter,Description / Value,Notes & Methodological Boundaries
+Metadata,Workbook File Name,energy_datacentre_literature_synthesis_v1.xlsx,Master audited workbook for dissertation literature review
+Metadata,Workbook Full Path,c:\Users\rajch\Desktop\SEM 7\Dissertation\01_Literature_Review\Energy\energy_datacentre_literature_synthesis_v1.xlsx,Direct absolute local workspace path
+Metadata,Creation Timestamp,2026-11-17 01:49:39,Generated via automated PyMuPDF and openpyxl synthesis pipeline
+Metadata,Version,v1.0 (Audited Master Workbook),Stage 1 baseline containing verified extraction for E01-E04
+Metadata,Dissertation Scope,"India Data Centre Expansion: Energy, Power & Grid Sustainability","Focusing on grid integration, substation constraints, peak demand, captive power"
+Conventions,[S] Tag,Stated directly in source text,"Fact, number, or finding explicitly present in the source; zero extrapolation"
+Conventions,[I] Tag,Inference / Interpretation,"Quarantined methodological interpretation, synthesis deduction, or quality score"
+Conventions,NOT REPORTED,Value or dimension not stated in source,Strictly recorded when a variable or parameter is absent; no outside guessing
+Conventions,SECONDARY Tag,Web / Press / Trade Summary source,Flagged so source cannot count as independent evidence in synthesis patterns
+Sheet Guide,Source_Register,Comprehensive inventory of all 24 literature sources (E01-E19),"15 standard metadata columns including APA 7, methods, metrics, funding"
+Sheet Guide,Extraction,Granular verified data extractions (target 15-30 rows per full source),"20 columns including exact page, <=25-word excerpt, statement type, author caveat"
+Sheet Guide,Variable_Matrix,Cross-study comparative matrix across key energy dimensions,"Cells contain printed value + '(pdf p. X, row_id)' locator"
+Sheet Guide,Normalised_Values,Harmonised metrics with Excel conversion formulas,"Common units: TWh/yr, GW, share (%). IT vs facility boundaries kept strictly separate"
+Sheet Guide,Definitions_Compared,"Taxonomy of data centre load, capacity, contracted demand, geography",Identifies comparability distortions and boundary misalignments [I]
+Sheet Guide,Patterns,Neutral empirical patterns with independent source counts,"COUNTIF formulas, lineage tracing to prevent double-counting, counter-evidence"
+Sheet Guide,Contradictions_and_Gaps,"Direct empirical disagreements, justified literature gaps, weak evidence","Explains divergence drivers [I] (method, boundary, vintage, geography)"
+Sheet Guide,Evidence_Quality,Systematic quality scoring (0 to 2) across 8 dimensions,"Peer review, data sources, method, boundaries, limitations, India data, independence, reproducibility"
+Sheet Guide,Case_Studies,"Detailed chronological timelines for Ashburn, Dublin, and India",Includes formal test of Ashburn '50 million sq ft idle capacity' claim
+Sheet Guide,Link_to_My_Dataset,Direct mapping between empirical sources and user's dissertation indicators,"Evaluates comparability [I], unheld source indicators, and state inquiry questions"
+Sheet Guide,India_Evidence,Consolidated ledger of all India-specific extractions,"Traces origin, merged row_ids, and quality notes [I] across Indian states and hubs"
+Sheet Guide,Web_Press,"Granular extractions from web, press, and trade reports","Includes paragraph numbers, secondary flags, and commercial bias assessments"
+Sheet Guide,Checks,"Mechanical verification metrics, COUNTIFS category matrix, audit logs","Validates excerpt lengths, page locators, recalculation consistency"
+Sheet Guide,Decisions_Log,Transparent audit trail of conservative research decisions,Documents issues where text was unclear and conservative rules applied
+Sheet Guide,Progress_Log,Chronological record of multi-stage execution and backups,"Logs timestamps, sources processed, rows added, errors resolved, and backups saved"
+Verification Rules,PyMuPDF Automated Verification,100% code check of all excerpts against PDF text,Verifies verbatim character sequence on stated page before row is accepted
+Verification Rules,Excerpt Word Count Cap,Maximum 25 words per excerpt,Strict enforcement of dissertation protocol excerpt brevity
+Verification Rules,Backup Safeguard,Pre-stage backup preservation,Never overwrites previous stage backups; preserved as stageN_backup.xlsx

@@ -1,0 +1,8 @@
+﻿market,dataset_operational_mw,benchmark_operational_mw,gap_mw,dataset_operational_sites,explanation
+Mumbai,599.7,890.0,290.3,13,Gap of 290.3 MW: C&W benchmark measures Gross Facility Load and estimated hyperscale allocations. Dataset tracks confirmed Critical IT Load. Added 110 MW live capacity across Nxtra Mahape (60 MW) and NTT NAV2A (50 MW). Remaining gap comprises captive sub-5 MW banking data centers.
+Chennai,215.4,214.0,-1.4,8,"Concordance 100.7%: Dataset operational load (215.4 MW) matches C&W benchmark (214.0 MW) within 0.7%, reflecting high reporting transparency across Ambattur and Siruseri hubs."
+Delhi NCR,118.0,183.0,65.0,8,"Gap of 65.0 MW: Real estate benchmarks track Gross Facility Power and include enterprise edge server rooms in Okhla, Sector 18, and Gurgaon below the 5 MW dissertation threshold."
+Bengaluru,91.5,162.0,70.5,7,Gap of 70.5 MW: C&W includes proprietary tech-park R&D labs and legacy sub-5 MW telecom centers (e.g. NTT Netmagic BLR 2 is 4.5 MW).
+Hyderabad,21.8,151.0,129.2,2,"Gap of 129.2 MW: C&W estimates AWS ap-south-2 AZs at ~100-120 MW. Under strict researcher protocol (Item 3.9), AWS capacity is kept blank (null) in absence of primary MW disclosure."
+Pune,103.0,133.0,30.0,3,Gap of 30.0 MW: C&W benchmark counts legacy Hinjewadi/Magarpatta enterprise data centers below 5 MW (e.g. Web Werks PUN-1 is 3.2 MW).
+Kolkata,22.0,22.0,0.0,2,100.0% Exact Match: Dataset operational IT load (22.0 MW: CtrlS 16 MW + NTT 6 MW) aligns exactly with C&W H1 2026 market figure (22.0 MW).

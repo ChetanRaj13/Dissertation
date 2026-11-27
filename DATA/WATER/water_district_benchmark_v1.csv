@@ -1,0 +1,30 @@
+state,district,cgwb_printed_name,stage_of_extraction_pct,stress_category,national_rank_of_709,state_median_district_stage_pct,diff_from_state_median_pts,ratio_to_state_median,status_vs_state_median
+Andhra Pradesh,Anakapalli,Anakapalli,31.37,Safe,525,32.91,-1.54,0.9532,Below median
+Andhra Pradesh,Guntur,Guntur,21.08,Safe,582,32.91,-11.83,0.6405,Below median
+Andhra Pradesh,Visakhapatnam,Visakhapatnam,43.85,Safe,423,32.91,10.94,1.3324,Above median
+Andhra Pradesh,Vizianagaram,Vizianagaram,27.27,Safe,548,32.91,-5.64,0.8286,Below median
+Bihar,Patna,Patna,60.95,Safe,277,46.7,14.25,1.3051,Above median
+Chhattisgarh,Raipur,Raipur,60.03,Safe,287,46.17,13.86,1.3002,Above median
+Delhi,South East Delhi,South East,88.25,Semi-Critical,124,90.84,-2.59,0.9715,Below median
+Gujarat,Ahmedabad,Ahmedabad,72.74,Semi-Critical,170,50.54,22.2,1.4393,Above median
+Gujarat,Gandhinagar,Gandhinagar,111.28,Over-Exploited,76,50.54,60.74,2.2018,Above median
+Gujarat,Jamnagar,Jamnagar,43.62,Safe,428,50.54,-6.92,0.8631,Below median
+Haryana,Gurugram,Gurgaon,194.6,Over-Exploited,18,133.18,61.42,1.4612,Above median
+Haryana,Panchkula,Panchkula,62.06,Safe,263,133.18,-71.12,0.466,Below median
+Haryana,Sonipat,Sonipat,108.73,Over-Exploited,81,133.18,-24.45,0.8164,Below median
+Karnataka,Bengaluru Rural,Bengaluru (Rural),146.78,Over-Exploited,39,64.54,82.24,2.2742,Above median
+Karnataka,Bengaluru Urban,Bengaluru (Urban),177.28,Over-Exploited,26,64.54,112.74,2.7468,Above median
+Madhya Pradesh,Indore,Indore,117.96,Over-Exploited,66,58.62,59.34,2.0123,Above median
+Maharashtra,Mumbai Suburban,Mumbai Sub,25.74,Safe,557,47.12,-21.38,0.5463,Below median
+Maharashtra,Pune,Pune,63.23,Safe,248,47.12,16.11,1.3419,Above median
+Maharashtra,Raigad,Raigad,18.44,Safe,596,47.12,-28.68,0.3913,Below median
+Maharashtra,Thane,Thane,19.13,Safe,595,47.12,-27.99,0.406,Below median
+Odisha,Khordha,Khurda,64.13,Safe,241,47.8,16.33,1.3416,Above median
+Odisha,Puri,Puri,54.85,Safe,332,47.8,7.05,1.1475,Above median
+Tamil Nadu,Chengalpattu,Chengalpattu,64.23,Safe,238,82.34,-18.11,0.7801,Below median
+Tamil Nadu,Chennai,Chennai,121.72,Over-Exploited,59,82.34,39.38,1.4783,Above median
+Tamil Nadu,Kanchipuram,Kancheepuram,48.91,Safe,375,82.34,-33.43,0.594,Below median
+Telangana,Ranga Reddy,Rangareddy,66.59,Safe,212,48.13,18.46,1.3835,Above median
+Uttar Pradesh,Gautam Buddha Nagar,G.B.Nagar,105.21,Over-Exploited,88,69.41,35.8,1.5158,Above median
+West Bengal,Hooghly,Hugli,53.87,Safe,338,36.48,17.39,1.4767,Above median
+West Bengal,North 24 Parganas,North 24 Parganas,70.3,Semi-Critical,187,36.48,33.82,1.9271,Above median

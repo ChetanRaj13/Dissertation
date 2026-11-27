@@ -1,0 +1,100 @@
+=== Evidence_Quality ===
+R1: METHODOLOGICAL QUALITY & EVIDENCE EVALUATION MATRIX |  |  |  |  |  |  |  |  |  |  | 
+R2: Standardized 0 to 2 Scoring Across 8 Methodological Dimensions (Marked [I]; Summed via Dynamic Excel Formula =SUM(C{r}:J{r})) |  |  |  |  |  |  |  |  |  |  | 
+R3:  |  |  |  |  |  |  |  |  |  |  | 
+R4: 1. METHODOLOGICAL RIGOR SCORING MATRIX (SCORES 0 TO 2 [I]; DYNAMIC SUM VIA EXCEL FORMULA) |  |  |  |  |  |  |  |  |  |  | 
+R5: paper_id | citation | C1: Primary Data [I] | C2: Transparency [I] | C3: Boundary Rigor [I] | C4: Hydrology [I] | C5: Limitations [I] | C6: Reproducibility [I] | C7: Peer Review [I] | C8: India Relevance [I] | total_score_[I] | overall_rigor_tier_[I]
+R6: P01 | Mytton (2021), npj Clean Water | 1 | 2 | 2 | 1 | 2 | 1 | 2 | 0 | 11 | Tier 2: Moderate Rigor
+R7: P02 | Siddik, Shehabi & Marston (2021), Environ. Res. Lett. | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 0 | 14 | Tier 1: High Rigor
+R8: P03 | Li, Yang, Islam & Ren (2025), arXiv v5 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | 0 | 10 | Tier 2: Moderate Rigor
+R9: P04 | de Vries-Gao (2026), Patterns | 1 | 2 | 2 | 1 | 2 | 2 | 2 | 0 | 12 | Tier 1: High Rigor
+R10: P05 | Rosa et al. (2026), Environ. Sci. Technol. | 2 | 2 | 1 | 2 | 1 | 2 | 2 | 1 | 13 | Tier 1: High Rigor
+R11: P06 | Masanet (2026), arXiv preprint | 1 | 2 | 2 | 2 | 2 | 2 | 1 | 0 | 12 | Tier 1: High Rigor
+R12: P07 | CEEW (Feb 2026), Scaling India's Data Centre Ecosystem | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 2 | 10 | Tier 2: Moderate Rigor
+R13: P08 | Planet Tracker (March 2025), Will Asian AI ambitions... | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 2 | Tier 3: Limited / Grey Lit
+R14: P09 | Planet Tracker (Sept 2024), AI needs to reduce its water dependency | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 1 | 4 | Tier 3: Limited / Grey Lit
+R15: P10 | Baringa (Nov 2025), How Water Resilience Will Shape... | 1 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 5 | Tier 3: Limited / Grey Lit
+R16:  |  |  |  |  |  |  |  |  |  |  | 
+R17:  |  |  |  |  |  |  |  |  |  |  | 
+R18: 2. CRITERIA EVALUATION DETAILS (ONE-LINE REASON AND PDF PAGE PER SCORE [I]) |  |  |  |  |  |  |  |  |  |  | 
+R19: paper_id | citation | criterion_id | criterion_name | score_[I] | one_line_justification_[I] | pdf_page |  |  |  |  | 
+R20: P01 | Mytton (2021) | C1 | Primary Empirical Data | 1 | Synthesizes corporate CSR disclosures and Shehabi secondary data | pdf p. 1 |  |  |  |  | 
+R21: P01 | Mytton (2021) | C2 | Methodological Transparency | 2 | Transparent mathematical formulas for WUE and PUE provided in text | pdf p. 2-3 |  |  |  |  | 
+R22: P01 | Mytton (2021) | C3 | System Boundary Rigor | 2 | Exemplary distinction between direct cooling and indirect electricity water | pdf p. 1-2 |  |  |  |  | 
+R23: P01 | Mytton (2021) | C4 | Hydrological Metric Resolution | 1 | National US average and corporate global figures, lacks subbasin spatial modeling | pdf p. 1-2 |  |  |  |  | 
+R24: P01 | Mytton (2021) | C5 | Limitation Disclosure | 2 | Exhaustively critiques corporate secrecy and lack of reporting | pdf p. 4-5 |  |  |  |  | 
+R25: P01 | Mytton (2021) | C6 | Reproducibility | 1 | Formulas provided but relies on non-public utility bills | pdf p. 3-4 |  |  |  |  | 
+R26: P01 | Mytton (2021) | C7 | Peer-Review Status | 2 | Published in peer-reviewed Nature Partner Journal npj Clean Water | pdf p. 1 |  |  |  |  | 
+R27: P01 | Mytton (2021) | C8 | India / Global South Relevance | 0 | Strictly focused on US and global aggregates; no India data | pdf p. 1 |  |  |  |  | 
+R28: P02 | Siddik et al. (2021) | C1 | Primary Empirical Data | 2 | Primary bottom-up spatial model linking power plants and subbasins | pdf p. 3-5 |  |  |  |  | 
+R29: P02 | Siddik et al. (2021) | C2 | Methodological Transparency | 2 | Fully detailed methodology connecting EIA, USGS, and EPA databases | pdf p. 4-7 |  |  |  |  | 
+R30: P02 | Siddik et al. (2021) | C3 | System Boundary Rigor | 2 | Rigorous Scope 1 on-site vs Scope 2 electricity vs utility water scopes | pdf p. 4-5 |  |  |  |  | 
+R31: P02 | Siddik et al. (2021) | C4 | Hydrological Metric Resolution | 2 | Watershed-level resolution across 2,118 HUC-8 subbasins with ISO 14046 AWARE | pdf p. 3, 7 |  |  |  |  | 
+R32: P02 | Siddik et al. (2021) | C5 | Limitation Disclosure | 2 | Explicitly notes colocation reporting gap and server proxy assumptions | pdf p. 11 |  |  |  |  | 
+R33: P02 | Siddik et al. (2021) | C6 | Reproducibility | 2 | Open data sources and reproducible spatial attribution framework | pdf p. 4-6 |  |  |  |  | 
+R34: P02 | Siddik et al. (2021) | C7 | Peer-Review Status | 2 | Published in prestigious peer-reviewed journal Environmental Research Letters | pdf p. 1 |  |  |  |  | 
+R35: P02 | Siddik et al. (2021) | C8 | India / Global South Relevance | 0 | US contiguous subbasins only; no Indian data | pdf p. 3 |  |  |  |  | 
+R36: P03 | Li et al. (2025) | C1 | Primary Empirical Data | 2 | Primary operational modeling of GPT-3 and GPT-4 training runs | pdf p. 1-2 |  |  |  |  | 
+R37: P03 | Li et al. (2025) | C2 | Methodological Transparency | 2 | Detailed mathematical formulation of operational and embodied water scopes | pdf p. 3-5 |  |  |  |  | 
+R38: P03 | Li et al. (2025) | C3 | System Boundary Rigor | 2 | Explicit separation of Scope 1 on-site, Scope 2 electricity, Scope 3 embodied | pdf p. 3-4 |  |  |  |  | 
+R39: P03 | Li et al. (2025) | C4 | Hydrological Metric Resolution | 1 | State/regional data center locations, lacks hydrological watershed stress index | pdf p. 2, 7 |  |  |  |  | 
+R40: P03 | Li et al. (2025) | C5 | Limitation Disclosure | 1 | Discusses telemetry opacity but relies on estimated PUE/WUE benchmarks | pdf p. 5 |  |  |  |  | 
+R41: P03 | Li et al. (2025) | C6 | Reproducibility | 1 | Methodology documented but underlying server load traces are proprietary | pdf p. 2-5 |  |  |  |  | 
+R42: P03 | Li et al. (2025) | C7 | Peer-Review Status | 1 | Preprint version 5 on arXiv; widely cited but not yet peer-reviewed journal | pdf p. 1 |  |  |  |  | 
+R43: P03 | Li et al. (2025) | C8 | India / Global South Relevance | 0 | Focuses on US data centers and global projections; no India analysis | pdf p. 1-2 |  |  |  |  | 
+R44: P04 | de Vries-Gao (2026) | C1 | Primary Empirical Data | 1 | Synthesizes IEA macroeconomic data and Big Tech sustainability reports | pdf p. 2, 5 |  |  |  |  | 
+R45: P04 | de Vries-Gao (2026) | C2 | Methodological Transparency | 2 | Rigorous deconstruction of corporate water reporting methodology and arithmetic | pdf p. 5-7 |  |  |  |  | 
+R46: P04 | de Vries-Gao (2026) | C3 | System Boundary Rigor | 2 | Comprehensive evaluation of direct vs indirect water consumption distortion | pdf p. 5, 7 |  |  |  |  | 
+R47: P04 | de Vries-Gao (2026) | C4 | Hydrological Metric Resolution | 1 | National and global corporate aggregates; lacks localized watershed mapping | pdf p. 2, 6 |  |  |  |  | 
+R48: P04 | de Vries-Gao (2026) | C5 | Limitation Disclosure | 2 | Exemplary critique of reporting bias, omissions, and corporate asymmetry | pdf p. 7-8 |  |  |  |  | 
+R49: P04 | de Vries-Gao (2026) | C6 | Reproducibility | 2 | Calculations fully documented with explicit formulas in text | pdf p. 5-7 |  |  |  |  | 
+R50: P04 | de Vries-Gao (2026) | C7 | Peer-Review Status | 2 | Published in peer-reviewed Cell Press journal Patterns | pdf p. 1 |  |  |  |  | 
+R51: P04 | de Vries-Gao (2026) | C8 | India / Global South Relevance | 0 | Global and US fleet analysis; no specific Indian empirical data | pdf p. 1-2 |  |  |  |  | 
+R52: P05 | Rosa et al. (2026) | C1 | Primary Empirical Data | 2 | Primary global database of 7,364 data centers coupled with hydrological model | pdf p. 1 |  |  |  |  | 
+R53: P05 | Rosa et al. (2026) | C2 | Methodological Transparency | 2 | Coupled with CMIP6 climate models and process-based hydrological simulation | pdf p. 1-2 |  |  |  |  | 
+R54: P05 | Rosa et al. (2026) | C3 | System Boundary Rigor | 1 | Rigorous on Scope 1 direct cooling but completely omits Scope 2 electricity water | pdf p. 1 |  |  |  |  | 
+R55: P05 | Rosa et al. (2026) | C4 | Hydrological Metric Resolution | 2 | High-resolution global spatial grid evaluating monthly water gaps | pdf p. 1-2 |  |  |  |  | 
+R56: P05 | Rosa et al. (2026) | C5 | Limitation Disclosure | 1 | Infers cooling technology via climate regression rather than verified telemetry | pdf p. 9 |  |  |  |  | 
+R57: P05 | Rosa et al. (2026) | C6 | Reproducibility | 2 | Supplementary Information provides comprehensive spatial data and scripts | pdf p. 1, 9 |  |  |  |  | 
+R58: P05 | Rosa et al. (2026) | C7 | Peer-Review Status | 2 | Published in flagship peer-reviewed journal Environmental Science & Technology | pdf p. 1 |  |  |  |  | 
+R59: P05 | Rosa et al. (2026) | C8 | India / Global South Relevance | 1 | Explicitly identifies India as an emerging data centre hub with water gaps | pdf p. 1, 4 |  |  |  |  | 
+R60: P06 | Masanet (2026) | C1 | Primary Empirical Data | 1 | Exhaustive meta-analytical review and synthesis of literature benchmarks | pdf p. 1, 12 |  |  |  |  | 
+R61: P06 | Masanet (2026) | C2 | Methodological Transparency | 2 | Gold-standard conceptual taxonomy and mathematical estimation equations | pdf p. 4, 18 |  |  |  |  | 
+R62: P06 | Masanet (2026) | C3 | System Boundary Rigor | 2 | Defines complete lifecycle taxonomy across power, cooling, and municipal stages | pdf p. 4-5 |  |  |  |  | 
+R63: P06 | Masanet (2026) | C4 | Hydrological Metric Resolution | 2 | Systematically evaluates WRI Aqueduct, AWARE, and Pfister stress indices | pdf p. 30, 40 |  |  |  |  | 
+R64: P06 | Masanet (2026) | C5 | Limitation Disclosure | 2 | Thorough, candid identification of literature uncertainties and data gaps | pdf p. 48, 54 |  |  |  |  | 
+R65: P06 | Masanet (2026) | C6 | Reproducibility | 2 | Formulas and parameter ranges exhaustively documented in 127-page manuscript | pdf p. 1-60 |  |  |  |  | 
+R66: P06 | Masanet (2026) | C7 | Peer-Review Status | 1 | Academic preprint on arXiv; extensive and authoritative but unreviewed | pdf p. 1 |  |  |  |  | 
+R67: P06 | Masanet (2026) | C8 | India / Global South Relevance | 0 | Evaluates US and global fleets; no specific empirical data on India | pdf p. 2 |  |  |  |  | 
+R68: P07 | CEEW (Feb 2026) | C1 | Primary Empirical Data | 1 | Primary qualitative stakeholder consultations, but cites water quantities from secondary sources | pdf p. 2, 5 |  |  |  |  | 
+R69: P07 | CEEW (Feb 2026) | C2 | Methodological Transparency | 1 | Semi-structured stakeholder interview methodology documented | pdf p. 5, 24 |  |  |  |  | 
+R70: P07 | CEEW (Feb 2026) | C3 | System Boundary Rigor | 1 | Discusses direct cooling and power grid water, but lacks formal scope math | pdf p. 2, 8 |  |  |  |  | 
+R71: P07 | CEEW (Feb 2026) | C4 | Hydrological Metric Resolution | 1 | Metropolitan cluster analysis in India, references CGWB/WRI but lacks basin GIS | pdf p. 5, 10 |  |  |  |  | 
+R72: P07 | CEEW (Feb 2026) | C5 | Limitation Disclosure | 2 | Explicitly notes study limitations, qualitative scope, and corporate data opacity | pdf p. 24 |  |  |  |  | 
+R73: P07 | CEEW (Feb 2026) | C6 | Reproducibility | 1 | Qualitative interview findings; secondary metrics from Mordor Intelligence/IEA | pdf p. 2, 7 |  |  |  |  | 
+R74: P07 | CEEW (Feb 2026) | C7 | Peer-Review Status | 1 | Institutional research report from leading Indian think tank; peer-vetted but grey literature | pdf p. 1 |  |  |  |  | 
+R75: P07 | CEEW (Feb 2026) | C8 | India / Global South Relevance | 2 | Only study in corpus providing comprehensive primary empirical context on India | pdf p. 2-24 |  |  |  |  | 
+R76: P08 | Planet Tracker (March 2025) | C1 | Primary Empirical Data | 0 | Synthesizes external commercial data and WRI Aqueduct | pdf p. 1-2 |  |  |  |  | 
+R77: P08 | Planet Tracker (March 2025) | C2 | Methodological Transparency | 0 | Brief 3-page commentary; Table 1 body and Figures 1-3 unreadable in PDF | pdf p. 1, 3 |  |  |  |  | 
+R78: P08 | Planet Tracker (March 2025) | C3 | System Boundary Rigor | 0 | Mentions direct cooling; omits indirect power grid water completely | pdf p. 1 |  |  |  |  | 
+R79: P08 | Planet Tracker (March 2025) | C4 | Hydrological Metric Resolution | 1 | Uses WRI Aqueduct baseline water stress for Asian country rankings | pdf p. 1-2 |  |  |  |  | 
+R80: P08 | Planet Tracker (March 2025) | C5 | Limitation Disclosure | 0 | No formal limitations section; brief policy advocacy | pdf p. 3 |  |  |  |  | 
+R81: P08 | Planet Tracker (March 2025) | C6 | Reproducibility | 0 | Underlying database and unreadable table data cannot be audited | pdf p. 1, 3 |  |  |  |  | 
+R82: P08 | Planet Tracker (March 2025) | C7 | Peer-Review Status | 0 | Non-profit financial think tank policy brief; unreviewed grey literature | pdf p. 1 |  |  |  |  | 
+R83: P08 | Planet Tracker (March 2025) | C8 | India / Global South Relevance | 1 | Specific Asian regional focus, mentions India in data centre rankings | pdf p. 1-2 |  |  |  |  | 
+R84: P09 | Planet Tracker (Sept 2024) | C1 | Primary Empirical Data | 0 | Secondary synthesis of Mytton, USGS, and corporate disclosures | pdf p. 1-3 |  |  |  |  | 
+R85: P09 | Planet Tracker (Sept 2024) | C2 | Methodological Transparency | 1 | Clear conceptual infographic presentation of cooling and power water | pdf p. 2-3 |  |  |  |  | 
+R86: P09 | Planet Tracker (Sept 2024) | C3 | System Boundary Rigor | 1 | Separates direct cooling and indirect electricity generation | pdf p. 2 |  |  |  |  | 
+R87: P09 | Planet Tracker (Sept 2024) | C4 | Hydrological Metric Resolution | 1 | WRI Aqueduct country-level ranking; lacks facility-level basin resolution | pdf p. 3 |  |  |  |  | 
+R88: P09 | Planet Tracker (Sept 2024) | C5 | Limitation Disclosure | 0 | Minimal discussion of methodological limitations or model uncertainties | pdf p. 3 |  |  |  |  | 
+R89: P09 | Planet Tracker (Sept 2024) | C6 | Reproducibility | 0 | Relies on external commercial databases without open analytical code | pdf p. 3 |  |  |  |  | 
+R90: P09 | Planet Tracker (Sept 2024) | C7 | Peer-Review Status | 0 | Non-profit investment intelligence report; grey literature | pdf p. 1 |  |  |  |  | 
+R91: P09 | Planet Tracker (Sept 2024) | C8 | India / Global South Relevance | 1 | Highlights India as a high water stress data centre location | pdf p. 3 |  |  |  |  | 
+R92: P10 | Baringa (Nov 2025) | C1 | Primary Empirical Data | 1 | Industry advisory analysis using corporate cases and commercial benchmarks | pdf p. 2-3 |  |  |  |  | 
+R93: P10 | Baringa (Nov 2025) | C2 | Methodological Transparency | 1 | Describes commercial engineering models (dry cooling penalty, WPAs) | pdf p. 5-6 |  |  |  |  | 
+R94: P10 | Baringa (Nov 2025) | C3 | System Boundary Rigor | 1 | Focuses primarily on direct cooling water demand; discusses energy penalty | pdf p. 3, 5 |  |  |  |  | 
+R95: P10 | Baringa (Nov 2025) | C4 | Hydrological Metric Resolution | 1 | References WRI Aqueduct global hubs and UK regional deficits | pdf p. 3, 7 |  |  |  |  | 
+R96: P10 | Baringa (Nov 2025) | C5 | Limitation Disclosure | 1 | Discusses retrofitting constraints and siting inertia candidly | pdf p. 4 |  |  |  |  | 
+R97: P10 | Baringa (Nov 2025) | C6 | Reproducibility | 0 | Proprietary management consultancy advisory models | pdf p. 1, 9 |  |  |  |  | 
+R98: P10 | Baringa (Nov 2025) | C7 | Peer-Review Status | 0 | Commercial consultancy white paper; grey literature | pdf p. 1 |  |  |  |  | 
+R99: P10 | Baringa (Nov 2025) | C8 | India / Global South Relevance | 0 | Global hubs and UK pipeline focus; no India-specific analysis | pdf p. 3, 7 |  |  |  |  | 

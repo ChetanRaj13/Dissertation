@@ -1,0 +1,19 @@
+parameter_category,parameter_name,benchmark_value,unit,source_citation,publication_year,notes_and_context
+Power Density,General-purpose enterprise rack,8-10,kW/rack,Uptime Institute Global Data Center Survey,2023,Standard enterprise air-cooled server racks
+Power Density,Standard Cloud / Hyperscale rack,12-16,kW/rack,Uptime Institute Global Data Center Survey,2023,Standard cloud compute and storage racks
+Power Density,High-Density AI Inference / Hybrid rack,30-40,kW/rack,Uptime Institute / SemiAnalysis,2024,Moderate density GPU and accelerated compute racks
+Power Density,AI Training / GPU cluster (NVIDIA H100/H200),40-100,kW/rack,Uptime Institute / SemiAnalysis,2024,High density air-and-hybrid cooled AI training clusters
+Power Density,Extreme AI / HPC Liquid-Cooled rack (GB200 NVL72),120-230+,kW/rack,Uptime Institute / NVIDIA Architecture Whitepaper,2024,Direct-to-chip or immersion liquid-cooled Blackwell/exascale clusters
+Efficiency,Global Average PUE,1.55,ratio,Uptime Institute Global Data Center Survey,2024,Global average across all reporting facilities
+Efficiency,India Modern Hyperscale Design PUE,1.30-1.40,ratio,IEA Electricity 2024 / CEEW Data Center Study,2024,Newly constructed Tier III/IV facilities in Mumbai/Chennai/Noida
+Efficiency,India Legacy / Enterprise On-Premise PUE,1.65-1.85,ratio,JLL India Data Center Report / CEEW,2023,Older facilities with standard chiller/air cooling in tropical climates
+Efficiency,India Best-in-Class Liquid Cooled AI PUE,1.15-1.25,ratio,Yotta Data Services / CtrlS Technical Whitepaper,2024,Advanced liquid cooled AI clusters in specialized facilities
+Load Profile,Hyperscale AI Training Load Factor,80-90,%,IEA Energy and AI Report / EPRI,2024,Continuous high baseline workload with minimal diurnal variation
+Load Profile,Standard Cloud / Enterprise Load Factor,60-75,%,EPRI / Lawrence Berkeley National Lab,2024,Typical commercial cloud utilization with diurnal variation
+Grid Emission,CEA National Grid Weighted Average Baseline,0.716,tCO2/MWh,CEA CO2 Baseline Database (v20.0 / v21.0),2024,Official grid emission baseline for Indian power system
+Grid Emission,CEA Grid Combined Margin (CM) Emission Factor,0.727,tCO2/MWh,CEA CDM CO2 Baseline Database,2024,Combined margin emission factor for CDM / grid power accounting
+Power Sourcing,India Data Center Grid Power Share (Thermal Heavy),80-85,%,CEEW / Bridge to India Data Center Market Report,2024,Discom grid power mix with predominant coal generation
+Power Sourcing,India Data Center Renewable / Green Open Access Share,15-20,%,CEEW / Bridge to India Data Center Market Report,2024,Green tariff / captive solar-wind PPA share under Green Open Access Rules
+Water Cooling,WUE - Evaporative Cooling Towers,1.5-2.0,L/kWh,Lawrence Berkeley National Lab / CEEW,2023,Water-cooled chiller plants in high ambient temperature Indian zones
+Water Cooling,WUE - Closed Loop / Direct-to-Chip Liquid Cooling,< 0.2,L/kWh,Uptime Institute Data Center Cooling Report,2024,Modern closed loop dry-cooler systems for AI servers
+Demand Projection,CEA India DC Electricity Capacity Target (FY2031-32),20-26,GW,CEA 20th Electric Power Survey / Ministry of Power,2024,Projected connected load demand for national DC ecosystem

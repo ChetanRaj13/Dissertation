@@ -1,0 +1,712 @@
+{
+  "DC001": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "18.9692, 73.1884",
+    "precision_tier": "Plot or village",
+    "source_link": "https://yotta.com/data-centers/nm1-data-center/"
+  },
+  "DC002": {
+    "method": "satellite_imagery",
+    "details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+    "real_decimals": 6,
+    "unpadded_coordinates": "19.172654, 72.992812",
+    "precision_tier": "Exact site",
+    "source_link": "https://princetondg.com/locations/india/mumbai/mu1/"
+  },
+  "DC003": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (0 decimal precision).",
+    "real_decimals": 0,
+    "unpadded_coordinates": null,
+    "precision_tier": "District only",
+    "source_link": "https://princetondg.com/locations/india/mumbai/"
+  },
+  "DC004": {
+    "method": "satellite_imagery",
+    "details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+    "real_decimals": 6,
+    "unpadded_coordinates": "19.171907, 73.024247",
+    "precision_tier": "Exact site",
+    "source_link": "https://services.global.ntt"
+  },
+  "DC005": {
+    "method": "satellite_imagery",
+    "details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+    "real_decimals": 6,
+    "unpadded_coordinates": "19.114468, 72.890131",
+    "precision_tier": "Exact site",
+    "source_link": "https://services.global.ntt"
+  },
+  "DC006": {
+    "method": "satellite_imagery",
+    "details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+    "real_decimals": 6,
+    "unpadded_coordinates": "19.108213, 73.023588",
+    "precision_tier": "Exact site",
+    "source_link": "https://www.ctrls.com"
+  },
+  "DC007": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "19.1243, 73.0052",
+    "precision_tier": "Plot or village",
+    "source_link": "https://www.adaniconnex.com"
+  },
+  "DC008": {
+    "method": "satellite_imagery",
+    "details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+    "real_decimals": 6,
+    "unpadded_coordinates": "19.101235, 73.017842",
+    "precision_tier": "Exact site",
+    "source_link": "https://sttgdc.in"
+  },
+  "DC009": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "19.1121, 72.8942",
+    "precision_tier": "Locality or industrial area",
+    "source_link": "https://digitalconnexion.com"
+  },
+  "DC010": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "19.1474, 73.0141",
+    "precision_tier": "Plot or village",
+    "source_link": "https://www.sifytechnologies.com"
+  },
+  "DC011": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "19.1729, 73.0001",
+    "precision_tier": "Locality or industrial area",
+    "source_link": "https://www.coltdatacentres.net"
+  },
+  "DC012": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+    "real_decimals": 3,
+    "unpadded_coordinates": "19.162, 73.002",
+    "precision_tier": "Plot or village",
+    "source_link": "https://www.capitaland.com"
+  },
+  "DC013": {
+    "method": "satellite_imagery",
+    "details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+    "real_decimals": 6,
+    "unpadded_coordinates": "19.114404, 72.896533",
+    "precision_tier": "Exact site",
+    "source_link": "https://www.equinix.com"
+  },
+  "DC014": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+    "real_decimals": 3,
+    "unpadded_coordinates": "18.604, 73.863",
+    "precision_tier": "Locality or industrial area",
+    "source_link": "https://www.sttgdc.in/pune"
+  },
+  "DC015": {
+    "method": "satellite_imagery",
+    "details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+    "real_decimals": 5,
+    "unpadded_coordinates": "18.59331, 73.69058",
+    "precision_tier": "Exact site",
+    "source_link": "https://nxtra.in"
+  },
+  "DC016": {
+    "method": "satellite_imagery",
+    "details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+    "real_decimals": 6,
+    "unpadded_coordinates": "19.061649, 72.858652",
+    "precision_tier": "Exact site",
+    "source_link": "https://peeringdb.com/fac/2607"
+  },
+  "DC017": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+    "real_decimals": 3,
+    "unpadded_coordinates": "19.145, 73.011",
+    "precision_tier": "Plot or village",
+    "source_link": "https://www.webwerks.in"
+  },
+  "DC018": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "18.6227, 73.8069",
+    "precision_tier": "Plot or village",
+    "source_link": "https://www.adaniconnex.com"
+  },
+  "DC019": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+    "real_decimals": 3,
+    "unpadded_coordinates": "18.5905, 73.738",
+    "precision_tier": "Plot or village",
+    "source_link": "https://services.global.ntt"
+  },
+  "DC020": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (2 decimal precision).",
+    "real_decimals": 2,
+    "unpadded_coordinates": "18.69, 73.68",
+    "precision_tier": "Plot or village",
+    "source_link": "https://yotta.com"
+  },
+  "DC021": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "12.8216, 80.2261",
+    "precision_tier": "Plot or village",
+    "source_link": "https://www.adaniconnex.com"
+  },
+  "DC022": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "13.0978, 80.1664",
+    "precision_tier": "Plot or village",
+    "source_link": "https://services.global.ntt"
+  },
+  "DC023": {
+    "method": "satellite_imagery",
+    "details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+    "real_decimals": 5,
+    "unpadded_coordinates": "13.12958, 80.16622",
+    "precision_tier": "Exact site",
+    "source_link": "https://www.sttgdc.in"
+  },
+  "DC024": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "13.1008, 80.16404",
+    "precision_tier": "Plot or village",
+    "source_link": "https://digitalconnexion.com"
+  },
+  "DC025": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+    "real_decimals": 3,
+    "unpadded_coordinates": "12.835, 80.222",
+    "precision_tier": "Plot or village",
+    "source_link": "https://www.sifytechnologies.com"
+  },
+  "DC026": {
+    "method": "satellite_imagery",
+    "details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+    "real_decimals": 6,
+    "unpadded_coordinates": "12.826015, 80.219345",
+    "precision_tier": "Exact site",
+    "source_link": "https://nxtra.in"
+  },
+  "DC027": {
+    "method": "satellite_imagery",
+    "details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+    "real_decimals": 6,
+    "unpadded_coordinates": "13.107271, 80.163027",
+    "precision_tier": "Exact site",
+    "source_link": "https://www.ctrls.com"
+  },
+  "DC028": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+    "real_decimals": 3,
+    "unpadded_coordinates": "12.814, 79.958",
+    "precision_tier": "Plot or village",
+    "source_link": "https://yotta.com"
+  },
+  "DC029": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (2 decimal precision).",
+    "real_decimals": 2,
+    "unpadded_coordinates": "13.11, 80.15",
+    "precision_tier": "Plot or village",
+    "source_link": "https://www.ironmountain.com"
+  },
+  "DC030": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "13.1028, 80.1585",
+    "precision_tier": "Locality or industrial area",
+    "source_link": "https://www.coltdatacentres.net"
+  },
+  "DC031": {
+    "method": "satellite_imagery",
+    "details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+    "real_decimals": 5,
+    "unpadded_coordinates": "13.11585, 80.16245",
+    "precision_tier": "Exact site",
+    "source_link": "https://www.capitaland.com"
+  },
+  "DC032": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "12.90128, 79.8095",
+    "precision_tier": "Plot or village",
+    "source_link": "https://www.larsentoubro.com"
+  },
+  "DC033": {
+    "method": "satellite_imagery",
+    "details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+    "real_decimals": 5,
+    "unpadded_coordinates": "12.99574, 77.75795",
+    "precision_tier": "Exact site",
+    "source_link": "https://services.global.ntt"
+  },
+  "DC034": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (2 decimal precision).",
+    "real_decimals": 2,
+    "unpadded_coordinates": "13.22, 77.705",
+    "precision_tier": "Plot or village",
+    "source_link": "https://services.global.ntt"
+  },
+  "DC035": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "12.9812, 77.7199",
+    "precision_tier": "Plot or village",
+    "source_link": "https://www.sttgdc.in"
+  },
+  "DC036": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+    "real_decimals": 3,
+    "unpadded_coordinates": "12.843, 77.663",
+    "precision_tier": "Plot or village",
+    "source_link": "https://www.ctrls.com"
+  },
+  "DC037": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+    "real_decimals": 3,
+    "unpadded_coordinates": "12.978, 77.727",
+    "precision_tier": "Locality or industrial area",
+    "source_link": "https://nxtra.in"
+  },
+  "DC038": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (1 decimal precision).",
+    "real_decimals": 1,
+    "unpadded_coordinates": "13.2, 77.68",
+    "precision_tier": "Plot or village",
+    "source_link": "https://www.sifytechnologies.com"
+  },
+  "DC039": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "12.9847, 77.7349",
+    "precision_tier": "Plot or village",
+    "source_link": "https://www.capitaland.com"
+  },
+  "DC040": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (2 decimal precision).",
+    "real_decimals": 2,
+    "unpadded_coordinates": "12.98, 77.73",
+    "precision_tier": "Plot or village",
+    "source_link": "https://www.ironmountain.com"
+  },
+  "DC041": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (2 decimal precision).",
+    "real_decimals": 2,
+    "unpadded_coordinates": "17.15, 78.11",
+    "precision_tier": "Plot or village",
+    "source_link": "https://www.ctrls.com"
+  },
+  "DC042": {
+    "method": "satellite_imagery",
+    "details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+    "real_decimals": 6,
+    "unpadded_coordinates": "17.231667, 78.191944",
+    "precision_tier": "Exact site",
+    "source_link": "https://environmentclearance.nic.in"
+  },
+  "DC043": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "17.0855, 78.278222",
+    "precision_tier": "Plot or village",
+    "source_link": "https://environmentclearance.nic.in"
+  },
+  "DC044": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (2 decimal precision).",
+    "real_decimals": 2,
+    "unpadded_coordinates": "17.075, 78.14",
+    "precision_tier": "Plot or village",
+    "source_link": "https://environmentclearance.nic.in"
+  },
+  "DC045": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "17.1694, 78.1386",
+    "precision_tier": "Plot or village",
+    "source_link": "https://aws.amazon.com/about-aws/global-infrastructure/regions_az/"
+  },
+  "DC046": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+    "real_decimals": 3,
+    "unpadded_coordinates": "17.202, 78.498",
+    "precision_tier": "Plot or village",
+    "source_link": "https://aws.amazon.com/about-aws/global-infrastructure/regions_az/"
+  },
+  "DC047": {
+    "method": "satellite_imagery",
+    "details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+    "real_decimals": 6,
+    "unpadded_coordinates": "17.436221, 78.364587",
+    "precision_tier": "Exact site",
+    "source_link": "https://www.ctrls.com"
+  },
+  "DC048": {
+    "method": "satellite_imagery",
+    "details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+    "real_decimals": 6,
+    "unpadded_coordinates": "17.418749, 78.341596",
+    "precision_tier": "Exact site",
+    "source_link": "https://www.sifytechnologies.com"
+  },
+  "DC049": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "17.4357, 78.3831",
+    "precision_tier": "Plot or village",
+    "source_link": "https://www.capitaland.com"
+  },
+  "DC050": {
+    "method": "satellite_imagery",
+    "details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+    "real_decimals": 5,
+    "unpadded_coordinates": "17.07914, 78.14434",
+    "precision_tier": "Exact site",
+    "source_link": "https://www.adaniconnex.com"
+  },
+  "DC051": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (2 decimal precision).",
+    "real_decimals": 2,
+    "unpadded_coordinates": "17.405, 78.33",
+    "precision_tier": "Locality or industrial area",
+    "source_link": "https://nxtra.in"
+  },
+  "DC052": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (2 decimal precision).",
+    "real_decimals": 2,
+    "unpadded_coordinates": "17.11, 78.53",
+    "precision_tier": "Locality or industrial area",
+    "source_link": "https://sttgdc.com"
+  },
+  "DC053": {
+    "method": "official_document",
+    "details": "Derived from official state environmental clearance / government land allotment document coordinates.",
+    "real_decimals": 2,
+    "unpadded_coordinates": "17.12, 78.51",
+    "precision_tier": "Locality or industrial area",
+    "source_link": "https://www.tcs.com"
+  },
+  "DC054": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+    "real_decimals": 3,
+    "unpadded_coordinates": "17.967, 83.437",
+    "precision_tier": "Plot or village",
+    "source_link": "https://ap.gov.in"
+  },
+  "DC055": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+    "real_decimals": 3,
+    "unpadded_coordinates": "17.905, 83.335",
+    "precision_tier": "Plot or village",
+    "source_link": "https://blog.google"
+  },
+  "DC056": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (2 decimal precision).",
+    "real_decimals": 2,
+    "unpadded_coordinates": "17.51, 82.95",
+    "precision_tier": "Locality or industrial area",
+    "source_link": "https://blog.google"
+  },
+  "DC057": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (2 decimal precision).",
+    "real_decimals": 2,
+    "unpadded_coordinates": "17.82, 83.37",
+    "precision_tier": "Plot or village",
+    "source_link": "https://www.adani.com"
+  },
+  "DC058": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "17.7831, 83.3795",
+    "precision_tier": "Locality or industrial area",
+    "source_link": "https://www.sifytechnologies.com"
+  },
+  "DC059": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (2 decimal precision).",
+    "real_decimals": 2,
+    "unpadded_coordinates": "17.89, 83.43",
+    "precision_tier": "Plot or village",
+    "source_link": "https://ap.gov.in"
+  },
+  "DC060": {
+    "method": "official_document",
+    "details": "Derived from official state environmental clearance / government land allotment document coordinates.",
+    "real_decimals": 0,
+    "unpadded_coordinates": null,
+    "precision_tier": "District only",
+    "source_link": "https://ap.gov.in"
+  },
+  "DC061": {
+    "method": "satellite_imagery",
+    "details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+    "real_decimals": 5,
+    "unpadded_coordinates": "28.55235, 77.48342",
+    "precision_tier": "Exact site",
+    "source_link": "https://yotta.com"
+  },
+  "DC062": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "28.5831, 77.4522",
+    "precision_tier": "Plot or village",
+    "source_link": "https://services.global.ntt"
+  },
+  "DC063": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "28.6119, 77.3575",
+    "precision_tier": "Plot or village",
+    "source_link": "https://www.adaniconnex.com"
+  },
+  "DC064": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "28.5352, 77.4104",
+    "precision_tier": "Plot or village",
+    "source_link": "https://www.nxtra.in"
+  },
+  "DC065": {
+    "method": "satellite_imagery",
+    "details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+    "real_decimals": 6,
+    "unpadded_coordinates": "28.533258, 77.349243",
+    "precision_tier": "Exact site",
+    "source_link": "https://www.ctrls.com"
+  },
+  "DC066": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+    "real_decimals": 3,
+    "unpadded_coordinates": "28.502, 77.418",
+    "precision_tier": "Plot or village",
+    "source_link": "https://www.sttelemediagdc.in"
+  },
+  "DC067": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "28.5103, 77.3725",
+    "precision_tier": "Plot or village",
+    "source_link": "https://www.sifytechnologies.com"
+  },
+  "DC068": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "28.5136, 77.3769",
+    "precision_tier": "Plot or village",
+    "source_link": "https://www.sifytechnologies.com"
+  },
+  "DC069": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "28.3615, 76.9455",
+    "precision_tier": "Plot or village",
+    "source_link": "https://www.nxtra.in"
+  },
+  "DC070": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+    "real_decimals": 3,
+    "unpadded_coordinates": "22.387, 69.832",
+    "precision_tier": "Plot or village",
+    "source_link": "https://www.ril.com"
+  },
+  "DC071": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "23.1585, 72.6862",
+    "precision_tier": "Locality or industrial area",
+    "source_link": "https://www.ctrls.com"
+  },
+  "DC072": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "22.5925, 88.4728",
+    "precision_tier": "Plot or village",
+    "source_link": "https://services.global.ntt"
+  },
+  "DC073": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "22.5891, 88.4782",
+    "precision_tier": "Plot or village",
+    "source_link": "https://www.nxtra.in"
+  },
+  "DC074": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "22.5842, 88.4715",
+    "precision_tier": "Plot or village",
+    "source_link": "https://www.ctrls.com"
+  },
+  "DC075": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "22.5785, 88.4765",
+    "precision_tier": "Plot or village",
+    "source_link": "https://wbidc.com"
+  },
+  "DC076": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (5 decimal precision).",
+    "real_decimals": 5,
+    "unpadded_coordinates": "22.68616, 88.33616",
+    "precision_tier": "Plot or village",
+    "source_link": "https://yotta.com"
+  },
+  "DC077": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+    "real_decimals": 3,
+    "unpadded_coordinates": "20.468, 85.762",
+    "precision_tier": "Locality or industrial area",
+    "source_link": "https://investodisha.gov.in"
+  },
+  "DC078": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+    "real_decimals": 3,
+    "unpadded_coordinates": "20.174, 85.719",
+    "precision_tier": "Plot or village",
+    "source_link": "https://investodisha.gov.in"
+  },
+  "DC079": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (2 decimal precision).",
+    "real_decimals": 2,
+    "unpadded_coordinates": "19.82, 85.83",
+    "precision_tier": "Locality or industrial area",
+    "source_link": "https://investodisha.gov.in"
+  },
+  "DC080": {
+    "method": "satellite_imagery",
+    "details": "High-precision building centroid pin verified against high-resolution satellite imagery.",
+    "real_decimals": 6,
+    "unpadded_coordinates": "26.771757, 75.844925",
+    "precision_tier": "Exact site",
+    "source_link": "https://www.sttelemediagdc.in"
+  },
+  "DC070A": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "22.3872, 69.8324",
+    "precision_tier": "Plot or village",
+    "source_link": "https://www.ril.com"
+  },
+  "DC081": {
+    "method": "programme_na",
+    "details": "Pan-India programme without individual physical coordinates.",
+    "real_decimals": 0,
+    "source_link": "https://press.aboutamazon.com/2023/5/aws-announces-plans-to-invest-12-7-billion-in-cloud-infrastructure-in-india-by-2030"
+  },
+  "DC082": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (3 decimal precision).",
+    "real_decimals": 3,
+    "unpadded_coordinates": "17.765, 83.295",
+    "precision_tier": "Plot or village",
+    "source_link": "APIIC"
+  },
+  "DC083": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "17.8185, 83.3542",
+    "precision_tier": "Plot or village",
+    "source_link": "Andhra"
+  },
+  "DC084": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (0 decimal precision).",
+    "real_decimals": 0,
+    "unpadded_coordinates": null,
+    "precision_tier": "District only",
+    "source_link": "Andhra"
+  },
+  "DC085": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (2 decimal precision).",
+    "real_decimals": 2,
+    "unpadded_coordinates": "17.92, 83.39",
+    "precision_tier": "Plot or village",
+    "source_link": "AP"
+  },
+  "DC086": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (0 decimal precision).",
+    "real_decimals": 0,
+    "unpadded_coordinates": null,
+    "precision_tier": "District only",
+    "source_link": "BSE/NSE"
+  },
+  "DC087": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "19.1065, 73.0128",
+    "precision_tier": "Plot or village",
+    "source_link": "https://www.nxtra.in"
+  },
+  "DC088": {
+    "method": "parcel_address_geocoding",
+    "details": "Derived from municipal industrial parcel address geocoding (4 decimal precision).",
+    "real_decimals": 4,
+    "unpadded_coordinates": "19.1852, 72.9984",
+    "precision_tier": "Plot or village",
+    "source_link": "ICRA"
+  }
+}

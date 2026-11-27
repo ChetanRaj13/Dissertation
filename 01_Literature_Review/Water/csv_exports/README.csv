@@ -1,0 +1,49 @@
+DISSERTATION LITERATURE SYNTHESIS: WATER & AI DATA CENTRE EXPANSION IN INDIA
+"Stage 3 Progress: Complete Multi-Tier Evidence Integration (Academic, Think-Tank, Policy, and Press Corpus)"
+Master Workbook: water_datacentre_literature_synthesis_v1.xlsx | Generation Date: 16 November 2026
+""
+1. PURPOSE & RESEARCH QUESTIONS
+"This workbook provides a systematic, mathematically verified, closed-sandbox evidence synthesis supporting a university dissertation on whether India's artificial intelligence (AI) and hyperscale data centre expansion is environmentally sustainable, focusing specifically on WATER consumption, withdrawal, and groundwater competition."
+Primary Research Questions:
+  - RQ1: What is the direct and indirect water intensity of AI compute and modern data centre cooling systems across varying climates?
+  - RQ2: To what extent are global and Indian data centres sited in baseline water-stressed and groundwater-critical basins?
+"  - RQ3: How do empirical water consumption realities align with corporate disclosures, state policy incentives, and local hydrological limits (e.g. CGWB 2025 assessment)?"
+""
+2. WORKBOOK SHEET DIRECTORY & ARCHITECTURE
+The workbook contains 6 operational sheets structured according to the formal dissertation synthesis protocol:
+"  1. README: Project purpose, sheet architecture, tagging conventions, verification rules, dates, and methodological limits."
+"  2. Source_Register: Comprehensive master register of all 14 evaluated literature sources (P01 to P14) with full bibliographic, empirical, and access metadata."
+"  3. Extraction: Granular evidence log containing 215 verbatim extracted rows across peer-reviewed, preprint, and think-tank sources (P01–P10)."
+"  4. India_Evidence: Filtered, clustered synthesis of 51 specific empirical and policy rows pertaining to Indian metro hubs and national frameworks."
+"  5. India_Press: Dedicated investigation log containing 26 verbatim rows from Indian press investigations (P11 to P14), tracking local conflicts and regulatory files."
+"  6. Checks: Automated code verification logs, P07 28-page numbering audit, line-break hyphen normalization log, and Paper x Variable Category (A to M) matrix."
+""
+3. CODES & TAGGING SYSTEM
+Strict ontological tagging is enforced across all extraction and analysis sheets to maintain epistemological rigor:
+  - [S] = Stated directly in the source paper. Mandatory for every single row in the Extraction and India_Press sheets. No inference permitted.
+"  - [I] = Inference by the researcher. Permitted exclusively in analytical columns (e.g. 'source quality note [I]', 'Missing Categories [I]')."
+"  - page_flag = 'PDF page only': Explicitly marks data extracted from unnumbered PDF pages (e.g. web-to-PDF printouts, unnumbered preprints, or front-matter)."
+  - statement_type taxonomy: measured | modelled estimate | projection | scenario | authors' opinion | stakeholder perspective | literature citation | press investigation.
+"  - Variable Categories (A to M): A (Definitions), B (Intensity metrics), C (Volumes/projections), D (Cooling/design), E (Water source), F (Location/stress), G (Siting drivers), H (Local impacts/competition), I (Governance/policy), J (Transparency), K (Mitigation/recycling), L (Methods/limits), M (India-specific findings)."
+""
+4. STRICT VERIFICATION & EXTRACTION RULES
+"  - Excerpt Length & Quotation: Every row contains a continuous verbatim excerpt of <= 25 words enclosed in double quotes, verified by automated PyMuPDF code matching."
+"  - Line-Break Hyphen Normalization: Preserves real hyphens (e.g. 'process-based', 'water-stressed') while normalizing line-break word splits (e.g. 'utilit-\nies' -> 'utilities')."
+  - No Numbers Invented: Numerical values are extracted exactly as printed with original units and years. No unit conversions in Extraction.
+"  - Secondary Source Labeling: P07 citations (e.g. Mordor Intelligence), P12 (summarises CEEW, NITI Aayog), and P14 (summarises Rystad Energy) are explicitly marked as secondary."
+  - Dissertation Dataset Independence: P13 uses CGWB 2025 Dynamic Resource Assessment data and is flagged as non-independent of the researcher's dataset.
+  - P08 Status: Table 1 body and Figures 1 to 3 are not captured in the PDF; no outside number (such as India = 248) has been taken or inferred.
+  - P07 Table 1 Rule: Table 1 state policy checkmarks are graphical/non-machine-readable and excluded to prevent artificial intelligence hallucination.
+""
+5. PUBLICATION DATES AS PRINTED
+  - P01 (Mytton): 15 February 2021 (printed in npj Clean Water)
+  - P02 (Siddik et al.): 21 May 2021 (printed in Environmental Research Letters)
+  - P03 (Li et al.): 26 March 2025 (printed arXiv v5 stamp)
+  - P04 (de Vries-Gao): 9 January 2026 (printed in Patterns journal footer)
+  - P05 (Rosa et al.): DATE NOT PRINTED (web print-to-PDF; text cites studies up to 2026)
+  - P06 (Masanet): DATE NOT PRINTED (arXiv preprint; text explicitly notes studies up to 15 September 2026 were included)
+  - P07 (CEEW): February 2026 (printed on cover and executive summary)
+"  - P08 (Planet Tracker Asia): DATE NOT PRINTED (file carries a banner reading 'PLANET TRACKER (FINANCIAL & ENVIRONMENTAL THINK TANK) · MARCH 2025' and byline 'Published by Planet Tracker Research Team | March 2025'; not verified at the original website; DataCenterMap accessed 2 March 2025, pdf p. 2; no stable page; cite section and paragraph; pdf_page is locator in my file, not a page of the source)"
+"  - P09 (Planet Tracker US): DATE NOT PRINTED (file carries a banner reading 'PLANET TRACKER (FINANCIAL & ENVIRONMENTAL THINK TANK) · SEPTEMBER 2024' and byline 'Published by Planet Tracker Research Team | September 2024'; not verified at the original website; no stable page; cite section and paragraph; pdf_page is locator in my file, not a page of the source)"
+  - P10 (Baringa): November 2025 (printed on document cover)
+"  - P11 to P14 (Press articles): DATE NOT PRINTED (files carry generated banners and bylines; not verified at the original websites; no stable page; cite section and paragraph; pdf_page is locator in my file, not a page of the source)"

@@ -1,0 +1,14 @@
+﻿market,as_of,operational_mw,upcoming_mw,under_construction_mw,planned_mw,basis,source,notes
+Mumbai,2026-H1,890,1726,281,1445,operational capacity as reported,https://www.voicendata.com/data-centre/indias-data-centre-pipeline-touches-386-gw-mumbai-leads-12540883,
+Chennai,2026-H1,214,368,55,313,operational capacity as reported,Cushman & Wakefield India Data Centre H1 2026 Update (via trade press),
+Delhi NCR,2026-H1,183,387,27,360,operational capacity as reported,Cushman & Wakefield India Data Centre H1 2026 Update (via trade press),
+Bengaluru,2026-H1,162,100,,,operational capacity as reported,Cushman & Wakefield India Data Centre H1 2026 Update (via trade press),Upcoming figure from a secondary summary.
+Hyderabad,2026-H1,151,710,,,operational capacity as reported,Cushman & Wakefield India Data Centre H1 2026 Update (via trade press),
+Pune,2026-H1,133,258,,,operational capacity as reported,Cushman & Wakefield India Data Centre H1 2026 Update (via trade press),From a secondary summary that was truncated; check the C&W PDF.
+Kolkata,2026-H1,22,84,13,71,operational capacity as reported,Cushman & Wakefield India Data Centre H1 2026 Update (via trade press),"Reported 2% share does not match 22 MW of 1,789 MW."
+"India (top 7 markets, C&W stated total)",2026-H1,1789,3860,509,3351,operational capacity as reported,Cushman & Wakefield India Data Centre H1 2026 Update (via trade press),Reported national total. City figures above sum to a different number; see check below.
+Mumbai (alt source),2026-08,1180,1450,,,operational capacity as reported,https://www.datacentres.com/news/mumbai-data-centre-market-1-180-mw-live-as-india-s-data-protection-act-fuels-a-s-slot2-2026-08-28,Different definition from C&W; 620 MW said to be under construction.
+Chennai (alt source),2026-08,340,,,,operational capacity as reported,https://www.datacentres.com/news/mumbai-data-centre-market-1-180-mw-live-as-india-s-data-protection-act-fuels-a-s-slot2-2026-08-28,
+Telangana (state release),2026-09,300,2000,,,state government statement,"PTI via theprint.in, 24 Sep 2026","'More than 300 MW operational and 2 GW under development', Telangana release."
+Hyderabad (CtrlS release),2025-01,52,,,,company statement,https://tele.net.in/?p=167888,
+"India (government, from your brief)",2026-08,1575,,,,government statement,Rajya Sabha reply 7 Aug 2026 (press-confirmed; document pending),

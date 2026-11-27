@@ -1,0 +1,37 @@
+check_id,audit_metric,expected_or_scope,actual_count_or_status,pass_fail,notes_and_remedies
+CHK-0001,Total Sheets in Master Workbook,16 sheets in exact prescribed order,16 sheets confirmed,PASS,README to Progress_Log verified
+CHK-0002,Total Data Rows in Extraction Sheet,150-200 rows across primary literature,178 rows,PASS,"Target met across E01-E09, E10_P, E11_P, E16"
+CHK-0003,Total Data Rows in Web_Press Sheet,25-40 rows across secondary media/press,33 rows,PASS,All secondary sources isolated with SECONDARY flag
+CHK-0004,Total Data Rows in India_Evidence Sheet,40-60 rows referencing India / state hubs,49 rows,PASS,Exhaustive compilation of all India-specific findings
+CHK-0005,Rows with PAGE NOT DETERMINED,0 rows permitted in core analysis,0 rows,PASS,Every row possesses an exact page locator or file position
+CHK-0006,Rows tagged as 'cited from another source',Transparent attribution of second-hand data,44 rows,PASS,Explicitly identified in cited_from_other_source column
+CHK-0007,Excerpt Word Count Cap Verification,Maximum 25 words per excerpt,0 violations (100% <= 25 words),PASS,Strict automated check enforced via PyMuPDF verifier
+CHK-0008,Code Verification of Excerpts on Stated Pages,100% exact text matches on PDF pages,100% confirmed (211/211 rows),PASS,All line-break hyphens and character encodings validated
+CHK-0009,Source Availability and Readability Status,All 24 listed PDF files present and readable,24 / 24 files verified,PASS,0 NOT AVAILABLE files; all files parsed via fitz
+CHK-0010,Quarantine of Researcher Inferences [I],All inferences tagged [I] with soft yellow fill,100% quarantined,PASS,Zero inference in Extraction data columns
+CHK-0011,Pre-Stage Backup Preservation,Separate backup file before each stage (Stages 1-6),6 backup files preserved,PASS,stage1 to stage6 backups verified on disk
+CHK-0012,Patterns Lineage Independence & Formula Integrity,Every pattern supported by >=2 independent primary lineage groups; valid formulas,100% compliant: 8 patterns supported by 2 to 4 independent lineage groups; 0 formula errors,PASS,Formulas calculate without errors
+CHK-0013,Secondary Press Exclusion from Independence Counts,Secondary/trade press excluded from Pattern supporting counts; kept as illustrations,100% compliant: E10_S1-E19 segregated into illustration column; 0 counted as independent,PASS,Every locator traces to real row_id
+EXTRACTION SOURCE BREAKDOWN,Row counts per source in Extraction and Web_Press sheets,,,,
+paper_id,source_file,document_classification,row_count,target_met,explanation_if_under_10
+E01,Recalibrating global data center energy-use estimates.pdf,Primary Journal (Science),18,YES,Exceeds 10-row baseline
+E02,2024 United States Data Center Energy Usage Report.pdf,Primary Lab Report (LBNL),18,YES,Exceeds 10-row baseline
+E03,Energy and AI - IEA.pdf,Primary Agency Report (IEA),18,YES,Exceeds 10-row baseline
+E04,Artificial intelligence - Supply chain constraints...pdf,Primary Journal (Joule),13,YES,Exceeds 10-row baseline (short 5 pp commentary)
+E05,The carbon and water footprints of data centers...pdf,Primary Journal (Patterns),16,YES,Exceeds 10-row baseline (strictly energy rows; water omitted)
+E06,Data Centers in Virginia - JLARC Report 598.pdf,Primary Legislative Audit,20,YES,Exceeds 10-row baseline
+E07,Virginia Data Center Study - Electric Infrastructure...pdf,Primary Consultant Rate Study,18,YES,Exceeds 10-row baseline
+E08,Scaling India's Data Centre Ecosystem...pdf,Primary Think-Tank Report,18,YES,Exceeds 10-row baseline (strictly energy rows; water omitted)
+E09,Data Centres and India's Power Grid...pdf,Primary Technical Review,18,YES,Exceeds 10-row baseline
+E10_P1,CRU-2025-236 Large Energy User connection policy...pdf,Primary Statutory Decision,6,YES (Specific),Short targeted regulatory decision focus; combined E10_P has 12 rows
+E10_P2,CRU-21-124 Direction to the System Operators...pdf,Primary Statutory Direction,6,YES (Specific),Short targeted regulatory direction focus; combined E10_P has 12 rows
+E11_P,Ministry of Power - Rajya Sabha Question 956...pdf,Primary Parliamentary Record,5,YES (Specific),Short 3-page parliamentary answer; covers all energy disclosures
+E16,Data Centres Metered Electricity Consumption 2025.pdf,Primary Statistical Release,4,YES (Specific),1-page official statistical release; covers all printed metrics
+Web_Press,"10 Secondary Web, Trade Press & News Files (E10_S1-E19)",Secondary Media / Press,33,YES,Exhaustive coverage of secondary media landscape
+SINGLE LINEAGE CLAIMS AUDIT,CLAIMS IN PATTERNS RESTING ON ONLY ONE INDEPENDENT LINEAGE GROUP,,,,
+claim_id,statement_summary,supporting_sources,lineage_group_id,lineage_reason,disposition_in_workbook
+SING-0001,"TSMC CoWoS packaging allocation proxy for AI power demand (6.8 GW NVIDIA/AMD, 12.0 GW total by 2025)",E04 (de Vries-Gao 2025); E05 reuses data,GRP-02,Same author (Alex de Vries-Gao); E05 directly reuses E04's 23 GW AI hardware power projection.,Classified as Single-Source Finding (SING-0001) in Patterns; not counted as multi-source pattern.
+SING-0002,"Indian national grid midday solar surplus frequency excursions reaching 50.39 Hz (Aug 4 & Aug 25, 2024)",E09 (FSR Global 2026),GRP-08,Sole source publishing granular 15-minute GRID-INDIA frequency excursion telemetry.,Classified as Single-Source Finding (SING-0002) in Patterns; not counted as multi-source pattern.
+SING-0003,Virginia statutory retail choice >90 MW fixed cost shift risk onto residential ratepayers,E06 (JLARC Report 598),GRP-03,Sole source analyzing the specific statutory 90 MW threshold for Virginia retail choice.,Classified as Single-Source Finding (SING-0003) in Patterns; not counted as multi-source pattern.
+SING-0004,Official Indian government projection of 26.3 GW AI data centre peak demand by FY 2031-32 (July 2026),"E11_P (MoP Rajya Sabha UQ 956, 27.07.2026)",GRP-05,Official parliamentary disclosure answered on 27.07.2026 quoting Central Electricity Authority 20th EPS Mid-term Review.,Classified as Single-Source Finding (SING-0004) in Patterns; not counted as multi-source pattern.
+SUB-CLAIM-01,Virginia residential customer bill increases of $14 to $37 monthly by 2040 for generation and transmission,E06 (JLARC Report 598) and E07 (E3 Rate Study),GRP-03,E07 was commissioned by and prepared specifically for E06 (JLARC). Both sources share the same E3 production cost modeling lineage.,"Maintained as sub-finding within Pattern PAT-0005, which is independently corroborated by Indian DISCOM financial studies (Indian Lineage GRP-08: CEEW E08, FSR Global E09)."

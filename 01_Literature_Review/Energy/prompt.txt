@@ -1,0 +1,100 @@
+ROLE AND AUTONOMY
+You are a research assistant building a literature synthesis for a university dissertation on whether India's AI data centre expansion is sustainable, with a focus on ENERGY and the ELECTRICITY GRID. I am asleep and cannot answer questions. Do NOT ask me anything and do NOT wait for me. When something is unclear, choose the most conservative option, write the decision in a sheet called Decisions_Log (what was unclear, what you chose, why), and continue. Run all stages below in order, one after the other, and finish with the final summary. Start now.
+
+Output: ONE Excel workbook named energy_datacentre_literature_synthesis_v1.xlsx, saved in the same folder as the PDFs (record the full path in README).
+
+HARD RULES
+1. Use ONLY the attached files. No internet, no outside knowledge, no memory. If something is not in a file write NOT REPORTED. Never invent a value, quote, date, citation, URL or page number.
+2. Do not write "verified", "fully consistent", or "ready for use" anywhere. Report only what code checked, with counts.
+3. Do not make policy recommendations. Only report what the sources say. Interpretation goes only in columns marked [I].
+4. Never overwrite a backup. Before each stage save a copy named energy_datacentre_literature_synthesis_v1_stageN_backup.xlsx.
+5. Work one source at a time. Do not write one giant script. If any step runs longer than about 3 minutes without progress, stop it, split it into smaller pieces, and continue. After every source, save the workbook. After every stage, append a line to a Progress_Log sheet (stage, time, rows added, problems).
+
+SOURCES (use these IDs; match files to IDs by title, and record the exact file name used)
+E01 Masanet et al. (2020), Recalibrating global data center energy-use estimates, Science
+E02 Shehabi et al. (2024), 2024 United States Data Center Energy Usage Report, Lawrence Berkeley National Laboratory
+E03 IEA (2025), Energy and AI
+E04 de Vries-Gao (2025), Joule, AI power demand estimated from the semiconductor supply chain
+E05 de Vries-Gao (2026), The carbon and water footprints of data centers and what this could mean for artificial intelligence, Patterns (single author, hyphenated surname)
+E06 JLARC (Dec 2024), Data Centers in Virginia, Report 598
+E07 E3 for JLARC (Dec 2024), Virginia Data Center Study: Electric Infrastructure and Customer Rate Impacts
+E08 CEEW (Feb 2026), Scaling India's Data Centre Ecosystem
+E09 FSR Global (Apr 2026), Data Centres and India's Power Grid: Technical Review of Grid Integration Challenges
+E10 Ireland CRU Large Energy Users Connection Policy decision, or the summaries KPMG Ireland / Out-Law
+E11 India Ministry of Power / CEA data centre demand projections (web or press)
+E12 ThePrint, CEA advisory to states on data centre load (web)
+Case-study press/web files: assign IDs E13 onward in the order you find them (for example Ashburn/Loudoun trade press, Inside the Datacenter Virginia page, Irish CSO coverage). Any other attached PDF that does not match the list: assign the next free E-number, put it in Source_Register with a note "not on original list", and include it.
+If a listed file is missing, record it as NOT AVAILABLE and do not use any other text as a substitute. If a source exists in two versions, use the publisher's original version with printed page numbers, and record which in Decisions_Log.
+
+SOURCE TYPE RULES
+- Journal, lab and agency reports (E01 to E09 where the PDF is the original): original publisher PDFs. Page numbers are reliable.
+- Anything saved from a web page (press, trade press, think-tank web posts, E10 to E12 and case-study files): the "page" is only a position in my saved file. Record pdf_page as "locator in my file, not a page of the source", plus section heading and paragraph number. Do not use header banners such as "Published by ... | year" as publication dates; they may have been added when the PDF was generated. Publication date for web files: DATE NOT PRINTED (note "text references events up to [latest date found]").
+- Web, trade-press and press-summary sources are SECONDARY. They must NOT count as independent support in Patterns. Any number they report from another source (IEA, JLL, CEEW, Wood Mackenzie, Mordor, etc.) is labelled "as reported by a secondary source".
+- Publication dates elsewhere: only if printed in the PDF; otherwise DATE NOT PRINTED.
+
+PAGE AND QUOTE RULES
+- Every Extraction row has pdf_page, printed_page ("not printed" if none), page_flag ("PDF page only" where there is no printed number), section heading, and table or figure number if applicable.
+- Every row has an exact excerpt in quotation marks (at most 25 words, copied exactly) and a paraphrase in your own words. Do not chain excerpts from one paper to rebuild a passage.
+- BEFORE SAVING a row, check by code that the excerpt appears on the stated page (ignore line breaks; remove only line-break hyphens and keep real hyphens). If it fails, fix or drop the row. Record counts checked, failed and fixed.
+- Numbers: copy exactly with unit and year. No rounding or unit conversion in Extraction. If a source cites a number from another source, mark "cited from another source" with the reference as printed.
+- If you cannot tell which page a value is on, write PAGE NOT DETERMINED and exclude the row from pattern counts.
+- Tags: [S] = stated in the source; [I] = your inference. No inference in Extraction.
+- Every author caveat column contains only what the source's own authors state, or NONE STATED. Put "PDF page only" in page_flag, never in author_caveat.
+
+SHEETS (final order)
+README, Source_Register, Extraction, Variable_Matrix, Normalised_Values, Definitions_Compared, Patterns, Contradictions_and_Gaps, Evidence_Quality, Case_Studies, Link_to_My_Dataset, India_Evidence, Web_Press, Checks, Decisions_Log, Progress_Log
+
+Source_Register (one row per source): id | source_file | citation (APA 7) | document type | publication date as printed | publisher | geographic scope | method | data sources | water-or-energy metric used (TWh, GW, MW, share of national demand) | covers India (yes / mentioned / no) | PDF pages | funding or conflict statement as printed | access status | primary or SECONDARY.
+
+Extraction: row_id | paper_id | source_file | pdf_page | printed_page | page_flag | section | table_or_figure | variable_category | variable_name | value_as_printed | unit | year_or_period | geography | excerpt | paraphrase | statement_type (measured / modelled estimate / projection / scenario / authors' opinion / stakeholder perspective / literature citation / event report) | cited_from_other_source | author_caveat | tag. Aim for 15 to 30 rows per full source, fewer for short documents (say why in Checks).
+variable_category:
+A Definitions and units (energy vs power, MW vs MWh, IT load vs facility load, capacity vs consumption, contracted vs operational vs under construction vs planned)
+B Demand volumes and shares (TWh, GW, share of national or state demand, regional totals)
+C Projections and scenarios (year, scenario, range, assumptions)
+D Efficiency and rebound (PUE, hardware efficiency, Jevons paradox)
+E Load characteristics (24/7 flat load, ramps, fault ride-through, AI training swings, "silent exits")
+F Grid and transmission constraints (interconnection wait, queue, substation, transmission lead time, connection delay)
+G Generation mix and emissions (renewables, gas, nuclear, coal, captive and behind-the-meter, PPAs, carbon intensity)
+H Siting and clustering (concentration, why clusters form, migration to other counties or states)
+I Costs and ratepayer effects (tariffs, cost allocation, bill impacts)
+J Governance and policy (moratoria, connection policies, regulator decisions, planning obligations)
+K Transparency and data quality (contracted vs actual load, speculative or duplicated requests, forecast inflation)
+L Mitigation and flexibility (demand response, on-site generation, storage, location shifting)
+M Methods and stated limits
+N India-specific findings (Mumbai, Chennai, Hyderabad, Bengaluru, Delhi NCR, Kolkata, Pune, Visakhapatnam, Jamnagar, and states Maharashtra, Andhra Pradesh, Telangana, Tamil Nadu, Karnataka, Gujarat, Uttar Pradesh, West Bengal, Haryana)
+O Case-study events (event, date, actor, MW or area, outcome)
+
+Variable_Matrix: papers in rows; columns: energy/power definition used | demand volume and year | projection and horizon | share of national or regional demand | efficiency findings | load characteristics | grid and transmission findings | generation mix findings | siting findings | cost findings | policy findings | transparency finding | main limitation stated. Each cell: value as printed + "(pdf p. X, row_id)". No inference.
+
+Normalised_Values: only comparable numbers; original value, unit, page; converted value and unit; conversion as an Excel formula; assumptions; "second-hand number? (yes/no)"; type (reported / derived); flag "converted by AI". Common units: TWh per year, GW, share (%). Never merge different system boundaries (IT load vs facility load, capacity vs consumption, installed vs contracted). Show them side by side. Label every calculated figure "derived [I], calculated from [row_ids]" with its formula.
+
+Definitions_Compared: how each source defines data centre load, capacity, "contracted" demand, and the geographic unit, with row_id and page; "affects comparability? [I]".
+
+Patterns: pattern_id | statement (one neutral sentence) | category | supporting sources | row_ids | pages | number of independent supporting sources (COUNTIF) | number that disagree or qualify | strength (strong = 3+ independent sources, moderate = 2, single-source = 1) | independence check | strongest counter-evidence (row_id and page, or "NONE FOUND in the attached sources"). Include a Lineage table: for each source, its 3 to 5 key numbers or claims, the original source it takes each from (as printed in its text or reference list), row_id and page; sources that rely on the same original source count as ONE. Do not count E10 to E12 or any web/trade-press source as independent. Single-source findings go in a separate block. Write ranges only with the source, year and method of each end, and mark the range "derived [I]" if you calculated it.
+
+Contradictions_and_Gaps: (a) disagreements with both values, row_ids and pages, and the likely reason [I] (method, year, boundary, geography); (b) gaps, each justified by naming the sources you checked; (c) weakest evidence and why.
+
+Evidence_Quality: score each full source 0 to 2 on: peer-reviewed or official; data sources named; method explained; system boundary stated; limits discussed; India covered with its own data; independent of industry; reproducible. Each score gets a one-line reason and a page. Total by Excel formula. Scores are [I].
+
+Case_Studies: one timeline table per case (Ashburn/Loudoun County Virginia; Dublin/Ireland; India: CEA advisory to states and national projections): date | event | actor | MW, GW, TWh or square feet | outcome | source id | locator | primary or SECONDARY. Add a "Claim to test" block: "A data centre estate of about 50 million square feet in Ashburn could not get electricity and sat idle." Record, with locators, everything the attached sources state about (a) square footage built or under development, (b) power delays and their cause, (c) vacancy or idle capacity, (d) interconnection waits. Then state: SUPPORTED / PARTLY SUPPORTED / NOT SUPPORTED by the attached sources, with the reason. Do not use outside knowledge.
+
+Link_to_My_Dataset: my district and state energy indicators: state peak demand and peak demand not met (CEA, August 2026), energy not supplied (%), rural and urban hours of power supply (state, FY 2023-24), serving DISCOM and its 14th Integrated Rating grade, transmission company, grid-constraint evidence by district, live and planned data centre MW per district (IT load and facility load kept separate), planned MW as a share of state peak (ranking only, because it mixes stages), state data centre renewable rules. For each indicator: what the sources say about it (row_id and page) | closest variable in the sources | measured the same way? (yes / partly / no) [I] | what the literature cannot tell me | suggested caveat [I]. Do not use my indicator values as evidence; they are only labels. Add blocks: "indicators in the sources that I do NOT have" (for example contracted vs operational load, interconnection queue length, load factor) and "questions the literature suggests I should ask of each Indian state" (each tied to a row_id).
+
+India_Evidence: every Extraction row of category N plus any row that mentions India or an Indian city, with columns source_row_ids, merged_from, origin (primary study / secondary report / press), and "source quality note [I]". Web_Press: rows from web and press files, with the same columns as Extraction, paragraph numbers, and a SECONDARY flag.
+
+Checks: rows per sheet; rows per source in Extraction (explain any source under 10); category matrix (source x category A to O, using COUNTIFS); rows with PAGE NOT DETERMINED; rows "cited from another source"; every NOT AVAILABLE, partly unreadable, or skipped item by ID (for example tables or figures that are images); number of excerpts normalised for line-break hyphens; excerpts checked and failed; locators checked and failed; mechanical number check (below); formulas recalculated (count and errors, using Excel or LibreOffice recalculation); confirmation that no excerpt exceeds 25 words; confirmation that every Patterns row points to existing row_ids.
+
+STAGES (run automatically, in this order, with a backup before each)
+STAGE 1: file inventory table (file, pages, page breaks visible, printed numbers visible, readable; write it to Source_Register and Progress_Log), then README, Source_Register, Decisions_Log, Progress_Log, and Extraction for E01 to E04.
+STAGE 2: Extraction for E05 to E09 (E05 and E08 were analysed before for water: extract energy and grid findings only, do not copy water rows).
+STAGE 3: Extraction for E10 and all web/press/case-study files into Web_Press; then India_Evidence and Case_Studies.
+STAGE 4: Variable_Matrix, Normalised_Values, Definitions_Compared.
+STAGE 5: Patterns (with Lineage), Contradictions_and_Gaps, Evidence_Quality.
+STAGE 6: Link_to_My_Dataset, Checks, sheet order, formatting.
+STAGE 7: MECHANICAL AUDIT. (a) For every "(pdf p. X, row_id)" locator in Variable_Matrix and Definitions_Compared, confirm by code that the row exists, its page equals X, and the cell text appears in that row. (b) For every number in Patterns, Contradictions_and_Gaps, Evidence_Quality, Case_Studies and Link_to_My_Dataset, confirm it appears in an Extraction or Web_Press row cited in the same cell, or is labelled "derived [I]" with its formula. (c) Scan Patterns, Contradictions_and_Gaps, Evidence_Quality and Link_to_My_Dataset for any sentence stating a fact, number, place, company, or institution that is not in the sources (for example grid mix, tariffs, utility names); for each, add the supporting row_id and page, rewrite it as a question, or delete it. Report sentences checked and changed. (d) Recalculate all formulas and fix errors. Report all counts in Checks.
+
+FORMATTING
+Row 1 header on every sheet, frozen, filters on, text wrapped, sensible widths, one value per cell, no merged cells in data sheets, data validation drop-downs for paper_id, variable_category, statement_type, strength; consistent spelling; a different colour for [I] cells.
+
+FINAL OUTPUT
+When Stage 7 is done, give me: the workbook path, rows per sheet, the 5 strongest patterns with source IDs and the independence reason, the 3 weakest points of the evidence base, the result of the Ashburn claim test, a list of NOT AVAILABLE or unreadable items, the Decisions_Log entries, and anything you could not do. If you run out of time, save what you have, finish the Progress_Log, and report exactly which stage stopped.

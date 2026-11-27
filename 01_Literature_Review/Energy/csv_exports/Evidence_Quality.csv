@@ -1,0 +1,13 @@
+paper_id,peer_reviewed_or_official,data_sources_named,method_explained,system_boundary_stated,limits_discussed,india_covered_with_own_data,independent_of_industry,reproducible,total_score,scoring_rationale_and_pages,,
+E01,2,2,2,2,1,2,1,1,,HIGH,Bottom-up server stock model,Older vintage (2010-2018); predates generative AI accelerator explosion
+E02,2,2,2,2,2,2,2,1,,HIGH,Bottom-up facility & chip model,Forecasting rapid AI adoption entails significant uncertainty; utility filings heavily redacted
+E03,2,2,1,2,2,2,2,2,,HIGH,Global macroeconomic energy model,"Relies partly on proprietary analyst tracking (SemiAnalysis, IDC) for AI hardware shipments"
+E04,2,2,2,1,1,2,1,1,,MEDIUM,Supply-chain packaging proxy,Theoretical TDP upper bound does not capture real-world operational power throttling
+E05,2,2,2,1,2,1,1,1,,MEDIUM,Triangulated literature synthesis,Indirect carbon/water estimations rely on company-wide averages rather than metered data
+E06,2,2,2,2,2,2,2,2,,HIGH,State legislative audit & rate study,Relies on utility load forecasts subject to macroeconomic market shifts
+E07,2,2,2,2,2,2,2,2,,HIGH,Production-cost capacity expansion,Assumes fixed-price market capacity purchases up to 3 GW; unproven advanced nuclear reliance
+E08,2,2,1,1,2,2,2,2,,HIGH,Empirical think-tank synthesis,Limited facility-level metered transparency; proprietary operator PUE confidentiality
+E09,2,2,2,1,2,2,2,2,,HIGH,Power engineering technical review,Lack of validated dynamic simulation models for data centre loads in Indian grid studies
+E10_P1,2,2,2,2,2,1,2,2,,HIGH,Statutory regulatory decision,Applies prospectively to new applicants; does not retroactively restructure existing connections
+E11_P,2,2,2,2,2,2,2,1,,HIGH,Official parliamentary record,National aggregate forecast (26.3 GW) without state-level or nodal disaggregation
+E16,2,2,2,2,2,2,2,2,,HIGH,Official revenue meter billing census,Reports metered consumption only; does not capture behind-the-meter captive generation

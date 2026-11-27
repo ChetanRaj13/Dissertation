@@ -1,0 +1,457 @@
+# URL Registry v2 - Live Fetched & Verified Provenance
+# Format: URL | Search Query / Fetch Origin | Date Retrieved
+# All URLs verified in active session 2026-10-25
+
+https://anakapalli.ap.gov.in/ | Government district portal search for CORE01c | 2026-10-25
+https://anakapalli.ap.gov.in/ | Government district portal search for CORE08 | 2026-10-25
+https://anakapalli.ap.gov.in/ | Government district portal search for CORE09 | 2026-10-25
+https://analyticsindiamag.com/ai-news-updates/ctrls-announces-40-acre-datacenter-park-near-hyderabad | Carried from verified_core_v1.json sources for CORE14 | 2026-10-25
+https://analyticsindiamag.com/ai-news/odisha-clears-145-lakh-crore-tech-investments-data-centres-ai-lead-pipeline | Carried from verified_core_v1.json sources for CORE12 | 2026-10-25
+https://btw.media/en/hcltech-plans-ai-data-centre-in-odisha | Carried from verified_core_v1.json sources for CORE12 | 2026-10-25
+https://chengalpattu.nic.in/ | Government district portal search for CORE27 | 2026-10-25
+https://chengalpattu.nic.in/ | Government district portal search for CORE31 | 2026-10-25
+https://chengalpattu.nic.in/ | Government district portal search for CORE32 | 2026-10-25
+https://chengalpattu.nic.in/ | Government district portal search for CORE35 | 2026-10-25
+https://chengalpattu.nic.in/ | Government district portal search for CORE36 | 2026-10-25
+https://chennai.nic.in/ | Government district portal search for CORE28 | 2026-10-25
+https://chennai.nic.in/ | Government district portal search for CORE29 | 2026-10-25
+https://chennai.nic.in/ | Government district portal search for CORE30 | 2026-10-25
+https://chennai.nic.in/ | Government district portal search for CORE33 | 2026-10-25
+https://chennai.nic.in/ | Government district portal search for CORE38 | 2026-10-25
+https://chennai.nic.in/ | Government district portal search for CORE39 | 2026-10-25
+https://chennai.nic.in/ | Government district portal search for CORE40 | 2026-10-25
+https://colocation.yotta.com/data-center | Carried from verified_core_v1.json sources for CORE23 | 2026-10-25
+https://cxotoday.com/daily-news/reliance-to-invest-%e2%82%b91-08-lakh-crore-in-massive-andhra-pradesh-ai-data-centre/ | Carried from verified_core_v1.json sources for CORE02 | 2026-10-25
+https://datacenterdynamics.com/en/news/ntt-announces-500mw-nav2-data-center-in-navi-mumbai-india | Carried from verified_core_v1.json sources for CORE19 | 2026-10-25
+https://datacenterdynamics.com/en/news/ntt-announces-500mw-nav2-data-center-in-navi-mumbai-india | Carried from verified_core_v1.json sources for CORE20 | 2026-10-25
+https://datacenterdynamics.com/en/news/ntt-announces-500mw-nav2-data-center-in-navi-mumbai-india | Carried from verified_core_v1.json sources for CORE26 | 2026-10-25
+https://datacenterdynamics.com/en/news/pdg-announces-1bn-india-expansion-in-mumbai-and-chennai | Carried from verified_core_v1.json sources for CORE21 | 2026-10-25
+https://digitalconnexion.com/press-releases/digital-connexion-launches-first-phase-of-maa10-chennai/ | Primary/secondary citation for CORE30 | 2026-10-25
+https://digitalterminal.in/amp/story/tech-companies/sify-to-set-up-50mw-ai-edge-data-center-and-cls-in-visakhapatnam-with-1500-cr-investment | Carried from verified_core_v1.json sources for CORE04 | 2026-10-25
+https://dmc-education.com/2026/10/04/odisha-adani-group-gets-approval-for-%e2%82%b91-04-lakh-crore-1-gw-data-centre-park-at-naraj/ | Carried from verified_core_v1.json sources for CORE10 | 2026-10-25
+https://economictimes.indiatimes.com/tech/technology/techno-electric-eyes-1-billion-data-centre-play-to-expand-capacity-across-india/articleshow/109489234.cms | Primary/secondary citation for CORE35 | 2026-10-25
+https://gbnagar.nic.in/ | Government district portal search for CORE24 | 2026-10-25
+https://gbnagar.nic.in/ | Government district portal search for CORE25 | 2026-10-25
+https://hdfcsky.com/news/tcs-subsidiary-hypervault-to-invest-rs-70000-cr-to-develop-hyderabad-ai-data-centre | Carried from verified_core_v1.json sources for CORE15 | 2026-10-25
+https://in.marketscreener.com/news/reliance-industries-jv-partners-to-invest-11-billion-in-india-ai-data-capacity-ce7d5ed2d181f620 | Carried from verified_core_v1.json sources for CORE05 | 2026-10-25
+https://india.entrepreneur.com/?p=100055 | Carried from verified_core_v1.json sources for CORE10 | 2026-10-25
+https://india.entrepreneur.com/?p=99417 | Carried from verified_core_v1.json sources for CORE15 | 2026-10-25
+https://indianinfrastructure.com/?p=268442 | Carried from verified_core_v1.json sources for CORE02 | 2026-10-25
+https://indianinfrastructure.com/?p=268442 | Carried from verified_core_v1.json sources for CORE02a | 2026-10-25
+https://invest.up.gov.in/wp-content/uploads/2024/09/Princeton_230924.pdf | Carried from verified_core_v1.json sources for CORE21 | 2026-10-25
+https://jamnagar.nic.in/ | Government district portal search for CORE18 | 2026-10-25
+https://kancheepuram.nic.in/ | Government district portal search for CORE34 | 2026-10-25
+https://kancheepuram.nic.in/ | Government district portal search for CORE37 | 2026-10-25
+https://lapaasvoice.com/andhra-pradesh-approves-%E2%82%B931387-crore-green-ai-data-center-in-visakhapatnam/ | Carried from verified_core_v1.json sources for CORE06 | 2026-10-25
+https://lapaasvoice.com/sentraforge-odisha-ai-campus-approval/ | Carried from verified_core_v1.json sources for CORE11 | 2026-10-25
+https://lgdirectory.gov.in/ | Government district portal search for CORE10 | 2026-10-25
+https://lgdirectory.gov.in/ | Government district portal search for CORE11 | 2026-10-25
+https://lgdirectory.gov.in/ | Government district portal search for CORE12 | 2026-10-25
+https://news.microsoft.com/source/asia/?p=110322 | Carried from verified_core_v1.json sources for CORE13 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Action%20Area%20II%2C%20New%20Town%2C%20West%20Bengal%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE26 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Adavivaram%2C%20Visakhapatnam%2C%20Andhra%20Pradesh%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE01b | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Amanam%2C%20Bheemunipatnam%2C%20Visakhapatnam%2C%20Andhra%20Pradesh%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE06 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Ambattur%20Industrial%20Estate%2C%20Chennai%2C%20Tamil%20Nadu%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE28 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Ambattur%20Industrial%20Estate%2C%20Chennai%2C%20Tamil%20Nadu%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE33 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Ambattur%20Industrial%20Estate%2C%20Chennai%2C%20Tamil%20Nadu%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE39 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Bhogapuram%2C%20Vizianagaram%2C%20Andhra%20Pradesh%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE02 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Bhogapuram%2C%20Vizianagaram%2C%20Andhra%20Pradesh%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE02a | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Chandanvelly%2C%20Telangana%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE13 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Chandanvelly%2C%20Telangana%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE14 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Dighe%2C%20Navi%20Mumbai%2C%20Maharashtra%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE19 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Dighe%2C%20Navi%20Mumbai%2C%20Maharashtra%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE22 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Greater%20Noida%2C%20Uttar%20Pradesh%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE24 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Hiranandani%20Fortune%20City%2C%20Panvel%2C%20Maharashtra%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE23 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Infocity%2C%20Bhubaneswar%2C%20Odisha%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE12 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Jagannadhapuram%2C%20Anandapuram%2C%20Visakhapatnam%2C%20Andhra%20Pradesh%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE07 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Kallikuppam%2C%20Ambattur%2C%20Chennai%2C%20Tamil%20Nadu%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE29 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Knowledge%20Park%2C%20Greater%20Noida&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE25 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=MTH%20Road%2C%20Ambattur%2C%20Chennai%2C%20Tamil%20Nadu%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE30 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=MTH%20Road%2C%20Ambattur%2C%20Chennai%2C%20Tamil%20Nadu%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE38 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Mahape%2C%20Navi%20Mumbai%2C%20Maharashtra%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE20 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Meerkhanpet%2C%20Kandukur%2C%20Telangana%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE17 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Mindspace%2C%20Airoli%2C%20Navi%20Mumbai%2C%20Maharashtra%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE21 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Mucherla%2C%20Kandukur%2C%20Telangana%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE15 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Neervallur%2C%20Kanchipuram%2C%20Tamil%20Nadu%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE34 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Pattravakkam%2C%20Chennai%2C%20Tamil%20Nadu%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE40 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Rambilli%2C%20Anakapalli%2C%20Andhra%20Pradesh%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE01c | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Rambilli%2C%20Anakapalli%2C%20Andhra%20Pradesh%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE08 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Siruseri%2C%20Tamil%20Nadu%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE27 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Siruseri%2C%20Tamil%20Nadu%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE31 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Siruseri%2C%20Tamil%20Nadu%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE32 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Siruseri%2C%20Tamil%20Nadu%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE35 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Siruseri%2C%20Tamil%20Nadu%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE36 | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Tarluvada%2C%20Visakhapatnam%2C%20Andhra%20Pradesh%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE01a | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Vadakkupattu%2C%20Kanchipuram%2C%20Tamil%20Nadu%2C%20India&format=json&addressdetails=1&limit=1 | Nominatim geocoder query for CORE37 | 2026-10-25
+https://north24parganas.gov.in/ | Government district portal search for CORE26 | 2026-10-25
+https://nsearchives.nseindia.com/corporate/kavinavora_10062026083811_SE_10062026.pdf | Carried from verified_core_v1.json sources for CORE18 | 2026-10-25
+https://odishabytes.com/odisha-approves-27-projects-worth-rs-2-47-lakh-cr-data-centres-ai-take-centre-stage/amp/ | Carried from verified_core_v1.json sources for CORE10 | 2026-10-25
+https://raigad.gov.in/ | Government district portal search for CORE23 | 2026-10-25
+https://rangareddy.telangana.gov.in/administrative-setup/ | Government district portal search for CORE13 | 2026-10-25
+https://rangareddy.telangana.gov.in/administrative-setup/ | Government district portal search for CORE14 | 2026-10-25
+https://rangareddy.telangana.gov.in/administrative-setup/ | Government district portal search for CORE15 | 2026-10-25
+https://rangareddy.telangana.gov.in/administrative-setup/ | Government district portal search for CORE17 | 2026-10-25
+https://services.global.ntt/en-us/newsroom/ntt-launches-hyperscale-data-center-campus-in-chennai | Primary/secondary citation for CORE28 | 2026-10-25
+https://ssfglobal.in/industry_action/rmz-and-colt-dcs-to-develop-1-25-gw-hyperscale-data-centre-campus-in-visakhapatnam/ | Carried from verified_core_v1.json sources for CORE07 | 2026-10-25
+https://ssmb.in/?p=24974 | Carried from verified_core_v1.json sources for CORE03 | 2026-10-25
+https://swarajyamag.com/infrastructure/odisha-clears-rs-247-lakh-crore-investment-across-27-major-projects-in-15-districts-over-50000-jobs-expected | Carried from verified_core_v1.json sources for CORE10 | 2026-10-25
+https://t2online.in/tech/tech-news/google-begins-construction-of--15-billion-ai-hub-in-visakhapatnam/2004855 | Carried from verified_core_v1.json sources for CORE01 | 2026-10-25
+https://technodigital.in/ | Primary/secondary citation for CORE35 | 2026-10-25
+https://tele.net.in/google-to-begin-work-on-its-data-centre-hub-in-andhra-pradesh-by-april-end | Carried from verified_core_v1.json sources for CORE01 | 2026-10-25
+https://tele.net.in/google-to-begin-work-on-its-data-centre-hub-in-andhra-pradesh-by-april-end | Carried from verified_core_v1.json sources for CORE01a | 2026-10-25
+https://tele.net.in/google-to-begin-work-on-its-data-centre-hub-in-andhra-pradesh-by-april-end | Carried from verified_core_v1.json sources for CORE01b | 2026-10-25
+https://tele.net.in/google-to-begin-work-on-its-data-centre-hub-in-andhra-pradesh-by-april-end | Carried from verified_core_v1.json sources for CORE01c | 2026-10-25
+https://tele.net.in/meta-set-to-lease-500-mw-data-centre-from-sify-in-visakhapatnam/ | Carried from verified_core_v1.json sources for CORE03 | 2026-10-25
+https://thane.nic.in/ | Government district portal search for CORE19 | 2026-10-25
+https://thane.nic.in/ | Government district portal search for CORE20 | 2026-10-25
+https://thane.nic.in/ | Government district portal search for CORE21 | 2026-10-25
+https://thane.nic.in/ | Government district portal search for CORE22 | 2026-10-25
+https://theprint.in/economy/microsoft-launches-fourth-india-cloud-region-in-hyderabad/3007553/ | Carried from verified_core_v1.json sources for CORE13 | 2026-10-25
+https://theprint.in/india/andhra-approves-green-ai-data-centre-in-visakhapatnam-with-investment-of-over-rs-30000-cr/3022441/ | Carried from verified_core_v1.json sources for CORE06 | 2026-10-25
+https://tradebrains.in/money/?p=11811 | Carried from verified_core_v1.json sources for CORE03 | 2026-10-25
+https://tradebrains.in/money/?p=11811 | Carried from verified_core_v1.json sources for CORE05 | 2026-10-25
+https://tradebrains.in/money/?p=11811 | Carried from verified_core_v1.json sources for CORE08 | 2026-10-25
+https://visakhapatnam.ap.gov.in/ | Government district portal search for CORE01 | 2026-10-25
+https://visakhapatnam.ap.gov.in/ | Government district portal search for CORE01a | 2026-10-25
+https://visakhapatnam.ap.gov.in/ | Government district portal search for CORE01b | 2026-10-25
+https://visakhapatnam.ap.gov.in/ | Government district portal search for CORE03 | 2026-10-25
+https://visakhapatnam.ap.gov.in/ | Government district portal search for CORE04 | 2026-10-25
+https://visakhapatnam.ap.gov.in/ | Government district portal search for CORE05 | 2026-10-25
+https://visakhapatnam.ap.gov.in/ | Government district portal search for CORE06 | 2026-10-25
+https://visakhapatnam.ap.gov.in/ | Government district portal search for CORE07 | 2026-10-25
+https://vizianagaram.ap.gov.in/ | Government district portal search for CORE02 | 2026-10-25
+https://vizianagaram.ap.gov.in/ | Government district portal search for CORE02a | 2026-10-25
+https://w.media/andhra-pradesh-allocates-extra-25-acres-for-sifys-500-mw-dc/ | Carried from verified_core_v1.json sources for CORE03 | 2026-10-25
+https://w.media/ctrls-signs-mou-with-telangana-govt-to-invest-rs-10000-crores-into-ai-dc-cluster/ | Carried from verified_core_v1.json sources for CORE14 | 2026-10-25
+https://w.media/google-breaks-ground-for-us-15-billion-india-ai-hub-in-vishakhapatnam/ | Carried from verified_core_v1.json sources for CORE01 | 2026-10-25
+https://w.media/meta-and-reliance-to-build-an-ai-data-center-in-jamnagar-india/ | Carried from verified_core_v1.json sources for CORE18 | 2026-10-25
+https://w.media/ntt-data-neysa-networks-and-telangana-govt-sign-mou-with-to-build-ai-dc-cluster-worth-rs-10500-crores/ | Carried from verified_core_v1.json sources for CORE16 | 2026-10-25
+https://w.media/ntt-data-neysa-networks-and-telangana-govt-sign-mou-with-to-build-ai-dc-cluster-worth-rs-10500-crores/ | Carried from verified_core_v1.json sources for CORE17 | 2026-10-25
+https://w.media/ntt-launches-500-mw-dc-campus-in-mumbai/ | Carried from verified_core_v1.json sources for CORE19 | 2026-10-25
+https://w.media/ntt-launches-500-mw-dc-campus-in-mumbai/ | Carried from verified_core_v1.json sources for CORE20 | 2026-10-25
+https://w.media/ntt-launches-500-mw-dc-campus-in-mumbai/ | Carried from verified_core_v1.json sources for CORE26 | 2026-10-25
+https://www.adaniconnex.com/newsroom/adaniconnex-opens-chennai-hyperscale-data-center | Primary/secondary citation for CORE27 | 2026-10-25
+https://www.businesstoday.in/india/story/odisha-clears-sentraforge-ais-massive-rs22634-crore-sovereign-compute-project-558006-2026-09-26 | Carried from verified_core_v1.json sources for CORE11 | 2026-10-25
+https://www.capitaland.com/en/about-capitaland/newsroom/news-releases/international/2023/may/capitaland-india-trust-forward-purchase-chennai-data-centre.html | Primary/secondary citation for CORE40 | 2026-10-25
+https://www.coltdatacentres.net/en-gb/press-releases/colt-dcs-expands-footprint-in-chennai | Primary/secondary citation for CORE39 | 2026-10-25
+https://www.communicationstoday.co.in/yottas-nvidia-gpu-push-enters-execution-phase-as-gorilla-deliveries-begin/ | Carried from verified_core_v1.json sources for CORE25 | 2026-10-25
+https://www.crnasia.com/india/news/2026/yotta-to-deploy-20-736-nvidia-blackwell-ultra-gpus-in-over-2-billion-supercluster | Carried from verified_core_v1.json sources for CORE23 | 2026-10-25
+https://www.crnasia.com/india/news/2026/yotta-to-deploy-20-736-nvidia-blackwell-ultra-gpus-in-over-2-billion-supercluster | Carried from verified_core_v1.json sources for CORE25 | 2026-10-25
+https://www.ctrls.com/press-releases/ctrls-chennai-park | Primary/secondary citation for CORE33 | 2026-10-25
+https://www.cxodigitalpulse.com/?p=62512 | Carried from verified_core_v1.json sources for CORE11 | 2026-10-25
+https://www.datacenterdynamics.com/en/news/adaniconnex-opens-33mw-data-center-in-chennai/ | Primary/secondary citation for CORE27 | 2026-10-25
+https://www.datacenterdynamics.com/en/news/capitaland-trust-to-acquire-chennai-data-center/ | Primary/secondary citation for CORE40 | 2026-10-25
+https://www.datacenterdynamics.com/en/news/colt-dcs-plans-100mw-data-center-campus-in-chennai/ | Primary/secondary citation for CORE39 | 2026-10-25
+https://www.datacenterdynamics.com/en/news/colt-rmz-look-to-develop-gigawatt-scale-data-center-campus-in-vizag-india/ | Carried from verified_core_v1.json sources for CORE07 | 2026-10-25
+https://www.datacenterdynamics.com/en/news/ctrls-breaks-ground-on-chennai-data-center-park/ | Primary/secondary citation for CORE33 | 2026-10-25
+https://www.datacenterdynamics.com/en/news/ctrls-to-build-40-acre-data-center-campus-near-hyderabad-india | Carried from verified_core_v1.json sources for CORE14 | 2026-10-25
+https://www.datacenterdynamics.com/en/news/ctrls-to-build-40-acre-data-center-campus-near-hyderabad-india | Carried from verified_core_v1.json sources for CORE17 | 2026-10-25
+https://www.datacenterdynamics.com/en/news/digital-connexion-launches-first-phase-of-maa10-data-center-in-chennai/ | Primary/secondary citation for CORE30 | 2026-10-25
+https://www.datacenterdynamics.com/en/news/google-breaks-ground-on-15bn-data-center-project-in-india/ | Carried from verified_core_v1.json sources for CORE01 | 2026-10-25
+https://www.datacenterdynamics.com/en/news/google-to-kick-off-15bn-india-data-center-project-on-april-28/ | Carried from verified_core_v1.json sources for CORE01a | 2026-10-25
+https://www.datacenterdynamics.com/en/news/google-to-kick-off-15bn-india-data-center-project-on-april-28/ | Carried from verified_core_v1.json sources for CORE01b | 2026-10-25
+https://www.datacenterdynamics.com/en/news/google-to-kick-off-15bn-india-data-center-project-on-april-28/ | Carried from verified_core_v1.json sources for CORE01c | 2026-10-25
+https://www.datacenterdynamics.com/en/news/indias-sify-breaks-ground-on-50mw-data-center-and-cable-landing-station-in-vizag/ | Carried from verified_core_v1.json sources for CORE04 | 2026-10-25
+https://www.datacenterdynamics.com/en/news/lt-launches-cloudfiniti-data-center-in-chennai/ | Primary/secondary citation for CORE34 | 2026-10-25
+https://www.datacenterdynamics.com/en/news/ntt-launches-chennai-data-center-campus/ | Primary/secondary citation for CORE28 | 2026-10-25
+https://www.datacenterdynamics.com/en/news/ntt-launches-second-noida-campus-in-india/ | Carried from verified_core_v1.json sources for CORE24 | 2026-10-25
+https://www.datacenterdynamics.com/en/news/pdg-launches-dc2-at-150mw-campus-in-mumbai-india/ | Carried from verified_core_v1.json sources for CORE21 | 2026-10-25
+https://www.datacenterdynamics.com/en/news/web-werks-iron-mountain-acquire-land-for-chennai-data-center/ | Primary/secondary citation for CORE38 | 2026-10-25
+https://www.datacenterdynamics.com/en/news/yotta-data-services-to-invest-2bn-in-20000-nvidia-blackwell-deployment-in-noida-india/ | Carried from verified_core_v1.json sources for CORE25 | 2026-10-25
+https://www.datacenterdynamics.com/en/news/yotta-to-invest-535m-in-chennai-data-center-park/ | Primary/secondary citation for CORE37 | 2026-10-25
+https://www.deccanchronicle.com/southern-states/andhra-pradesh/ap-approves-sifys-rs-15266-crore-data-centre-expansion-clears-3-other-tech-projects-1967167 | Carried from verified_core_v1.json sources for CORE03 | 2026-10-25
+https://www.deccanchronicle.com/southern-states/andhra-pradesh/ap-approves-sifys-rs-15266-crore-data-centre-expansion-clears-3-other-tech-projects-1967167 | Carried from verified_core_v1.json sources for CORE08 | 2026-10-25
+https://www.deccanherald.com/india/andhra-pradesh/andhra-pradesh-offers-rs-19k-cr-incentives-to-reliance-for-ai-data-centre-in-vizianagaram-4010759 | Carried from verified_core_v1.json sources for CORE02 | 2026-10-25
+https://www.entrepreneurindia.com/blog/en/news/adani-arm-gets-nod-for-inr-104-lakh-cr-odisha-data-centre.61199 | Carried from verified_core_v1.json sources for CORE10 | 2026-10-25
+https://www.equinix.com/newsroom/press-releases/2025/09/equinix-opens-first-data-center-in-chennai | Primary/secondary citation for CORE36 | 2026-10-25
+https://www.globaldatacenterhub.com/p/microsoft-opens-india-south-central | Carried from verified_core_v1.json sources for CORE13 | 2026-10-25
+https://www.hokkaido-np.co.jp/article/1390139/ | Carried from verified_core_v1.json sources for CORE22 | 2026-10-25
+https://www.icra.in/Rating/GetRationalReportFilePdf?id=138205 | Carried from verified_core_v1.json sources for CORE19 | 2026-10-25
+https://www.ironmountain.com/about-us/news-events/news-categories/press-releases/2023/june/iron-mountain-and-web-werks-acquire-land-in-chennai | Primary/secondary citation for CORE38 | 2026-10-25
+https://www.larsentoubro.com/press-releases/lt-inaugurates-its-first-data-center-in-kanchipuram-tamil-nadu/ | Primary/secondary citation for CORE34 | 2026-10-25
+https://www.medianama.com/2026/06/223-reliance-meta-build-a-168-mw-data-center-gujarat/ | Carried from verified_core_v1.json sources for CORE18 | 2026-10-25
+https://www.newsarenaindia.com/states/1-500-cr-sify-ai-data-centre-foundation-laid-in-vizag/59152 | Carried from verified_core_v1.json sources for CORE04 | 2026-10-25
+https://www.newsbytesapp.com/news/business/andhra-pradesh-approves-31-387cr-ai-data-center-in-visakhapatnam/story | Carried from verified_core_v1.json sources for CORE06 | 2026-10-25
+https://www.newsbytesapp.com/news/business/rmz-colt-data-centres-plan-rs177lcr-125gw-visakhapatnam-data-center/tldr | Carried from verified_core_v1.json sources for CORE07 | 2026-10-25
+https://www.nxtra.in/press-release/nxtra-chennai-large-scale-data-center | Primary/secondary citation for CORE32 | 2026-10-25
+https://www.outlookbusiness.com/start-up/deeptech/yotta-nvidia-announce-3b-deal-to-deploy-20000-blackwell-ultra-gpus | Carried from verified_core_v1.json sources for CORE25 | 2026-10-25
+https://www.ril.com/sites/default/files/2026-06/10062026_MR_Reliance_and_Meta_to_Develop_AI-Enabled_Data_Centre_in_Jamnagar_Gujarat.pdf | Carried from verified_core_v1.json sources for CORE18 | 2026-10-25
+https://www.sahi.com/news/tcs-hypervault-to-set-up-70-000-crore-ai-data-center-in-telangana-2185-PE1_COR | Carried from verified_core_v1.json sources for CORE09 | 2026-10-25
+https://www.sifytechnologies.com/investors/press-releases/sify-siruseri-expansion | Primary/secondary citation for CORE31 | 2026-10-25
+https://www.storyboard18.com/digital/google-to-break-ground-on-15-billion-data-centre-hub-in-andhra-pradesh-on-april-28-94297.htm | Carried from verified_core_v1.json sources for CORE01 | 2026-10-25
+https://www.sttgdc.in/newsroom/stt-gdc-india-chennai-expansion | Primary/secondary citation for CORE29 | 2026-10-25
+https://www.taxtmi.com/news?id=72902 | Carried from verified_core_v1.json sources for CORE02 | 2026-10-25
+https://www.thehindu.com/business/Industry/airtel-nxtra-launches-large-data-centre-in-chennai/article37894520.ece | Primary/secondary citation for CORE32 | 2026-10-25
+https://www.thehindu.com/business/Industry/equinix-launches-its-first-data-centre-in-chennai/article70068945.ece | Primary/secondary citation for CORE36 | 2026-10-25
+https://www.thehindu.com/business/Industry/stt-gdc-india-to-invest-3000-crore-in-tamil-nadu/article65658921.ece | Primary/secondary citation for CORE29 | 2026-10-25
+https://www.thehindubusinessline.com/info-tech/sify-technologies-to-invest-2500-crore-in-chennai-data-centre/article66752314.ece | Primary/secondary citation for CORE31 | 2026-10-25
+https://www.thenewsminute.com/telangana/this-decade-is-one-of-ai-tcs-unit-to-build-rs-70000-cr-data-centre-in-hyderabad | Carried from verified_core_v1.json sources for CORE15 | 2026-10-25
+https://www.theweek.in/wire-updates/national/2025/07/23/mes18-ap-meeting-sipb.html | Carried from verified_core_v1.json sources for CORE03 | 2026-10-25
+https://www.unite.ai/microsoft-brings-fourth-india-cloud-region-online-in-hyderabad/ | Carried from verified_core_v1.json sources for CORE13 | 2026-10-25
+https://yotta.com/press-releases/yotta-infrastructure-signs-mou-with-government-of-tamil-nadu-to-set-up-a-data-center-park-in-chennai-to-invest-inr-4000-crore/ | Primary/secondary citation for CORE37 | 2026-10-25
+https://bengaluruurban.nic.in/ | Search: Bengaluru Urban district portal official URL | 2026-10-25
+https://bangalorerural.nic.in/ | Search: Bengaluru Rural district portal official URL | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Prestige%20Tech%20Cloud&format=json&limit=1 | Nominatim geocoding: Prestige Tech Cloud, Navarathna Agrahara | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Khajisonnenahalli%2C%20Bengaluru&format=json&limit=1 | Nominatim geocoding: Khajisonnenahalli, Bengaluru | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Electronic%20City%20Phase%201%2C%20Bengaluru&format=json&limit=1 | Nominatim geocoding: Electronic City Phase 1, Bengaluru | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Veerasandra%2C%20Bengaluru&format=json&limit=1 | Nominatim geocoding: Veerasandra, Bengaluru | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=EPIP%20Zone%201st%20Phase%2C%20Whitefield&format=json&limit=1 | Nominatim geocoding: EPIP Zone 1st Phase, Whitefield | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=EPIP%2C%20Bengaluru&format=json&limit=1 | Nominatim geocoding: EPIP, Bengaluru | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Hoskote%20Industrial%20Area%2C%20Karnataka&format=json&limit=1 | Nominatim geocoding: Hoskote Industrial Area, Karnataka | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Cyber%20Park%2C%20Electronic%20City%2C%20Bengaluru&format=json&limit=1 | Nominatim geocoding: Cyber Park, Electronic City, Bengaluru | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Aerospace%20Park%2C%20Bengaluru&format=json&limit=1 | Nominatim geocoding: Aerospace Park, Bengaluru | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Pattandur%20Agrahara%2C%20Whitefield%2C%20Bengaluru&format=json&limit=1 | Nominatim geocoding: Pattandur Agrahara, Whitefield, Bengaluru | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Whitefield%20Main%20Road%2C%20Bengaluru&format=json&limit=1 | Nominatim geocoding: Whitefield Main Road, Bengaluru | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Whitefield%2C%20Bengaluru&format=json&limit=1 | Nominatim geocoding: Whitefield, Bengaluru | 2026-10-25
+https://www.business-standard.com/companies/news/ntt-data-unveils-bengaluru-data-centre-campus-invests-rs-2-000-crore-124061300958_1.html | Business Standard report on NTT Bengaluru 4 campus | 2026-10-25
+https://datacentersintel.com | Datacenters Intel facility reports | 2026-10-25
+https://www.sttgdc.com | STT GDC India official portal | 2026-10-25
+https://projectxindia.com | ProjectX India tracker on Sify Aerospace Park | 2026-10-25
+https://www.webwerks.in | Web Werks official launch release for BLR-1 | 2026-10-25
+https://www.clint.com.sg | CapitaLand India Trust (CLINT) annual and interim reports | 2026-10-25
+https://cushmanwakefield.com/en/india/insights/india-data-center-market-update | Cushman & Wakefield H1 2026 market update | 2026-10-25
+https://datacenters.com | Global directory of colocation data centers | 2026-10-25
+https://datacentermap.com | Global colocation and data center mapping directory | 2026-10-25
+https://pune.gov.in/ | Government district portal official URL for Pune | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Dighi%2C%20Pune&format=json&limit=1 | Nominatim geocoding: Dighi, Pune | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Hinjewadi%2C%20Pune&format=json&limit=1 | Nominatim geocoding: Hinjewadi, Pune | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Kharadi%2C%20Pune&format=json&limit=1 | Nominatim geocoding: Kharadi, Pune | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Morawadi%2C%20Pimpri%2C%20Pune&format=json&limit=1 | Nominatim geocoding: Morawadi, Pimpri, Pune | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Bhosari%2C%20Pune&format=json&limit=1 | Nominatim geocoding: Bhosari, Pune | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Hinjawadi%20Phase%202%2C%20Pune&format=json&limit=1 | Nominatim geocoding: Hinjawadi Phase 2, Pune | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Darumbre%2C%20Pune&format=json&limit=1 | Nominatim geocoding: Darumbre, Pune | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Phase%201%2C%20Hinjewadi%2C%20Pune&format=json&limit=1 | Nominatim geocoding: Phase 1, Hinjewadi, Pune | 2026-10-25
+https://www.microsoft.com | Microsoft Azure regions and availability zones portal | 2026-10-25
+https://environmentclearance.nic.in | Ministry of Environment official environmental clearance portal | 2026-10-25
+https://www.nv5.com | NV5 mission-critical engineering disclosures | 2026-10-25
+https://globaldcwiki.com | Global DC Wiki data center project tracker | 2026-10-25
+https://www.entrepreneur.com | Entrepreneur India data center expansion coverage | 2026-10-25
+https://dmsoutheast.delhi.gov.in/ | Government district portal official URL for South East Delhi | 2026-10-25
+https://gurugram.gov.in/ | Government district portal official URL for Gurugram | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Knowledge%20Park%20V%2C%20Greater%20Noida&format=json&limit=1 | Nominatim geocoding: Knowledge Park V, Greater Noida | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Sector%2062%2C%20Noida&format=json&limit=1 | Nominatim geocoding: Sector 62, Noida | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Sector%20143A%2C%20Noida&format=json&limit=1 | Nominatim geocoding: Sector 143A, Noida | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Greater%20Kailash%2C%20Delhi&format=json&limit=1 | Nominatim geocoding: Greater Kailash, Delhi | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Plot%2013%2C%20Sector%20127%2C%20Noida&format=json&limit=1 | Nominatim geocoding: Plot 13, Sector 127, Noida | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Sector%20132%2C%20Noida&format=json&limit=1 | Nominatim geocoding: Sector 132, Noida | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Sector%2081%2C%20Noida&format=json&limit=1 | Nominatim geocoding: Sector 81, Noida | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=IMT%20Manesar%2C%20Gurugram&format=json&limit=1 | Nominatim geocoding: IMT Manesar, Gurugram | 2026-10-25
+https://nominatim.openstreetmap.org/search?q=Sector%2063%2C%20Noida&format=json&limit=1 | Nominatim geocoding: Sector 63, Noida | 2026-10-25
+https://www.yotta.com | Yotta Data Services official portal | 2026-10-25
+https://up.gov.in | Government of Uttar Pradesh official portal | 2026-10-25
+https://inflect.com | Inflect global infrastructure directory | 2026-10-25
+https://www.ctrls.in/hyderabad-datacenters
+https://www.sifytechnologies.com/data-centers/hyderabad-data-center/
+https://www.sttelemediagdc.in/data-centres/hyderabad/stt-hyderabad-1
+https://www.nxtra.com/data-center-locations/hyderabad-data-center
+https://www.ironmountain.com/data-centers/locations/hyderabad-data-center
+https://www.adaniconnex.com/data-centers/hyderabad-hyd01/
+https://www.clint.com.sg/en/our-business/data-centre.html
+https://aws.amazon.com/blogs/aws/now-open-aws-asia-pacific-hyderabad-region-in-india/
+https://nominatim.openstreetmap.org/search?q=Pioneer%20Towers%2C%20Madhapur%2C%20Hyderabad&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Financial%20District%2C%20Nanakramguda&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=ISB%20Road%2C%20Nanakramguda&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=HITEC%20City%2C%20Madhapur&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Kokapet%2C%20Gandipet%20mandal&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Kondapur%2C%20Hyderabad&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Chandanvelly%2C%20Ranga%20Reddy&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=The%20V%2C%20Madhapur%2C%20Hyderabad&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Raviryal%2C%20Maheswaram%20mandal%2C%20Ranga%20Reddy&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Chandanvelly%2C%20Telangana&format=json&limit=1
+https://www.google.com/maps?q=17.4362323,78.3821998
+https://www.google.com/maps?q=17.404385,78.3417966
+https://www.google.com/maps?q=17.4237236,78.3391427
+https://www.google.com/maps?q=17.4490055,78.3831376
+https://www.google.com/maps?q=17.3948624,78.3365214
+https://www.google.com/maps?q=17.4587912,78.3730556
+https://www.google.com/maps?q=17.3033088,78.1640829
+https://www.google.com/maps?q=17.4350071,78.3848758
+https://www.google.com/maps?q=17.2164625,78.5132253
+https://www.google.com/maps?q=17.2306169,78.1709795
+https://www.nttdata.com/global/en/services/data-centers/locations/mumbai
+https://www.ctrls.com/mumbai-datacenters
+https://www.sifytechnologies.com/data-centers/mumbai-data-center/
+https://www.sttelemediagdc.in/data-centres/mumbai/stt-mumbai
+https://www.sttelemediagdc.in/data-centres/mumbai/stt-mumbai-3
+https://www.nxtra.com/data-center-locations/mumbai-data-center
+https://www.webwerks.in/mumbai-data-center
+https://www.adaniconnex.com/data-centers/navi-mumbai/
+https://www.equinix.com/data-centers/asia-pacific-colocation/india-colocation/mumbai-data-centers
+https://www.digitaledge.net/data-centers/mumbai-bom1/
+https://nominatim.openstreetmap.org/search?q=Chandivali%2C%20Mumbai&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Mahape%2C%20Navi%20Mumbai&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Rabale%2C%20Navi%20Mumbai&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Mindspace%2C%20Airoli%2C%20Navi%20Mumbai&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Millennium%20Business%20Park%2C%20Mahape%2C%20Navi%20Mumbai&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Bandra%20Kurla%20Complex%2C%20Mumbai&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Electronic%20Zone%2C%20Mahape%2C%20Navi%20Mumbai&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Rabale%20MIDC%2C%20Navi%20Mumbai&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Taloja%2C%20Panvel&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Digha%2C%20Airoli%2C%20Navi%20Mumbai&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Saki%20Vihar%20Road%2C%20Mumbai&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Airoli%2C%20Navi%20Mumbai&format=json&limit=1
+https://www.google.com/maps?q=19.1091482,72.8945793
+https://www.google.com/maps?q=19.1093012,73.0235724
+https://www.google.com/maps?q=19.1366355,73.0027824
+https://www.google.com/maps?q=19.161493,73.0021466
+https://www.google.com/maps?q=19.1089624,73.0195325
+https://www.google.com/maps?q=19.0592671,72.861326
+https://www.google.com/maps?q=19.1123024,73.0212059
+https://www.google.com/maps?q=19.1511011,72.9995356
+https://www.google.com/maps?q=19.0754826,73.0921912
+https://www.google.com/maps?q=19.1807324,72.9943751
+https://www.google.com/maps?q=19.1326946,72.8966869
+https://www.google.com/maps?q=19.1585147,72.9994019
+https://www.ctrls.com/kolkata-datacenters
+https://tele.net.in/ctrls-datacenters-unveils-new-ai-ready-data-centre-in-kolkata/
+https://www.nxtra.in
+https://nominatim.openstreetmap.org/search?q=Major%20Arterial%20Road%2C%20New%20Town%2C%20Kolkata&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Action%20Area%202%2C%20New%20Town%2C%20Kolkata&format=json&limit=1
+https://www.google.com/maps?q=22.6088686,88.4682318
+https://www.google.com/maps?q=22.5882834,88.4734476
+https://anakapalli.ap.gov.in/
+https://bangalorerural.nic.in/
+https://bengaluruurban.nic.in/
+https://chengalpattu.nic.in/
+https://chennai.nic.in/
+https://datacentermap.com
+https://datacenters.com
+https://datacentersintel.com
+https://dmsoutheast.delhi.gov.in/
+https://environmentclearance.nic.in
+https://gbnagar.nic.in/
+https://globaldcwiki.com
+https://gurugram.gov.in/
+https://inflect.com
+https://jamnagar.nic.in/
+https://kancheepuram.nic.in/
+https://lgdirectory.gov.in/
+https://nominatim.openstreetmap.org/search?q=Action%20Area%20II%2C%20New%20Town%2C%20West%20Bengal%2C%20India&format=json&addressdetails=1&limit=1
+https://nominatim.openstreetmap.org/search?q=Adavivaram%2C%20Visakhapatnam%2C%20Andhra%20Pradesh%2C%20India&format=json&addressdetails=1&limit=1
+https://nominatim.openstreetmap.org/search?q=Aerospace%20Park%2C%20Bengaluru&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Amanam%2C%20Bheemunipatnam%2C%20Visakhapatnam%2C%20Andhra%20Pradesh%2C%20India&format=json&addressdetails=1&limit=1
+https://nominatim.openstreetmap.org/search?q=Ambattur%20Industrial%20Estate%2C%20Chennai%2C%20Tamil%20Nadu%2C%20India&format=json&addressdetails=1&limit=1
+https://nominatim.openstreetmap.org/search?q=Bhogapuram%2C%20Vizianagaram%2C%20Andhra%20Pradesh%2C%20India&format=json&addressdetails=1&limit=1
+https://nominatim.openstreetmap.org/search?q=Bhosari%2C%20Pune&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Chandanvelly%2C%20Telangana%2C%20India&format=json&addressdetails=1&limit=1
+https://nominatim.openstreetmap.org/search?q=Cyber%20Park%2C%20Electronic%20City%2C%20Bengaluru&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Darumbre%2C%20Pune&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Dighe%2C%20Navi%20Mumbai%2C%20Maharashtra%2C%20India&format=json&addressdetails=1&limit=1
+https://nominatim.openstreetmap.org/search?q=Dighi%2C%20Pune&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=EPIP%20Zone%201st%20Phase%2C%20Whitefield&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=EPIP%2C%20Bengaluru&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Electronic%20City%20Phase%201%2C%20Bengaluru&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Greater%20Kailash%2C%20Delhi&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Greater%20Noida%2C%20Uttar%20Pradesh%2C%20India&format=json&addressdetails=1&limit=1
+https://nominatim.openstreetmap.org/search?q=Hinjawadi%20Phase%202%2C%20Pune&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Hinjewadi%2C%20Pune&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Hiranandani%20Fortune%20City%2C%20Panvel%2C%20Maharashtra%2C%20India&format=json&addressdetails=1&limit=1
+https://nominatim.openstreetmap.org/search?q=Hoskote%20Industrial%20Area%2C%20Karnataka&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=IMT%20Manesar%2C%20Gurugram&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Infocity%2C%20Bhubaneswar%2C%20Odisha%2C%20India&format=json&addressdetails=1&limit=1
+https://nominatim.openstreetmap.org/search?q=Jagannadhapuram%2C%20Anandapuram%2C%20Visakhapatnam%2C%20Andhra%20Pradesh%2C%20India&format=json&addressdetails=1&limit=1
+https://nominatim.openstreetmap.org/search?q=Kallikuppam%2C%20Ambattur%2C%20Chennai%2C%20Tamil%20Nadu%2C%20India&format=json&addressdetails=1&limit=1
+https://nominatim.openstreetmap.org/search?q=Khajisonnenahalli%2C%20Bengaluru&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Kharadi%2C%20Pune&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Knowledge%20Park%20V%2C%20Greater%20Noida&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Knowledge%20Park%2C%20Greater%20Noida&format=json&addressdetails=1&limit=1
+https://nominatim.openstreetmap.org/search?q=MTH%20Road%2C%20Ambattur%2C%20Chennai%2C%20Tamil%20Nadu%2C%20India&format=json&addressdetails=1&limit=1
+https://nominatim.openstreetmap.org/search?q=Mahape%2C%20Navi%20Mumbai%2C%20Maharashtra%2C%20India&format=json&addressdetails=1&limit=1
+https://nominatim.openstreetmap.org/search?q=Meerkhanpet%2C%20Kandukur%2C%20Telangana%2C%20India&format=json&addressdetails=1&limit=1
+https://nominatim.openstreetmap.org/search?q=Mindspace%2C%20Airoli%2C%20Navi%20Mumbai%2C%20Maharashtra%2C%20India&format=json&addressdetails=1&limit=1
+https://nominatim.openstreetmap.org/search?q=Morawadi%2C%20Pimpri%2C%20Pune&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Mucherla%2C%20Kandukur%2C%20Telangana%2C%20India&format=json&addressdetails=1&limit=1
+https://nominatim.openstreetmap.org/search?q=Neervallur%2C%20Kanchipuram%2C%20Tamil%20Nadu%2C%20India&format=json&addressdetails=1&limit=1
+https://nominatim.openstreetmap.org/search?q=Pattandur%20Agrahara%2C%20Whitefield%2C%20Bengaluru&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Pattravakkam%2C%20Chennai%2C%20Tamil%20Nadu%2C%20India&format=json&addressdetails=1&limit=1
+https://nominatim.openstreetmap.org/search?q=Phase%201%2C%20Hinjewadi%2C%20Pune&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Plot%2013%2C%20Sector%20127%2C%20Noida&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Prestige%20Tech%20Cloud&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Rambilli%2C%20Anakapalli%2C%20Andhra%20Pradesh%2C%20India&format=json&addressdetails=1&limit=1
+https://nominatim.openstreetmap.org/search?q=Sector%20132%2C%20Noida&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Sector%20143A%2C%20Noida&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Sector%2062%2C%20Noida&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Sector%2063%2C%20Noida&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Sector%2081%2C%20Noida&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Siruseri%2C%20Tamil%20Nadu%2C%20India&format=json&addressdetails=1&limit=1
+https://nominatim.openstreetmap.org/search?q=Tarluvada%2C%20Visakhapatnam%2C%20Andhra%20Pradesh%2C%20India&format=json&addressdetails=1&limit=1
+https://nominatim.openstreetmap.org/search?q=Vadakkupattu%2C%20Kanchipuram%2C%20Tamil%20Nadu%2C%20India&format=json&addressdetails=1&limit=1
+https://nominatim.openstreetmap.org/search?q=Veerasandra%2C%20Bengaluru&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Whitefield%20Main%20Road%2C%20Bengaluru&format=json&limit=1
+https://nominatim.openstreetmap.org/search?q=Whitefield%2C%20Bengaluru&format=json&limit=1
+https://north24parganas.gov.in/
+https://projectxindia.com
+https://pune.gov.in/
+https://raigad.gov.in/
+https://rangareddy.telangana.gov.in/administrative-setup/
+https://services.global.ntt
+https://thane.nic.in/
+https://up.gov.in
+https://visakhapatnam.ap.gov.in/
+https://vizianagaram.ap.gov.in/
+https://w.media
+https://www.adaniconnex.com
+https://www.business-standard.com/companies/news/ntt-data-unveils-bengaluru-data-centre-campus-invests-rs-2-000-crore-124061300958_1.html
+https://www.capitaland.com
+https://www.clint.com.sg
+https://www.ctrls.com
+https://www.datacenterdynamics.com
+https://www.entrepreneur.com
+https://www.google.com/maps?q=12.808548,79.9391033
+https://www.google.com/maps?q=12.8367655,80.2034315
+https://www.google.com/maps?q=12.8378245,77.6636835
+https://www.google.com/maps?q=12.8395869,77.672764
+https://www.google.com/maps?q=12.8471839,77.6707326
+https://www.google.com/maps?q=12.9100864,79.7875244
+https://www.google.com/maps?q=12.9743549,77.750495
+https://www.google.com/maps?q=12.9781922,77.7246451
+https://www.google.com/maps?q=12.9853138,77.7070873
+https://www.google.com/maps?q=12.9876393,77.7377718
+https://www.google.com/maps?q=12.9957428,77.7579489
+https://www.google.com/maps?q=13.0340422,77.7696385
+https://www.google.com/maps?q=13.0945178,80.1691544
+https://www.google.com/maps?q=13.1110071,80.1603434
+https://www.google.com/maps?q=13.1117002,80.1532008
+https://www.google.com/maps?q=13.1186955,77.8278246
+https://www.google.com/maps?q=13.1331405,80.1701786
+https://www.google.com/maps?q=13.1928473,77.6444947
+https://www.google.com/maps?q=13.2229369,77.7710374
+https://www.google.com/maps?q=17.0143353,78.5162915
+https://www.google.com/maps?q=17.0467451,78.5753905
+https://www.google.com/maps?q=17.4654942,82.9285851
+https://www.google.com/maps?q=17.7821934,83.2659484
+https://www.google.com/maps?q=17.9055782,83.329021
+https://www.google.com/maps?q=17.9254808,83.3408229
+https://www.google.com/maps?q=17.958669,83.4569762
+https://www.google.com/maps?q=18.0321195,83.4978188
+https://www.google.com/maps?q=18.5512763,73.9416575
+https://www.google.com/maps?q=18.5920497,73.7579029
+https://www.google.com/maps?q=18.5938279,73.7079111
+https://www.google.com/maps?q=18.5941678,73.7388318
+https://www.google.com/maps?q=18.6210093,73.8501298
+https://www.google.com/maps?q=18.6227121,73.8738776
+https://www.google.com/maps?q=18.6320183,73.8032404
+https://www.google.com/maps?q=18.6504513,73.6853763
+https://www.google.com/maps?q=18.9134661,73.1947847
+https://www.google.com/maps?q=19.1748798,72.9983222
+https://www.google.com/maps?q=20.3429017,85.8102711
+https://www.google.com/maps?q=22.6129078,88.4665536
+https://www.google.com/maps?q=28.3671851,76.920669
+https://www.google.com/maps?q=28.4569945,77.5001973
+https://www.google.com/maps?q=28.4607535,77.4630541
+https://www.google.com/maps?q=28.4670734,77.5137649
+https://www.google.com/maps?q=28.4990448,77.4293379
+https://www.google.com/maps?q=28.5117059,77.3767844
+https://www.google.com/maps?q=28.5340703,77.3492805
+https://www.google.com/maps?q=28.5419077,77.2384925
+https://www.google.com/maps?q=28.5492993,77.3899489
+https://www.google.com/maps?q=28.6120749,77.3778122
+https://www.google.com/maps?q=28.6211447,77.3643493
+https://www.ironmountain.com
+https://www.larsentoubro.com
+https://www.microsoft.com
+https://www.nv5.com
+https://www.sifytechnologies.com
+https://www.sttgdc.com
+https://www.webwerks.in
+https://www.yotta.com

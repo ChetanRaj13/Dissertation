@@ -1,0 +1,64 @@
+# Reconciliation, Sensitivity Re-Run, and Updated Energy Matching
+
+Both primary datasets have been updated on disk to incorporate all requested corrections:
+- **Updated State Energy Scoring:** [energy_scores_all_states_v1.csv](file:///c:/Users/rajch/Desktop/SEM%207/Dissertation/DATA/ENERGY/energy_scores_all_states_v1.csv) (Mirror: [root copy](file:///c:/Users/rajch/Desktop/SEM%207/Dissertation/energy_scores_all_states_v1.csv))
+- **Updated District Energy Matching:** [district_energy_matching_v1.csv](file:///c:/Users/rajch/Desktop/SEM%207/Dissertation/district_energy_matching_v1.csv) (Mirror: [data copy](file:///c:/Users/rajch/Desktop/SEM%207/Dissertation/DATA/ENERGY/district_energy_matching_v1.csv))
+
+---
+
+## 1. Page 39 Verification: Odisha, Chhattisgarh, Haryana, and Delhi
+
+From the Central Electricity Authority (CEA) *Executive Summary on Power Sector (February 2026)*, Page 39 (*"Peak Power Supply Position Report (Revised) for April, 2025 to February, 2026"*), the exact text blocks and data entries are as follows:
+
+### Exact Page Text Transcriptions (Page 39)
+
+```text
+Section Header:
+अविकतम मांग  अविकतम उपलक्कब्ध  मांग की पूवता मे कमी (Demand not Met)
+Peak Demand  Peak Met        (MW)  (%)
+( MW )       ( MW )
+
+[Line 26-34]
+वदल्ली / Delhi
+फ़रवरी, 2026 (February, 2026):
+  Peak Demand: 5,452 | Peak Met: 5,452 | Demand not Met: 0 | 0%
+अप्रैल, 2025 - फ़रवरी, 2026 (April, 2025 to February, 2026):
+  Peak Demand: 8,442 | Peak Met: 8,442 | Demand not Met: 0 | 0%
+
+[Line 35-43]
+हररयाणा / Haryana
+फ़रवरी, 2026 (February, 2026):
+  Peak Demand: 9,621 | Peak Met: 9,621 | Demand not Met: 0 | 0%
+अप्रैल, 2025 - फ़रवरी, 2026 (April, 2025 to February, 2026):
+  Peak Demand: 14,084 | Peak Met: 14,084 | Demand not Met: 0 | 0%
+
+[Line 117-125]
+छत्तीसगढ़ / Chhattisgarh
+फ़रवरी, 2026 (February, 2026):
+  Peak Demand: 6,282 | Peak Met: 6,2
+<truncated 11747 bytes>
+tegrated Rating & Ranking of Power Distribution Utilities* (Pages 30–33):
+- **PVVNL (UP):** Grade `A+` (Score: 86.57, Table IV Rank 6)
+- **NPCL (UP):** Grade `A+` (Score: 96.18, Table II Rank 7)
+- **AEML (Maharashtra):** Grade `A+` (Score: 99.75, Table II Rank 3)
+- **BEST (Maharashtra):** Grade `A+` (Score: 95.95, Table III Rank 2)
+- **MSEDCL (Maharashtra):** Grade `C` (Score: 16.63, Table IV Rank 37, attracted Red Card metric )
+- **Torrent Power Ahmedabad (Gujarat):** Grade `A+` (Score: 100.00, Table II Rank 1)
+- **UGVCL (Gujarat):** Grade `A+` (Score: 98.94, Table IV Rank 1)
+- **PGVCL (Gujarat):** Grade `A+` (Score: 95.74, Table IV Rank 4)
+- **DHBVNL (Haryana):** Grade `A` (Score: 74.44, Table IV Rank 9)
+- **UHBVNL (Haryana):** Grade `A` (Score: 66.32, Table IV Rank 13)
+- **BESCOM (Karnataka):** Grade `C-` (Score: 12.44, Table IV Rank 39, attracted Red Card metric )
+- **TNPDCL (Tamil Nadu):** Grade `B-` (Score: 43.92, Table IV Rank 27, attracted Red Card metric )
+- **TGSPDCL (Telangana):** Grade `C-` (Score: 11.84, Table IV Rank 40)
+- **APEPDCL (Andhra Pradesh):** Grade `B` (Score: 50.46, Table IV Rank 23, attracted Red Card metric )
+- **APCPDCL (Andhra Pradesh):** Grade `B` (Score: 65.00, Table IV Rank 15, attracted Red Card metric )
+- **SBPDCL (Bihar):** Grade `A` (Score: 67.37, Table IV Rank 12)
+- **CSPDCL (Chhattisgarh):** Grade `A` (Score: 70.40, Table IV Rank 11)
+- **MPPaKVVCL (Madhya Pradesh):** Grade `A` (Score: 71.85, Table IV Rank 10)
+- **WBSEDCL (West Bengal):** Grade `A` (Score: 65.39, Table IV Rank 14)
+- **BRPL (Delhi):** Grade `B-#` (Score: 70.24, Table II Rank 33, grade override due to regulatory asset disincentive `#`)
+- **TPCODL (Odisha):** Grade `A+` (Score: 93.00, Table II Rank 10)
+- **Tata Power Mumbai (TPC-D):** `NOT RATED` (Page 24: segregated accounts for distribution business not available)
+- **CESC Limited (West Bengal):** `NOT RATED` (Page 24: did not participate in rating exercise)
+- **GIFT Power Company Limited (GIFTPCL):** `NOT RATED` (Not evaluated in PFC exercise)

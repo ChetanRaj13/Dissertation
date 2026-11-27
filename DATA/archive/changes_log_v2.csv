@@ -1,0 +1,50 @@
+﻿id,field,old_value,new_value,reason,evidence_url,source_tier,date_checked
+DC004,source,[P] https://services.global.ntt (accessed 2026-10-23) ; [P] https://peeringdb.com/fac/8796 (accessed 2026-10-23),"[P] https://services.global.ntt (accessed 2026-10-24) ; [P] TIA-942 Compliance Audit Certification (tiaonline.org, accessed 2026-10-24)",Re-anchored from PeeringDB to primary TIA-942 certification and NTT official disclosures,https://tiaonline.org,[P],2026-10-24
+DC008,latitude,19.111,19.101235,Re-anchored to primary acquisition of Plot 50/2 TTC Industrial Area; eliminated proximity collision,https://sttgdc.in,[P],2026-10-24
+DC008,longitude,73.018,73.017842,Re-anchored to primary acquisition of Plot 50/2 TTC Industrial Area; eliminated proximity collision,https://sttgdc.in,[P],2026-10-24
+DC008,coordinates_lat_long,"19.111000, 73.018000","19.101235, 73.017842",Updated 6-decimal coordinates,https://sttgdc.in,[P],2026-10-24
+DC009,location_precision,Exact site,Locality or industrial area,Downgraded tier: greenfield 2.15-ac parcel under construction; exact boundary unconfirmed on satellite,https://digitalconnexion.com,[P],2026-10-24
+DC030,latitude,13.10522,13.1028,Re-located to western Ambattur Estate corridor; resolved 261m proximity collision with CtrlS DC027,https://coltdatacentres.net,[P],2026-10-24
+DC030,longitude,80.16421,80.1585,Re-located to western Ambattur Estate corridor; resolved 261m proximity collision with CtrlS DC027,https://coltdatacentres.net,[P],2026-10-24
+DC030,location_precision,Exact site,Locality or industrial area,"Downgraded: 10-acre site announced in Ambattur Estate, but specific survey number not disclosed",https://coltdatacentres.net,[P],2026-10-24
+DC031,location_precision,Plot or village,Exact site,Upgraded to Exact site: 4.01-acre Pattravakkam Road parcel boundary verified,https://capitaland.com,[P],2026-10-24
+DC045,operational_mw,50,,AWS non-disclosure policy: eliminated ungrounded 50 MW split from 670 MW commitment,https://aws.amazon.com,[P],2026-10-24
+DC045,capacity_basis,Facility/grid load,,Capacity basis blanked in absence of primary MW disclosure,https://aws.amazon.com,[P],2026-10-24
+DC046,operational_mw,50,,AWS non-disclosure policy: eliminated ungrounded 50 MW split from 670 MW commitment,https://aws.amazon.com,[P],2026-10-24
+DC046,capacity_basis,Facility/grid load,,Capacity basis blanked in absence of primary MW disclosure,https://aws.amazon.com,[P],2026-10-24
+DC052,true_development_status,"Approved, not started",Announced or MoU only,Sourced to formal MoU signed in Jan 2025 between Telangana Govt and STT GDC in Singapore,https://sttgdc.com,[P],2026-10-24
+DC052,status_operational,Not operational,Announced or MoU only,Updated to match true_development_status,https://sttgdc.com,[P],2026-10-24
+DC054,cooling,Desalinated seawater and closed-loop liquid cooling planned,Water-cooled chiller system proposed; state water tariff subsidy granted (AP GO Ms No. 30); specific water source not confirmed / not disclosed,Removed unverified captive seawater desalination claim; aligned with AP GO Ms No. 30,https://apedb.gov.in,[P],2026-10-24
+DC055,cooling,Liquid cooling and closed-loop chilled water designed for high-density AI accelerators,Direct liquid-to-chip and closed-loop evaporative cooling; seawater cooling proposed in conceptual master plan; not yet commissioned,Calibrated seawater cooling claim: proposed in master plan but not commissioned,https://thehindu.com,[S],2026-10-24
+DC057,cooling,Closed-loop chilled water and liquid cooling ready,Not disclosed (closed-loop chilled water claimed in preliminary master plan),Removed unsupported seawater desalination claim; set to Not disclosed,https://adaniconnex.com,[P],2026-10-24
+DC061,location_precision,Rooftop / building centroid,Exact site,Relabeled non-standard tier to allowed schema tier Exact site (building boundary verified on satellite),[P] https://yotta.com (accessed 2026-10-23) ; [S] https://datacenterdynamics.com (accessed 2026-10-23),[P],2026-10-24
+DC063,location_precision,Rooftop / building centroid,Exact site,Relabeled non-standard tier to allowed schema tier Exact site (Plot C-20/1A/10 Sector 62 boundary verified),[P] https://www.adaniconnex.com (accessed 2026-10-23) ; [S] https://datacentermap.com (accessed 2026-10-23),[P],2026-10-24
+DC064,latitude,28.6125,28.5352,"Re-located from Sector 62 collision pin to true campus site at Plot B-192, Sector 81",https://nxtra.in,[P],2026-10-24
+DC064,longitude,77.3601,77.4104,"Re-located from Sector 62 collision pin to true campus site at Plot B-192, Sector 81",https://nxtra.in,[P],2026-10-24
+DC064,location_precision,Locality or industrial area,Exact site,Upgraded to Exact site based on verified plot address,https://nxtra.in,[P],2026-10-24
+DC064,true_development_status,Under construction,Partially operational,Corrected Rule 7 violation: 4.5 MW initial block is live while remaining 35.5 MW is under construction,https://nxtra.in,[P],2026-10-24
+DC065,location_precision,Rooftop / building centroid,Exact site,Relabeled non-standard tier to allowed schema tier Exact site (building boundary verified on satellite),[P] https://www.ctrls.com (accessed 2026-10-23) ; [S] https://peeringdb.com (accessed 2026-10-23),[P],2026-10-24
+DC068,location_precision,Rooftop / building centroid,Exact site,Relabeled non-standard tier to allowed schema tier Exact site (building boundary verified on satellite),[P] https://www.sifytechnologies.com (accessed 2026-10-23) ; [S] https://peeringdb.com (accessed 2026-10-23),[P],2026-10-24
+DC070,facility_name,Reliance Jamnagar Green AI Data Center Hub,Reliance Jamnagar Green AI Data Center Campus,Disaggregated 3 GW master plan from 168 MW Meta facility,https://ril.com,[P],2026-10-24
+DC070,planned_ultimate_mw,1000,3000,Updated to reflect Reliance 3 GW master plan announcement,https://ril.com,[P],2026-10-24
+DC071,workload_class,"[Hyperscale, Enterprise Cloud, AI-ready]","[Colocation, Enterprise Cloud]","Removed Hyperscale tag: 9.2 MW Rated-4 facility engineered for BFSI/fintech colocation, not hyperscale cloud",https://ctrls.com,[P],2026-10-24
+DC072,latitude,22.5894,22.5925,Re-anchored to WBHIDCO Plot SV-36 / SV-5 (7.5 acres) on Street 1111; resolved proximity collision,https://bengalsiliconvalley.in,[P],2026-10-24
+DC072,longitude,88.4748,88.4728,Re-anchored to WBHIDCO Plot SV-36 / SV-5 (7.5 acres) on Street 1111; resolved proximity collision,https://bengalsiliconvalley.in,[P],2026-10-24
+DC072,operational_mw,0,6.0,Commercial launch confirmed Feb 2025 with 6.0 MW IT load in first building,https://w.media,[S],2026-10-24
+DC072,true_development_status,Under construction,Partially operational,Updated from Under construction to Partially operational,https://w.media,[S],2026-10-24
+DC073,latitude,22.589,22.5891,Re-anchored to 2.85-acre parcel on Street 706 / SV-19; resolved collision,https://bengalsiliconvalley.in,[P],2026-10-24
+DC073,longitude,88.4752,88.4782,Re-anchored to 2.85-acre parcel on Street 706 / SV-19; resolved collision,https://bengalsiliconvalley.in,[P],2026-10-24
+DC074,latitude,22.5885,22.5842,Re-anchored to 5.6-acre site in Action Area II; resolved collision,https://bengalsiliconvalley.in,[P],2026-10-24
+DC074,longitude,88.4735,88.4715,Re-anchored to 5.6-acre site in Action Area II; resolved collision,https://bengalsiliconvalley.in,[P],2026-10-24
+DC075,latitude,22.587,22.5785,Re-anchored to 51.75-acre southern anchor park in Bengal Silicon Valley; resolved collision,https://bengalsiliconvalley.in,[P],2026-10-24
+DC075,longitude,88.476,88.4765,Re-anchored to 51.75-acre southern anchor park in Bengal Silicon Valley; resolved collision,https://bengalsiliconvalley.in,[P],2026-10-24
+DC080,location_precision,Rooftop / building centroid,Exact site,Relabeled non-standard tier to allowed schema tier Exact site (building boundary verified on satellite),[P] https://www.sttelemediagdc.in (accessed 2026-10-23) ; [S] https://peeringdb.com (accessed 2026-10-23),[P],2026-10-24
+DC070A,NEW_ROW,,Reliance-Meta Jamnagar AI Facility,Added verified facility based on Stage 4 review,https://www.ril.com (accessed 2026-10-24),[P],2026-10-24
+DC081,NEW_ROW,,AWS India Cloud Infrastructure Expansion Programme,Added verified facility based on Stage 4 review,https://press.aboutamazon.com (accessed 2026-10-24),[P],2026-10-24
+DC082,NEW_ROW,,Google Cloud AI Hub - Adavivaram-Mudasarlova Campus,Added verified facility based on Stage 4 review,APIIC Land Allotment Orders (accessed 2026-10-24),[P],2026-10-24
+DC083,NEW_ROW,,Sify Vizag Hyperscale Campus (Paradesipalem),Added verified facility based on Stage 4 review,Andhra Pradesh State Investment Promotion Board (SIPB) Minutes (accessed 2026-10-24),[P],2026-10-24
+DC084,NEW_ROW,,Digital Connexion Vizag AI Campus,Added verified facility based on Stage 4 review,Andhra Pradesh Economic Development Board (APEDB) MoU (accessed 2026-10-24),[P],2026-10-24
+DC085,NEW_ROW,,RMZ-Colt DCS Vizag Hyperscale Campus,Added verified facility based on Stage 4 review,AP State Investment Promotion Committee (SIPC) Clearance (accessed 2026-10-24),[P],2026-10-24
+DC086,NEW_ROW,,Anant Raj Cloud Vizag Campus,Added verified facility based on Stage 4 review,BSE/NSE Corporate Announcement Anant Raj Ltd (accessed 2026-10-24),[P],2026-10-24
+DC087,NEW_ROW,,Airtel Nxtra Mumbai Hyperscale Campus (MUM 3 & MUM 4),Added verified facility based on Stage 4 review,https://www.nxtra.in (accessed 2026-10-24),[P],2026-10-24
+DC088,NEW_ROW,,NTT Navi Mumbai 2 Campus (NAV2),Added verified facility based on Stage 4 review,"ICRA Credit Rating Rationale (icra.in, accessed 2026-10-24)",[P],2026-10-24

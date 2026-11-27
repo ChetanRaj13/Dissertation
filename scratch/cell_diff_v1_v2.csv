@@ -1,0 +1,90 @@
+state,column,old_value,new_value
+Andhra Pradesh,jjm_rural_tap_coverage_pct,76.49,76.65
+Andhra Pradesh,jjm_equity_category,Moderate,Moderate (75-90%) [new proposed band]
+Andhra Pradesh,jjm_as_of_date,28 Oct 2026,25 Nov 2026
+Andhra Pradesh,jjm_rural_households_with_tap,7307699,7323068
+Andhra Pradesh,source_jjm,"JJM Official State Report (Andhra Pradesh (Jal jeevan - Tap Water).pdf, as on 28 Oct 2026); live dashboard: 76.65% (25 Nov 2026)","JJM Dashboard (ejalshakti.gov.in/jjmreport/JJMIndia.aspx/Bind_table_graph, accessed 25 Nov 2026)"
+Maharashtra,jjm_rural_tap_coverage_pct,90.64,90.65
+Maharashtra,jjm_equity_category,Saturated,Saturated (>90%) [new proposed band]
+Maharashtra,jjm_as_of_date,28 Oct 2026,25 Nov 2026
+Maharashtra,jjm_rural_households_with_tap,13303682,13304926
+Maharashtra,source_jjm,"JJM Official State Report (FHTCDataTable (6).pdf, as on 28 Oct 2026); live dashboard: 90.65% (25 Nov 2026)","JJM Dashboard (ejalshakti.gov.in/jjmreport/JJMIndia.aspx/Bind_table_graph, accessed 25 Nov 2026)"
+Tamil Nadu,jjm_rural_tap_coverage_pct,92.31,92.54
+Tamil Nadu,jjm_equity_category,Saturated,Saturated (>90%) [new proposed band]
+Tamil Nadu,jjm_as_of_date,28 Oct 2026,25 Nov 2026
+Tamil Nadu,jjm_rural_households_total,12522190,12522219
+Tamil Nadu,jjm_rural_households_with_tap,11559057,11587640
+Tamil Nadu,source_jjm,"JJM Official State Report (FHTCDataTable (8).pdf, as on 28 Oct 2026); live dashboard: 92.54% (25 Nov 2026)","JJM Dashboard (ejalshakti.gov.in/jjmreport/JJMIndia.aspx/Bind_table_graph, accessed 25 Nov 2026)"
+Gujarat,jjm_equity_category,Saturated,Saturated (>90%) [new proposed band]
+Gujarat,jjm_as_of_date,28 Oct 2026,25 Nov 2026
+Gujarat,source_jjm,"JJM Official State Report (FHTCDataTable (2).pdf, as on 28 Oct 2026); live dashboard: 100.00% (25 Nov 2026)","JJM Dashboard (ejalshakti.gov.in/jjmreport/JJMIndia.aspx/Bind_table_graph, accessed 25 Nov 2026)"
+Uttar Pradesh,water_score,2,1
+Uttar Pradesh,water_stress_category,Semi-Critical,Safe
+Uttar Pradesh,jjm_rural_tap_coverage_pct,92.45,92.53
+Uttar Pradesh,jjm_equity_category,Saturated,Saturated (>90%) [new proposed band]
+Uttar Pradesh,jjm_as_of_date,28 Oct 2026,25 Nov 2026
+Uttar Pradesh,jjm_rural_households_total,26719885,26719868
+Uttar Pradesh,jjm_rural_households_with_tap,24702251,24724992
+Uttar Pradesh,source_jjm,"JJM Official State Report (FHTCDataTable (10).pdf, as on 28 Oct 2026); live dashboard: 92.53% (25 Nov 2026)","JJM Dashboard (ejalshakti.gov.in/jjmreport/JJMIndia.aspx/Bind_table_graph, accessed 25 Nov 2026)"
+Madhya Pradesh,jjm_rural_tap_coverage_pct,75.36,75.41
+Madhya Pradesh,jjm_equity_category,Moderate,Moderate (75-90%) [new proposed band]
+Madhya Pradesh,jjm_as_of_date,28 Oct 2026,25 Nov 2026
+Madhya Pradesh,jjm_rural_households_total,11103115,11100824
+Madhya Pradesh,jjm_rural_households_with_tap,8367166,8370652
+Madhya Pradesh,source_jjm,"JJM Official State Report (FHTCDataTable (5).pdf, as on 28 Oct 2026); live dashboard: 75.41% (25 Nov 2026)","JJM Dashboard (ejalshakti.gov.in/jjmreport/JJMIndia.aspx/Bind_table_graph, accessed 25 Nov 2026)"
+Telangana,jjm_equity_category,Saturated,Saturated (>90%) [new proposed band]
+Telangana,jjm_as_of_date,28 Oct 2026,25 Nov 2026
+Telangana,source_jjm,"JJM Official State Report (FHTCDataTable (9).pdf, as on 28 Oct 2026); live dashboard: 100.00% (25 Nov 2026)","JJM Dashboard (ejalshakti.gov.in/jjmreport/JJMIndia.aspx/Bind_table_graph, accessed 25 Nov 2026)"
+Karnataka,jjm_rural_tap_coverage_pct,89.78,90.03
+Karnataka,jjm_equity_category,Moderate,Saturated (>90%) [new proposed band]
+Karnataka,jjm_as_of_date,28 Oct 2026,25 Nov 2026
+Karnataka,jjm_rural_households_total,10110743,10109355
+Karnataka,jjm_rural_households_with_tap,9076937,9101596
+Karnataka,source_jjm,"JJM Official State Report (FHTCDataTable (4).pdf, as on 28 Oct 2026); live dashboard: 90.03% (25 Nov 2026)","JJM Dashboard (ejalshakti.gov.in/jjmreport/JJMIndia.aspx/Bind_table_graph, accessed 25 Nov 2026)"
+West Bengal,jjm_rural_tap_coverage_pct,56.94,57.0
+West Bengal,jjm_equity_category,Tap-deprived,Tap-deprived (<75%) [new proposed band]
+West Bengal,jjm_as_of_date,28 Oct 2026,25 Nov 2026
+West Bengal,jjm_rural_households_with_tap,9992439,10004003
+West Bengal,source_jjm,"JJM Official State Report (FHTCDataTable (11).pdf, as on 28 Oct 2026); live dashboard: 57.00% (25 Nov 2026)","JJM Dashboard (ejalshakti.gov.in/jjmreport/JJMIndia.aspx/Bind_table_graph, accessed 25 Nov 2026)"
+Bihar,jjm_equity_category,Saturated,Saturated (>90%) [new proposed band]
+Bihar,jjm_as_of_date,28 Oct 2026,25 Nov 2026
+Bihar,source_jjm,"JJM Official State Report (FHTCDataTable.pdf, as on 28 Oct 2026); live dashboard: 95.71% (25 Nov 2026)","JJM Dashboard (ejalshakti.gov.in/jjmreport/JJMIndia.aspx/Bind_table_graph, accessed 25 Nov 2026)"
+Chhattisgarh,jjm_rural_tap_coverage_pct,84.25,84.41
+Chhattisgarh,jjm_equity_category,Moderate,Moderate (75-90%) [new proposed band]
+Chhattisgarh,jjm_as_of_date,28 Oct 2026,25 Nov 2026
+Chhattisgarh,jjm_rural_households_total,4994661,4994270
+Chhattisgarh,jjm_rural_households_with_tap,4207846,4215867
+Chhattisgarh,source_jjm,"JJM Official State Report (FHTCDataTable (1).pdf, as on 28 Oct 2026); live dashboard: 84.41% (25 Nov 2026)","JJM Dashboard (ejalshakti.gov.in/jjmreport/JJMIndia.aspx/Bind_table_graph, accessed 25 Nov 2026)"
+Delhi,jjm_equity_category,NOT APPLICABLE,NOT APPLICABLE (not reported by the JJM dashboard)
+Delhi,source_jjm,NOT APPLICABLE (Delhi is a 100% urban Union Territory; JJM evaluates rural households only),NOT APPLICABLE (not reported by the JJM dashboard)
+Haryana,jjm_equity_category,Saturated,Saturated (>90%) [new proposed band]
+Haryana,jjm_as_of_date,28 Oct 2026,25 Nov 2026
+Haryana,source_jjm,"JJM Official State Report (FHTCDataTable (3).pdf, as on 28 Oct 2026); live dashboard: 100.00% (25 Nov 2026)","JJM Dashboard (ejalshakti.gov.in/jjmreport/JJMIndia.aspx/Bind_table_graph, accessed 25 Nov 2026)"
+Odisha,jjm_rural_tap_coverage_pct,78.0,78.1
+Odisha,jjm_equity_category,Moderate,Moderate (75-90%) [new proposed band]
+Odisha,jjm_as_of_date,28 Oct 2026,25 Nov 2026
+Odisha,jjm_rural_households_total,8857159,8856503
+Odisha,jjm_rural_households_with_tap,6908791,6916851
+Odisha,source_jjm,"JJM Official State Report (FHTCDataTable (7).pdf, as on 28 Oct 2026); live dashboard: 78.10% (25 Nov 2026)","JJM Dashboard (ejalshakti.gov.in/jjmreport/JJMIndia.aspx/Bind_table_graph, accessed 25 Nov 2026)"
+Arunachal Pradesh,jjm_equity_category,Saturated,Saturated (>90%) [new proposed band]
+Assam,jjm_equity_category,Moderate,Moderate (75-90%) [new proposed band]
+Chandigarh,jjm_equity_category,NOT APPLICABLE,NOT APPLICABLE (not reported by the JJM dashboard)
+Chandigarh,source_jjm,NOT APPLICABLE (Chandigarh is a 100% urban Union Territory; JJM evaluates rural households only),NOT APPLICABLE (not reported by the JJM dashboard)
+Dadra & Nagar Haveli and Daman & Diu,jjm_equity_category,Saturated,Saturated (>90%) [new proposed band]
+Goa,jjm_equity_category,Saturated,Saturated (>90%) [new proposed band]
+Himachal Pradesh,jjm_equity_category,Saturated,Saturated (>90%) [new proposed band]
+Jharkhand,jjm_equity_category,Tap-deprived,Tap-deprived (<75%) [new proposed band]
+Kerala,jjm_equity_category,Tap-deprived,Tap-deprived (<75%) [new proposed band]
+Manipur,jjm_equity_category,Moderate,Moderate (75-90%) [new proposed band]
+Meghalaya,jjm_equity_category,Moderate,Moderate (75-90%) [new proposed band]
+Mizoram,jjm_equity_category,Saturated,Saturated (>90%) [new proposed band]
+Nagaland,jjm_equity_category,Saturated,Saturated (>90%) [new proposed band]
+Puducherry,jjm_equity_category,Saturated,Saturated (>90%) [new proposed band]
+Punjab,jjm_equity_category,Saturated,Saturated (>90%) [new proposed band]
+Rajasthan,jjm_equity_category,Tap-deprived,Tap-deprived (<75%) [new proposed band]
+Sikkim,jjm_equity_category,Saturated,Saturated (>90%) [new proposed band]
+Tripura,jjm_equity_category,Moderate,Moderate (75-90%) [new proposed band]
+UT of J&K and Ladakh,jjm_equity_category,Moderate,Moderate (75-90%) [new proposed band]
+Uttarakhand,jjm_equity_category,Saturated,Saturated (>90%) [new proposed band]
+Andaman & Nicobar,jjm_equity_category,Saturated,Saturated (>90%) [new proposed band]
+Lakshadweep,jjm_equity_category,Saturated,Saturated (>90%) [new proposed band]
